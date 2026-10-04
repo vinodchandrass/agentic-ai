@@ -1,0 +1,13 @@
+﻿field,value
+v2d_unique_input,399
+existing_indexed_master,1024
+v2d_overlap_with_master,62
+v2d_only_new_records,337
+union_if_all_v2d_only_added,1361
+v2d_only_priority_counts,"{""C_RECALL_PROTECTION"": 280, ""B_REPAIR_MEDIUM"": 54, ""A_REPAIR_HIGH"": 3}"
+repair_sentinels_retrieved,3
+repair_sentinels_already_in_1024_master,0
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,"Enrich/screen V2D-only records, beginning with A_REPAIR_HIGH and B_REPAIR_MEDIUM. Do not add all V2D-only records to the eligible corpus automatically."

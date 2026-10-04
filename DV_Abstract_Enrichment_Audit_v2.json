@@ -1,0 +1,29 @@
+{
+  "pipeline": "Decision Validity Abstract Enrichment v2",
+  "timestamp_utc": "2026-10-01T15:06:31.088892+00:00",
+  "candidate_input_records": 188,
+  "novelty_review_input_records": 72,
+  "combined_before_dedup": 260,
+  "unique_union_after_dedup": 252,
+  "records_with_abstract": 151,
+  "unresolved_records": 101,
+  "abstract_source_counts": {
+    "OPENALEX": 151,
+    "UNRESOLVED": 101
+  },
+  "doi_disagreements": 0,
+  "scopus_abstract_retrieval_disabled": true,
+  "source_priority": [
+    "Scopus Abstract Retrieval",
+    "OpenAlex DOI",
+    "Crossref DOI"
+  ],
+  "synthetic_abstracts": false,
+  "eligibility_decisions": "NONE",
+  "outputs": {
+    "enriched_master": "DV_Abstract_Enriched_Master_v2.csv",
+    "unresolved": "DV_Abstract_Unresolved_v2.csv",
+    "cache": "DV_Abstract_Enrichment_Cache_v2.json"
+  },
+  "corpus_status": "NOT_FROZEN"
+}

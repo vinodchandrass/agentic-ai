@@ -1,0 +1,16 @@
+﻿field,value
+records_adjudicated_this_pass,4
+decision_counts,"{""EXCLUDE"": 1, ""ADJACENT"": 1, ""CORE_REVIEW"": 1, ""UNCERTAIN"": 1}"
+primary_core,0
+core_review,1
+adjacent,1
+exclude,1
+uncertain,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,38
+AB55_remaining,17
+corpus_status,NOT_FROZEN
+uncertain_total_in_AB55_so_far,3
+uncertain_records_note,"Agentic-IoT dynamic policy (v63), Localized Diffusion Repair (v66), and building-energy NECB modification study (v68) require fuller evidence before freeze."
+next_step,"Continue source-backed adjudication of the remaining 17 A/B records, prioritizing explicit runtime control, verification, dynamic tool generation/repair, and autonomous state-changing applications."

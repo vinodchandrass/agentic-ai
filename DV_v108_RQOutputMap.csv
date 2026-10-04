@@ -1,0 +1,7 @@
+rq_id,planned_output,future_manuscript_location
+RQ1,Mechanism prevalence table; mechanism taxonomy figure/table,Results
+RQ2,Validity-locus distribution; mechanism×boundary matrix,Results
+RQ3,CORE vs CORE_REVIEW contrasts; exact-test table,Results
+RQ4,Maturity distribution; domain concentration,Results + Limitations
+RQ5,Evidence-gap map; post-effect closure gap,Results + Discussion
+RQ6,Decision-Validity Architecture; related-work comparison,Discussion/Framework

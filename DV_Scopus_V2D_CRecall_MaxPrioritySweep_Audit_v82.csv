@@ -1,0 +1,20 @@
+field,value
+C_total,280
+C_records_with_status_before_v82,54
+records_statused_v82,12
+scope_completed_v82,ALL remaining unresolved P1 + ALL remaining unresolved P2
+P1_records_completed_v82,6
+P2_records_completed_v82,6
+v82_status_counts,"{""ADJACENT"": 4, ""CORE"": 1, ""CORE_REVIEW"": 1, ""EXCLUDE"": 5, ""FULL_TEXT_PENDING"": 1}"
+C_records_with_status_cumulative,66
+C_remaining_without_status,214
+remaining_unresolved_P1,0
+remaining_unresolved_P2,0
+title_only_exclusions,0
+screening_rule_changed,False
+prior_validated_decisions_overridden,0
+corpus_status,NOT_FROZEN
+new_primary_core_v82,1
+new_core_review_v82,1
+next_priority,"High-signal P4_STATE_CHANGING_DOMAIN, then P5_TOOL_INTEGRATION_SELECTION; process obvious reviews/proceedings/non-consequential simulation and information systems in bulk while retaining ambiguous execution semantics as FULL_TEXT_PENDING."
+manuscript_status,DO_NOT_START

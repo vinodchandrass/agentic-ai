@@ -1,0 +1,16 @@
+﻿field,value
+pipeline,DV Batch1 11 recovered evidence semantic adjudication v24
+timestamp_utc,2026-10-02T17:51:07.966091+00:00
+records_adjudicated,11
+decision_counts,"{""ADJACENT"": 6, ""CORE"": 3, ""EXCLUDE"": 1, ""UNCERTAIN"": 1}"
+primary_core_count,3
+core_review_count,0
+adjacent_count,6
+exclude_count,1
+uncertain_count,1
+frozen_rule_changed,False
+automatic_eligibility_decisions,0
+remaining_from_original_47_without_usable_evidence,36
+additional_uncertain_due_empty_recovered_abstract,1
+corpus_status,NOT_FROZEN
+next_step,Move the 36 still-fulltext records plus AgentDiagnose (empty recovered abstract) into targeted full-text/metadata resolution; no title-only exclusion.

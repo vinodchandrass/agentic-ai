@@ -1,0 +1,12 @@
+﻿field,value
+records_adjudicated_this_pass,2
+decision_counts,"{""EXCLUDE"": 1, ""ADJACENT"": 1}"
+primary_core,0
+adjacent,1
+exclude,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,19
+AB55_remaining,36
+corpus_status,NOT_FROZEN
+next_step,"Continue evidence-based adjudication of remaining A/B records, prioritizing the Agentic IoT dynamic QoS/security policy paper and other explicit runtime policy/action-control mechanisms."

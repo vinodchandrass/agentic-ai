@@ -1,0 +1,12 @@
+﻿field,value
+conference_events_checked_this_pass,"[""DITEM 2024"", ""KSS 2024"", ""AMLDA 2024"", ""CIDR 2024"", ""AI2A 2025""]"
+constituent_candidates_screened,4
+decision_counts,"{""EXCLUDE"": 2, ""UNCERTAIN"": 1, ""ADJACENT"": 1}"
+primary_core,0
+already_present_in_full_indexed_master,2
+new_constituent_candidates_not_in_full_indexed_master,2
+ai2a_2025_note,Proceedings/TOC evidence checked; no LLM-agent decision-validity constituent candidate identified.
+uncertain_requiring_fulltext,1
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,"Resolve the smart-farm LLM-agent chapter if possible, then aggregate v45/v46/v48/v49 and document which remaining conference events yielded no plausible constituent candidate."

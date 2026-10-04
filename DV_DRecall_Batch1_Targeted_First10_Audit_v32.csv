@@ -1,0 +1,12 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION Batch1 targeted authoritative resolution v32
+timestamp_utc,2026-10-03T03:07:44.760844+00:00
+records_resolved_this_pass,10
+decision_counts,"{""ADJACENT"": 6, ""CORE"": 2, ""CORE_REVIEW"": 2}"
+primary_core,2
+core_reviews,2
+remaining_from_v30_unresolved_46,36
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Continue targeted source recovery for the remaining 36 records; retain unresolved records as UNCERTAIN if authoritative evidence remains insufficient.

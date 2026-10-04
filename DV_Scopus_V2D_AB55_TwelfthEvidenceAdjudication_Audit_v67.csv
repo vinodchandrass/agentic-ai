@@ -1,0 +1,13 @@
+﻿field,value
+records_adjudicated_this_pass,4
+decision_counts,"{""EXCLUDE"": 2, ""ADJACENT"": 2}"
+primary_core,0
+adjacent,2
+exclude,2
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,34
+AB55_remaining,21
+corpus_status,NOT_FROZEN
+boundary_note,"Artifact/output validation, retrieval quality, and tool-context management are not treated as decision-validity assurance without a substantive link to consequential execution/effect validity."
+next_step,"Continue evidence-based adjudication of the remaining 21 A/B records; prioritize autonomous building-energy modification, AutoGen/MCP architecture, emotion-improvement dynamic tool generation, and explicit constrained-action papers."

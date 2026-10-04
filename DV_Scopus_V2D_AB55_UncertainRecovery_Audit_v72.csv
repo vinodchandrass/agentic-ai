@@ -1,0 +1,11 @@
+﻿field,value
+uncertain_records_entering_recovery,4
+resolved_this_pass,1
+resolved_decision_counts,"{""ADJACENT"": 1}"
+remaining_uncertain,3
+remaining_uncertain_records,"[""Task-Oriented Communications for Agentic IoT: An LLM-Driven QoS/Security Policy Generation via Dynamic Model Context Protocol"", ""Localized Diffusion Repair for Reliable Tool-Using LLM Agents"", ""Tool-augmented vs. autonomous LLM agents for building energy model modifications: A comparative study using NECB compliance models""]"
+evidence_recovery_notes,"{""Localized Diffusion Repair"": ""Bibliographic existence independently confirmed, but no sufficient abstract/full-method evidence recovered; remains UNCERTAIN."", ""NECB building-energy"": ""DOI/title/publication independently confirmed, but no method-level abstract sufficient to decide whether NECB compliance is enforced at execution; remains UNCERTAIN."", ""Agentic-IoT dynamic policy"": ""Exact record not sufficiently recovered in public search; remains UNCERTAIN.""}"
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_status,55/55 adjudicated; 3 unresolved uncertainties remain; NOT_FROZEN
+next_step,"Attempt DOI/author/institutional-repository/full-text recovery for the remaining three UNCERTAIN records. If still unavailable, retain them as unresolved pending full text rather than forcing an eligibility decision. Then consolidate v56-v72 into the AB55 master."

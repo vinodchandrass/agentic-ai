@@ -1,0 +1,12 @@
+field,value
+v92_records_resolved,7
+FULL_TEXT_PENDING_to_ADJACENT,7
+new_CORE,0
+new_CORE_REVIEW,0
+FULL_TEXT_PENDING_remaining,57
+status_counts_280,"{""ADJACENT"": 94, ""CORE"": 8, ""CORE_REVIEW"": 29, ""EXCLUDE"": 92, ""FULL_TEXT_PENDING"": 57}"
+title_only_exclusions,0
+v75_three_record_identity_file,STILL_NOT_RECOVERED
+corpus_status,NOT_FROZEN
+manuscript_status,DO_NOT_START
+next_step,Continue source-backed resolution of remaining pending records; prioritize operational/security cases and close obvious legacy/non-agentic recall false positives.

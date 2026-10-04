@@ -1,0 +1,11 @@
+result_id,result,frozen_value,manuscript_location,source_version
+R1,CORE vs CORE_REVIEW composition,13 CORE; 45 CORE_REVIEW; N=58,§4,v102/v103
+R2,Policy/deterministic guardrail contrast,7/13 CORE (53.8%) vs 6/45 CR (13.3%); RD=40.5 pp; Fisher p=0.00496,§5,v103/v104
+R3,Trust/protocol governance contrast,0/13 CORE vs 12/45 CR (26.7%); Fisher p≈0.0505,§5,v103/v104
+R4,CORE primary-boundary concentration,L1 proposal→validated decision = 8/13 (61.5%),§5,v103/v105
+R5,CORE later loci,L2=2/13; L3=1/13; L4=2/13; L5 primary boundary=0/13,§5/§6,v105
+R6,Post-action closure cross-cutting evidence,1/13 CORE carries effect-verification/recovery mechanism,§6,v105
+R7,Boundary sensitivity,"Among primary-mechanism subset N=47, downstream consequential boundaries=25/47 (53.2%)",§6,v104
+R8,Primary mechanism evidence gap,11/45 CORE_REVIEW (24.4%) lack primary validated mechanism,§4/§6,v102/v103
+R9,Domain concentration,Cybersecurity/network/cloud=34/58 (58.6%); CORE 7/13 (53.8%),§4/§8,v103/v104
+R10,Architecture coverage,13/13 CORE records mapped to L1-L4; L5 has no CORE primary-boundary record,§7,v105

@@ -1,0 +1,12 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION Batch1 targeted resolution second pass v33
+timestamp_utc,2026-10-03T03:47:21.682518+00:00
+records_resolved_or_conservatively_classified,8
+decision_counts,"{""ADJACENT"": 3, ""EXCLUDE"": 2, ""CORE_REVIEW"": 1, ""UNCERTAIN"": 1, ""CORE"": 1}"
+primary_core,1
+core_reviews,1
+uncertain,1
+remaining_after_v32_and_v33,28
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Continue targeted evidence recovery for the remaining 28 v30-unresolved records; preserve the IAM record as UNCERTAIN until exact scholarly-record evidence is recovered.

@@ -1,0 +1,4 @@
+group,records_with_primary_mechanism,evidence_gap_records,denominator,primary_mechanism_coverage_pct,evidence_gap_pct
+CORE,13,0,13,100.0,0.0
+CORE_REVIEW,34,11,45,75.6,24.4
+ALL_58,47,11,58,81.0,19.0

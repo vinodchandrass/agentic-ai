@@ -1,0 +1,17 @@
+﻿field,value
+nominal_v29_rows,94
+exact_duplicate_removed_v39,1
+unique_records_aggregated,93
+decision_counts,"{""ADJACENT"": 34, ""EXCLUDE"": 32, ""CORE"": 16, ""UNCERTAIN"": 7, ""CORE_REVIEW"": 4}"
+primary_core,16
+core_reviews,4
+adjacent,34
+exclude,32
+uncertain,7
+duplicate_eids_within_corrected_batch,0
+duplicate_nonempty_dois_within_corrected_batch,0
+duplicate_normalized_titles_within_corrected_batch,0
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+next_step,"Combine this 93-record second batch with the earlier 75-record D_RECALL publication Batch1, audit cross-batch duplicates, then handle the 25 container/proceedings records."

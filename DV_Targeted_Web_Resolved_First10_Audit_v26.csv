@@ -1,0 +1,10 @@
+﻿field,value
+pipeline,DV targeted authoritative-web resolution first 10 v26
+timestamp_utc,2026-10-03T01:27:48.407530+00:00
+records_resolved,10
+decision_counts,"{""ADJACENT"": 4, ""CORE"": 3, ""EXCLUDE"": 3}"
+primary_core,3
+automatic_eligibility_decisions,0
+remaining_in_v25_queue,27
+corpus_status,NOT_FROZEN
+next_step,Continue authoritative web/full-text resolution for the remaining 27 records.

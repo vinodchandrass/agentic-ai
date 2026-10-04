@@ -1,0 +1,12 @@
+﻿field,value
+AB55_records,55
+status_counts,"{""ADJACENT"": 25, ""EXCLUDE"": 16, ""CORE"": 7, ""CORE_REVIEW"": 4, ""FULL_TEXT_PENDING"": 3}"
+unassigned_records,0
+full_text_pending,3
+screening_rule_changed,False
+title_only_exclusions,0
+AB55_screening_stratum_status,CLOSED_WITH_3_FULL_TEXT_PENDING
+corpus_status,NOT_FROZEN
+pending_dois,"[""10.1016/j.egyai.2026.100896"", ""10.1109/ASENS69964.2026.11605180"", ""10.1109/WCSP68525.2025.1010287""]"
+important_scope_note,"Closing AB55 does not freeze the overall corpus. C_RECALL_PROTECTION, other indexed reconciliation, WoS, frontier arXiv/CoRR, citation chasing, and weak historical adjudications still require processing."
+next_step,"Proceed to C_RECALL_PROTECTION screening with recall protection, preserving the three pending AB55 records for later full-text resolution."

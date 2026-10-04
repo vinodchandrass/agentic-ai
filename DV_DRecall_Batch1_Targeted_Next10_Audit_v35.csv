@@ -1,0 +1,11 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION Batch1 targeted resolution fourth pass v35
+timestamp_utc,2026-10-03T03:51:28.459132+00:00
+records_resolved_this_pass,10
+decision_counts,"{""EXCLUDE"": 5, ""ADJACENT"": 4, ""CORE_REVIEW"": 1}"
+primary_core,0
+core_reviews,1
+remaining_final_batch1_difficult_records,10
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,"Resolve the final 10 difficult Batch1 records, then aggregate Batch1 75 with explicit unresolved/DOI-disagreement accounting."

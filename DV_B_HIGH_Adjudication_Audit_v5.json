@@ -1,0 +1,17 @@
+{
+  "pipeline": "DV B_HIGH Abstract Adjudication v5",
+  "timestamp_utc": "2026-10-01T15:28:17.825847+00:00",
+  "records_adjudicated": 55,
+  "eligibility_basis": "Same frozen abstract-level decision-validity rule used for A_CORE_FIRST",
+  "decision_counts": {
+    "ADJACENT": 23,
+    "EXCLUDE": 21,
+    "CORE": 11
+  },
+  "primary_core_count": 11,
+  "review_core_count": 0,
+  "automatic_keyword_decisions": 0,
+  "eligibility_definition_changed": false,
+  "status": "B_HIGH_ABSTRACT_SCREENING_COMPLETE_NOT_FINAL_CORPUS",
+  "note": "Reviews remain separate from primary mechanism-frequency evidence."
+}

@@ -1,0 +1,14 @@
+﻿field,value
+pipeline,D_RECALL_PROTECTION publication Batch1 75 aggregation v37
+records,75
+decision_counts,"{""ADJACENT"": 32, ""EXCLUDE"": 25, ""CORE"": 8, ""UNCERTAIN"": 6, ""CORE_REVIEW"": 4}"
+primary_core,8
+core_reviews,4
+uncertain,6
+doi_disagreement_flagged,1
+duplicate_titles,0
+title_only_exclusions,0
+screening_rule_changed,False
+batch1_targeted_resolution_complete,True
+corpus_status,NOT_FROZEN
+next_step,Process the remaining 94 publication-level D_RECALL_PROTECTION records; keep 6 Batch1 UNCERTAIN records and 1 DOI-disagreement record open for later full-text/bibliographic resolution.

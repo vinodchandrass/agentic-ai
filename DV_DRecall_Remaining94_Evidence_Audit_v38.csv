@@ -1,0 +1,12 @@
+﻿field,value
+input_records,94
+recovered_evidence,58
+still_unresolved,36
+recovery_rate,0.617
+source_counts,"{""SEMANTIC_SCHOLAR_DOI"": 40, ""NO_EVIDENCE"": 36, ""OPENALEX_DOI"": 17, ""OPENALEX_TITLE"": 1}"
+doi_disagreements,0
+synthetic_abstracts,0
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+manual_adjudication_required,94
+corpus_status,NOT_FROZEN

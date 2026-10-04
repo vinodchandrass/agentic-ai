@@ -1,0 +1,11 @@
+﻿field,value
+records_adjudicated_this_pass,3
+decision_counts,"{""ADJACENT"": 2, ""CORE"": 1}"
+primary_core,1
+adjacent,2
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,13
+AB55_remaining,42
+corpus_status,NOT_FROZEN
+next_step,"Continue evidence-based adjudication of the remaining A/B records; prioritize SAGE and other runtime governance/action-control records, while preserving the distinction between tool-execution security and decision validity."

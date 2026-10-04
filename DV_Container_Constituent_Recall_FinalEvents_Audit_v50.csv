@@ -1,0 +1,11 @@
+﻿field,value
+conference_events_checked_this_pass,"[""WCCIS 2026"", ""ICAISET 2026"", ""ICICC 2026"", ""A-TEST 2024""]"
+constituent_candidates_screened,8
+decision_counts,"{""CORE"": 6, ""EXCLUDE"": 2}"
+primary_core,6
+primary_core_already_indexed,3
+primary_core_new_not_in_indexed_master,3
+icicc_2026_note,Proceedings-focused search found no sufficiently supported decision-validity constituent candidate in this pass.
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+search_implication,Container recall identified genuinely new CORE studies absent from the indexed discovery master; production search requires recall repair before freeze.

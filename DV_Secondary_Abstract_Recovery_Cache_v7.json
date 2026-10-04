@@ -1,0 +1,1711 @@
+{
+  "oa_doi::10.1016/j.jbusres.2026.116313": {
+    "status": "FOUND",
+    "doi": "10.1016/j.jbusres.2026.116313",
+    "title": "Shifting accountability to artificial intelligence: delegating challenging decisions to AI for responsibility avoidance",
+    "abstract": ""
+  },
+  "cr_doi::10.1016/j.jbusres.2026.116313": {
+    "status": "FOUND",
+    "doi": "10.1016/j.jbusres.2026.116313",
+    "title": "Shifting accountability to artificial intelligence: delegating challenging decisions to AI for responsibility avoidance",
+    "abstract": ""
+  },
+  "oa_title::shifting accountability to artificial intelligence delegating challenging decisions to ai for responsibility avoidance": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Shifting accountability to artificial intelligence: delegating challenging decisions to AI for responsibility avoidance",
+    "doi": "10.1016/j.jbusres.2026.116313",
+    "abstract": ""
+  },
+  "cr_title::shifting accountability to artificial intelligence delegating challenging decisions to ai for responsibility avoidance": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Shifting accountability to artificial intelligence: delegating challenging decisions to AI for responsibility avoidance",
+    "doi": "10.1016/j.jbusres.2026.116313",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-981-92-2859-1_2": {
+    "status": "FOUND",
+    "doi": "10.1007/978-981-92-2859-1_2",
+    "title": "Reaching the Right Shore: Securing Smartphone LLM Agents via Execution Verification",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-981-92-2859-1_2": {
+    "status": "FOUND",
+    "doi": "10.1007/978-981-92-2859-1_2",
+    "title": "Reaching the Right Shore: Securing Smartphone LLM Agents via Execution Verification",
+    "abstract": ""
+  },
+  "oa_title::reaching the right shore securing smartphone llm agents via execution verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Reaching the Right Shore: Securing Smartphone LLM Agents via Execution Verification",
+    "doi": "10.1007/978-981-92-2859-1_2",
+    "abstract": ""
+  },
+  "cr_title::reaching the right shore securing smartphone llm agents via execution verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Reaching the Right Shore: Securing Smartphone LLM Agents via Execution Verification",
+    "doi": "10.1007/978-981-92-2859-1_2",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-30573-2_4": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-30573-2_4",
+    "title": "Cross-Domain Benchmarking of Workflow Recovery for Data-Driven Process Applications Under Operational Constraints",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-3-032-30573-2_4": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-30573-2_4",
+    "title": "Cross-Domain Benchmarking of Workflow Recovery for Data-Driven Process Applications Under Operational Constraints",
+    "abstract": ""
+  },
+  "oa_title::cross domain benchmarking of workflow recovery for data driven process applications under operational constraints": {
+    "status": "FOUND",
+    "score": 0.4180790960451977,
+    "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+    "doi": "10.1109/access.2021.3140175",
+    "abstract": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the previous Metaverse. This paper divides the concepts and essential techniques necessary for realizing the Metaverse into three components (i.e., hardware, software, and contents) and three approaches (i.e., user interaction, implementation, and application) rather than marketing or hardware approach to conduct a comprehensive analysis. Furthermore, we describe essential methods based on three components and techniques to Metaverse’s representative Ready Player One, Roblox, and Facebook research in the domain of films, games, and studies. Finally, we summarize the limitations and directions for implementing the immersive Metaverse as social influences, constraints, and open challenges."
+  },
+  "cr_title::cross domain benchmarking of workflow recovery for data driven process applications under operational constraints": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Cross-Domain Benchmarking of Workflow Recovery for Data-Driven Process Applications Under Operational Constraints",
+    "doi": "10.1007/978-3-032-30573-2_4",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-30563-3_49": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-30563-3_49",
+    "title": "Evaluating Agentic Large Language Models for Requirements-Based Test Case Generation: A Cost–Effectiveness Study",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-3-032-30563-3_49": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-30563-3_49",
+    "title": "Evaluating Agentic Large Language Models for Requirements-Based Test Case Generation: A Cost–Effectiveness Study",
+    "abstract": ""
+  },
+  "oa_title::evaluating agentic large language models for requirements based test case generation a cost effectiveness study": {
+    "status": "FOUND",
+    "score": 0.46706586826347307,
+    "title": "A survey on large language model based autonomous agents",
+    "doi": "10.1007/s11704-024-40231-1",
+    "abstract": "Abstract Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes, and makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of Web knowledge, large language models (LLMs) have shown potential in human-level intelligence, leading to a surge in research on LLM-based autonomous agents. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of LLM-based autonomous agents from a holistic perspective. We first discuss the construction of LLM-based autonomous agents, proposing a unified framework that encompasses much of previous work. Then, we present a overview of the diverse applications of LLM-based autonomous agents in social science, natural science, and engineering. Finally, we delve into the evaluation strategies commonly used for LLM-based autonomous agents. Based on the previous studies, we also present several challenges and future directions in this field."
+  },
+  "cr_title::evaluating agentic large language models for requirements based test case generation a cost effectiveness study": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Evaluating Agentic Large Language Models for Requirements-Based Test Case Generation: A Cost–Effectiveness Study",
+    "doi": "10.1007/978-3-032-30563-3_49",
+    "abstract": ""
+  },
+  "oa_doi::10.18280/ijsse.160810": {
+    "status": "FOUND",
+    "doi": "10.18280/ijsse.160810",
+    "title": "A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents",
+    "abstract": ""
+  },
+  "cr_doi::10.18280/ijsse.160810": {
+    "status": "FOUND",
+    "doi": "10.18280/ijsse.160810",
+    "title": "A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::a trusted provenance and tee based reference architecture for intent execution binding in llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents",
+    "doi": "10.18280/ijsse.160810",
+    "abstract": ""
+  },
+  "cr_title::a trusted provenance and tee based reference architecture for intent execution binding in llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents",
+    "doi": "10.18280/ijsse.160810",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/wccis70285.2026.11650697": {
+    "status": "FOUND",
+    "doi": "10.1109/wccis70285.2026.11650697",
+    "title": "IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/wccis70285.2026.11650697": {
+    "status": "FOUND",
+    "doi": "10.1109/wccis70285.2026.11650697",
+    "title": "IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::ibbc guard intent bound behavior chain modeling for unauthorized tool call detection and dynamic permission control in llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents",
+    "doi": "10.1109/wccis70285.2026.11650697",
+    "abstract": ""
+  },
+  "cr_title::ibbc guard intent bound behavior chain modeling for unauthorized tool call detection and dynamic permission control in llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents",
+    "doi": "10.1109/wccis70285.2026.11650697",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/mlise70044.2026.11607636": {
+    "status": "FOUND",
+    "doi": "10.1109/mlise70044.2026.11607636",
+    "title": "VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/mlise70044.2026.11607636": {
+    "status": "FOUND",
+    "doi": "10.1109/mlise70044.2026.11607636",
+    "title": "VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::veriact agent evidence verified tool execution for reliable llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents",
+    "doi": "10.1109/mlise70044.2026.11607636",
+    "abstract": ""
+  },
+  "cr_title::veriact agent evidence verified tool execution for reliable llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents",
+    "doi": "10.1109/mlise70044.2026.11607636",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/ic3sis69949.2026.11608318": {
+    "status": "FOUND",
+    "doi": "10.1109/ic3sis69949.2026.11608318",
+    "title": "Agent Instruction Language and Constraint Agent Execution Framework",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/ic3sis69949.2026.11608318": {
+    "status": "FOUND",
+    "doi": "10.1109/ic3sis69949.2026.11608318",
+    "title": "Agent Instruction Language and Constraint Agent Execution Framework",
+    "abstract": ""
+  },
+  "oa_title::agent instruction language and constraint agent execution framework": {
+    "status": "FOUND",
+    "score": 0.4065040650406504,
+    "title": "A survey on large language model based autonomous agents",
+    "doi": "10.1007/s11704-024-40231-1",
+    "abstract": "Abstract Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes, and makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of Web knowledge, large language models (LLMs) have shown potential in human-level intelligence, leading to a surge in research on LLM-based autonomous agents. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of LLM-based autonomous agents from a holistic perspective. We first discuss the construction of LLM-based autonomous agents, proposing a unified framework that encompasses much of previous work. Then, we present a overview of the diverse applications of LLM-based autonomous agents in social science, natural science, and engineering. Finally, we delve into the evaluation strategies commonly used for LLM-based autonomous agents. Based on the previous studies, we also present several challenges and future directions in this field."
+  },
+  "cr_title::agent instruction language and constraint agent execution framework": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Agent Instruction Language and Constraint Agent Execution Framework",
+    "doi": "10.1109/ic3sis69949.2026.11608318",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icicc71012.2026.11637910": {
+    "status": "FOUND",
+    "doi": "10.1109/icicc71012.2026.11637910",
+    "title": "CauSAL-Rec: Causally-Consistent LLM Agent for Faithful and Controllable Explainable Recommendation",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/icicc71012.2026.11637910": {
+    "status": "FOUND",
+    "doi": "10.1109/icicc71012.2026.11637910",
+    "title": "CauSAL-Rec: Causally-Consistent LLM Agent for Faithful and Controllable Explainable Recommendation",
+    "abstract": ""
+  },
+  "oa_title::causal rec causally consistent llm agent for faithful and controllable explainable recommendation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "CauSAL-Rec: Causally-Consistent LLM Agent for Faithful and Controllable Explainable Recommendation",
+    "doi": "10.1109/icicc71012.2026.11637910",
+    "abstract": ""
+  },
+  "cr_title::causal rec causally consistent llm agent for faithful and controllable explainable recommendation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "CauSAL-Rec: Causally-Consistent LLM Agent for Faithful and Controllable Explainable Recommendation",
+    "doi": "10.1109/icicc71012.2026.11637910",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/isda70544.2026.11606035": {
+    "status": "FOUND",
+    "doi": "10.1109/isda70544.2026.11606035",
+    "title": "Non-Repudiable Guardrails for Agentic AI Formal Verification Framework For Autonomous Clinical Intervention",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/isda70544.2026.11606035": {
+    "status": "FOUND",
+    "doi": "10.1109/isda70544.2026.11606035",
+    "title": "Non-Repudiable Guardrails for Agentic AI Formal Verification Framework For Autonomous Clinical Intervention",
+    "abstract": ""
+  },
+  "oa_title::non repudiable guardrails for agentic ai formal verification framework for autonomous clinical intervention": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Non-Repudiable Guardrails for Agentic AI Formal Verification Framework For Autonomous Clinical Intervention",
+    "doi": "10.1109/isda70544.2026.11606035",
+    "abstract": ""
+  },
+  "cr_title::non repudiable guardrails for agentic ai formal verification framework for autonomous clinical intervention": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Non-Repudiable Guardrails for Agentic AI Formal Verification Framework For Autonomous Clinical Intervention",
+    "doi": "10.1109/isda70544.2026.11606035",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.ipm.2025.104241": {
+    "status": "FOUND",
+    "doi": "10.1016/j.ipm.2025.104241",
+    "title": "DelphiAgent: A trustworthy multi-agent verification framework for automated fact verification",
+    "abstract": ""
+  },
+  "cr_doi::10.1016/j.ipm.2025.104241": {
+    "status": "FOUND",
+    "doi": "10.1016/j.ipm.2025.104241",
+    "title": "DelphiAgent: A trustworthy multi-agent verification framework for automated fact verification",
+    "abstract": ""
+  },
+  "oa_title::delphiagent a trustworthy multi agent verification framework for automated fact verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "DelphiAgent: A trustworthy multi-agent verification framework for automated fact verification",
+    "doi": "10.1016/j.ipm.2025.104241",
+    "abstract": ""
+  },
+  "cr_title::delphiagent a trustworthy multi agent verification framework for automated fact verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "DelphiAgent: A trustworthy multi-agent verification framework for automated fact verification",
+    "doi": "10.1016/j.ipm.2025.104241",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.compeleceng.2026.111184": {
+    "status": "FOUND",
+    "doi": "10.1016/j.compeleceng.2026.111184",
+    "title": "Secure autonomous cyber defense with LLM agents: A systematic review of autonomy, tool-augmented reasoning, and governance constraints",
+    "abstract": ""
+  },
+  "cr_doi::10.1016/j.compeleceng.2026.111184": {
+    "status": "FOUND",
+    "doi": "10.1016/j.compeleceng.2026.111184",
+    "title": "Secure autonomous cyber defense with LLM agents: A systematic review of autonomy, tool-augmented reasoning, and governance constraints",
+    "abstract": ""
+  },
+  "oa_title::secure autonomous cyber defense with llm agents a systematic review of autonomy tool augmented reasoning and governance constraints": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Secure autonomous cyber defense with LLM agents: A systematic review of autonomy, tool-augmented reasoning, and governance constraints",
+    "doi": "10.1016/j.compeleceng.2026.111184",
+    "abstract": ""
+  },
+  "cr_title::secure autonomous cyber defense with llm agents a systematic review of autonomy tool augmented reasoning and governance constraints": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Secure autonomous cyber defense with LLM agents: A systematic review of autonomy, tool-augmented reasoning, and governance constraints",
+    "doi": "10.1016/j.compeleceng.2026.111184",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/s11845-026-04584-9": {
+    "status": "FOUND",
+    "doi": "10.1007/s11845-026-04584-9",
+    "title": "AI agents in clinical medicine: delegation, supervision, and the problem of correlated failure",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/s11845-026-04584-9": {
+    "status": "FOUND",
+    "doi": "10.1007/s11845-026-04584-9",
+    "title": "AI agents in clinical medicine: delegation, supervision, and the problem of correlated failure",
+    "abstract": ""
+  },
+  "oa_title::ai agents in clinical medicine delegation supervision and the problem of correlated failure": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "AI agents in clinical medicine: delegation, supervision, and the problem of correlated failure",
+    "doi": "10.1007/s11845-026-04584-9",
+    "abstract": ""
+  },
+  "cr_title::ai agents in clinical medicine delegation supervision and the problem of correlated failure": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "AI agents in clinical medicine: delegation, supervision, and the problem of correlated failure",
+    "doi": "10.1007/s11845-026-04584-9",
+    "abstract": ""
+  },
+  "oa_title::multi llm agents architecture for claim verification": {
+    "status": "FOUND",
+    "score": 0.31746031746031744,
+    "title": "The TRIPOD-LLM reporting guideline for studies using large language models",
+    "doi": "10.1038/s41591-024-03425-5",
+    "abstract": ""
+  },
+  "cr_title::multi llm agents architecture for claim verification": {
+    "status": "FOUND",
+    "score": 0.46551724137931033,
+    "title": "TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation",
+    "doi": "10.5220/0013321900003890",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-00828-2_25": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-00828-2_25",
+    "title": "A Vision for Access Control in LLM Agent Systems",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-3-032-00828-2_25": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-00828-2_25",
+    "title": "A Vision for Access Control in LLM Agent Systems",
+    "abstract": ""
+  },
+  "oa_title::a vision for access control in llm agent systems": {
+    "status": "FOUND",
+    "score": 0.391304347826087,
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "doi": "10.48550/arxiv.2305.14314",
+    "abstract": "We present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters~(LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU. QLoRA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) double quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) paged optimziers to manage memory spikes. We use QLoRA to finetune more than 1,000 models, providing a detailed analysis of instruction following and chatbot performance across 8 instruction datasets, multiple model types (LLaMA, T5), and model scales that would be infeasible to run with regular finetuning (e.g. 33B and 65B parameter models). Our results show that QLoRA finetuning on a small high-quality dataset leads to state-of-the-art results, even when using smaller models than the previous SoTA. We provide a detailed analysis of chatbot performance based on both human and GPT-4 evaluations showing that GPT-4 evaluations are a cheap and reasonable alternative to human evaluation. Furthermore, we find that current chatbot benchmarks are not trustworthy to accurately evaluate the performance levels of chatbots. A lemon-picked analysis demonstrates where Guanaco fails compared to ChatGPT. We release all of our models and code, including CUDA kernels for 4-bit training."
+  },
+  "cr_title::a vision for access control in llm agent systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Vision for Access Control in LLM Agent Systems",
+    "doi": "10.1007/978-3-032-00828-2_25",
+    "abstract": ""
+  },
+  "oa_title::can dependencies induced by llm agent workflows be trusted": {
+    "status": "HTTP_400"
+  },
+  "cr_title::can dependencies induced by llm agent workflows be trusted": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Can Dependencies Induced by LLM-Agent Workflows Be Trusted?",
+    "doi": "10.52202/085713-0587",
+    "abstract": ""
+  },
+  "oa_title::position ai agents need authenticated delegation": {
+    "status": "FOUND",
+    "score": 0.4297520661157025,
+    "title": "AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges",
+    "doi": "10.1016/j.inffus.2025.103599",
+    "abstract": "Information fusion, in the context of the Generative AI era, must distinguish AI Agents from Agentic AI. This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for task-specific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We then characterize Agentic AI systems, which, in contrast to AI Agents, represent a paradigm shift marked by multi-agent collaboration, dynamic task decomposition, persistent memory, and coordinated autonomy. Through a chronological evaluation of architectural evolution, operational mechanisms, interaction styles, and autonomy levels, we present a comparative analysis across both AI agents and agentic AI paradigms. Application domains enabled by AI Agents such as customer support, scheduling, and data summarization are then contrasted with Agentic AI deployments in research automation, robotic coordination, and medical decision support. We further examine unique challenges in each paradigm including hallucination, brittleness, emergent behavior, and coordination failure, and propose targeted solutions such as ReAct loops, retrieval-augmented generation (RAG), automation coordination layers, and causal modeling. This work aims to provide a roadmap for developing robust, scalable, and explainable AI-driven systems."
+  },
+  "cr_title::position ai agents need authenticated delegation": {
+    "status": "FOUND",
+    "score": 0.4462809917355372,
+    "title": "AI Agents and the Delegation Economy: From Automation to Autonomous Action",
+    "doi": "10.2139/ssrn.7301658",
+    "abstract": "Artificial intelligence is moving from systems that primarily generate outputs toward systems that can plan, use tools, modify state and take actions on behalf of users. This transition is often described as a move from automation to autonomy, but this paper argues that delegation is the more useful unit of analysis. Traditional automation encodes a process in advance; delegation transfers a bounded portion of judgement about how an objective should be achieved. The paper proposes a Delegation Spectrum ranging from passive tools to persistent delegated agents and introduces the Authority Envelope: a framework for analysing what an agent is allowed to decide, which tools and data it may access, how long its authority persists, what external effects it may create, and when it must escalate to a human. It further develops a Delegation-Risk Gradient based on authority, uncertainty, irreversibility, persistence and external reach. The paper argues that the economic significance of AI agents will depend less on whether systems can act than on whether organisations can safely transfer bounded judgement to them. Identity, permissions, reversibility, evaluation, interoperability and accountability therefore become as important as raw model capability. The central claim is that the unit of automation is the task; the unit of delegation is the authority envelope."
+  },
+  "oa_doi::10.1109/asew67777.2025.00023": {
+    "status": "FOUND",
+    "doi": "10.1109/asew67777.2025.00023",
+    "title": "AgentGuard: Runtime Verification of AI Agents",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/asew67777.2025.00023": {
+    "status": "FOUND",
+    "doi": "10.1109/asew67777.2025.00023",
+    "title": "AgentGuard: Runtime Verification of AI Agents",
+    "abstract": ""
+  },
+  "oa_title::agentguard runtime verification of ai agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "AgentGuard: Runtime Verification of AI Agents",
+    "doi": "10.48550/arxiv.2509.23864",
+    "abstract": "The rapid evolution to autonomous, agentic AI systems introduces significant risks due to their inherent unpredictability and emergent behaviors; this also renders traditional verification methods inadequate and necessitates a shift towards probabilistic guarantees where the question is no longer if a system will fail, but the probability of its failure within given constraints. This paper presents AgentGuard, a framework for runtime verification of Agentic AI systems that provides continuous, quantitative assurance through a new paradigm called Dynamic Probabilistic Assurance. AgentGuard operates as an inspection layer that observes an agent's raw I/O and abstracts it into formal events corresponding to transitions in a state model. It then uses online learning to dynamically build and update a Markov Decision Process (MDP) that formally models the agent's emergent behavior. Using probabilistic model checking, the framework then verifies quantitative properties in real-time."
+  },
+  "oa_doi::10.1109/cars67163.2025.11337816": {
+    "status": "FOUND",
+    "doi": "10.1109/cars67163.2025.11337816",
+    "title": "A Case Study on Delegating Critical Tasks to Agentic AI and Prototype Access Control Methods",
+    "abstract": ""
+  },
+  "cr_doi::10.1109/cars67163.2025.11337816": {
+    "status": "FOUND",
+    "doi": "10.1109/cars67163.2025.11337816",
+    "title": "A Case Study on Delegating Critical Tasks to Agentic AI and Prototype Access Control Methods",
+    "abstract": ""
+  },
+  "oa_title::a case study on delegating critical tasks to agentic ai and prototype access control methods": {
+    "status": "FOUND",
+    "score": 0.3619047619047619,
+    "title": "The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",
+    "doi": "10.3390/fi17090404",
+    "abstract": "Agentic AI systems are a recently emerged and important approach that goes beyond traditional AI, generative AI, and autonomous systems by focusing on autonomy, adaptability, and goal-driven reasoning. This study provides a clear review of agentic AI systems by bringing together their definitions, frameworks, and architectures, and by comparing them with related areas like generative AI, autonomic computing, and multi-agent systems. To do this, we reviewed 143 primary studies on current LLM-based and non-LLM-driven agentic systems and examined how they support planning, memory, reflection, and goal pursuit. Furthermore, we classified architectural models, input–output mechanisms, and applications based on their task domains where agentic AI is applied, supported using tabular summaries that highlight real-world case studies. Evaluation metrics were classified as qualitative and quantitative measures, along with available testing methods of agentic AI systems to check the system’s performance and reliability. This study also highlights the main challenges and limitations of agentic AI, covering technical, architectural, coordination, ethical, and security issues. We organized the conceptual foundations, available tools, architectures, and evaluation metrics in this research, which defines a structured foundation for understanding and advancing agentic AI. These findings aim to help researchers and developers build better, clearer, and more adaptable systems that support responsible deployment in different domains."
+  },
+  "cr_title::a case study on delegating critical tasks to agentic ai and prototype access control methods": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Case Study on Delegating Critical Tasks to Agentic AI and Prototype Access Control Methods",
+    "doi": "10.1109/cars67163.2025.11337816",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.ipm.2026.105065": {
+    "status": "FOUND",
+    "doi": "10.1016/j.ipm.2026.105065",
+    "title": "Stage-aware LLM-SLM collaboration for agentic tasks via joint routing and verification",
+    "abstract": ""
+  },
+  "cr_doi::10.1016/j.ipm.2026.105065": {
+    "status": "FOUND",
+    "doi": "10.1016/j.ipm.2026.105065",
+    "title": "Stage-aware LLM-SLM collaboration for agentic tasks via joint routing and verification",
+    "abstract": ""
+  },
+  "oa_title::stage aware llm slm collaboration for agentic tasks via joint routing and verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Stage-aware LLM-SLM collaboration for agentic tasks via joint routing and verification",
+    "doi": "10.1016/j.ipm.2026.105065",
+    "abstract": ""
+  },
+  "cr_title::stage aware llm slm collaboration for agentic tasks via joint routing and verification": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Stage-aware LLM-SLM collaboration for agentic tasks via joint routing and verification",
+    "doi": "10.1016/j.ipm.2026.105065",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-981-92-3403-5_4": {
+    "status": "FOUND",
+    "doi": "10.1007/978-981-92-3403-5_4",
+    "title": "From Trajectories to States: State-Constrained Plan Execution for LLM Agents",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-981-92-3403-5_4": {
+    "status": "FOUND",
+    "doi": "10.1007/978-981-92-3403-5_4",
+    "title": "From Trajectories to States: State-Constrained Plan Execution for LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::from trajectories to states state constrained plan execution for llm agents": {
+    "status": "FOUND",
+    "score": 0.3816793893129771,
+    "title": "A survey on large language model based autonomous agents",
+    "doi": "10.1007/s11704-024-40231-1",
+    "abstract": "Abstract Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes, and makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of Web knowledge, large language models (LLMs) have shown potential in human-level intelligence, leading to a surge in research on LLM-based autonomous agents. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of LLM-based autonomous agents from a holistic perspective. We first discuss the construction of LLM-based autonomous agents, proposing a unified framework that encompasses much of previous work. Then, we present a overview of the diverse applications of LLM-based autonomous agents in social science, natural science, and engineering. Finally, we delve into the evaluation strategies commonly used for LLM-based autonomous agents. Based on the previous studies, we also present several challenges and future directions in this field."
+  },
+  "cr_title::from trajectories to states state constrained plan execution for llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "From Trajectories to States: State-Constrained Plan Execution for LLM Agents",
+    "doi": "10.1007/978-981-92-3403-5_4",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-29551-4_1": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-29551-4_1",
+    "title": "Negotiating the Small Stuff: AI Agents for Low-Stakes Group Decisions",
+    "abstract": ""
+  },
+  "cr_doi::10.1007/978-3-032-29551-4_1": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-29551-4_1",
+    "title": "Negotiating the Small Stuff: AI Agents for Low-Stakes Group Decisions",
+    "abstract": ""
+  },
+  "oa_title::negotiating the small stuff ai agents for low stakes group decisions": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Negotiating the Small Stuff: AI Agents for Low-Stakes Group Decisions",
+    "doi": "10.1007/978-3-032-29551-4_1",
+    "abstract": ""
+  },
+  "cr_title::negotiating the small stuff ai agents for low stakes group decisions": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Negotiating the Small Stuff: AI Agents for Low-Stakes Group Decisions",
+    "doi": "10.1007/978-3-032-29551-4_1",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.apenergy.2026.128868": {
+    "status": "FOUND",
+    "doi": "10.1016/j.apenergy.2026.128868",
+    "title": "A trustworthy intent-driven LLM-agent workflow with state verification for power system simulation",
+    "abstract": ""
+  },
+  "cr_doi::10.1016/j.apenergy.2026.128868": {
+    "status": "FOUND",
+    "doi": "10.1016/j.apenergy.2026.128868",
+    "title": "A trustworthy intent-driven LLM-agent workflow with state verification for power system simulation",
+    "abstract": ""
+  },
+  "oa_title::a trustworthy intent driven llm agent workflow with state verification for power system simulation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a trustworthy intent driven llm agent workflow with state verification for power system simulation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Trustworthy Intent-Driven LLM-Agent Workflow with State Verification for Power System Simulation",
+    "doi": "10.2139/ssrn.7074124",
+    "abstract": "Modern power system simulation workflows, including model setup, parameter configuration, scenario construction, solver invocation, and result verification, remain heavily manual and procedurally intensive. Large language models (LLMs) offer a promising way to transform high-level engineering intents into structured and reviewable simulation workflows. Yet, as probabilistic models, LLMs may generate outputs that are incomplete, incorrectly ordered, or inconsistent with the active simulation state, posing risks to workflow reliability. This paper proposes a trustworthy intent-driven LLM-agent workflow with state verification for power system simulation. The proposed framework separates LLM-based workflow planning from solver-side execution. The LLM converts heterogeneous engineering instructions into structured and reviewable candidate workflows, while a state-verification mechanism checks workflow admissibility, state-dependency constraints, and execution evidence before solver-side results are accepted. Instead of evaluating only software executability, the proposed evaluation distinguishes planning validity from verified workflow completion, where a workflow is successful only when the executed workflow satisfies the required state conditions of the intended simulation task. A controlled benchmark on the New England 39-bus system evaluates robustness under different task-complexity levels and instruction-ambiguity variants, with ablation studies quantifying the roles of schema guidance, orchestration, and LLM backbone selection. A real-world 201-bus power system further assesses practical scalability in model preparation and N-1 contingency testing. Results show that the proposed workflow reduces low-level manual interaction, achieving approximately a 19-fold improvement in model-preparation workflow efficiency and a 4.5-fold speedup in N-1 contingency-test workflow execution."
+  },
+  "oa_doi::10.1007/978-981-92-3557-5_1": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-981-92-3557-5_1": {
+    "status": "FOUND",
+    "doi": "10.1007/978-981-92-3557-5_1",
+    "title": "LatentReAct: Decomposed Latent Verification for Robust Tool-Using Agents",
+    "abstract": ""
+  },
+  "oa_title::latentreact decomposed latent verification for robust tool using agents": {
+    "status": "HTTP_429"
+  },
+  "cr_title::latentreact decomposed latent verification for robust tool using agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "LatentReAct: Decomposed Latent Verification for Robust Tool-Using Agents",
+    "doi": "10.1007/978-981-92-3557-5_1",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-35248-4_2": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-35248-4_2": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-35248-4_2",
+    "title": "Evaluating the Parallelization Capabilities of State-of-the-Art Agentic Large Language Models",
+    "abstract": ""
+  },
+  "oa_title::evaluating the parallelization capabilities of state of the art agentic large language models": {
+    "status": "HTTP_429"
+  },
+  "cr_title::evaluating the parallelization capabilities of state of the art agentic large language models": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Evaluating the Parallelization Capabilities of State-of-the-Art Agentic Large Language Models",
+    "doi": "10.1007/978-3-032-35248-4_2",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.aei.2026.105189": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.aei.2026.105189": {
+    "status": "FOUND",
+    "doi": "10.1016/j.aei.2026.105189",
+    "title": "Autonomous Process Generator (APG): decoupling process design and execution for agentic building services",
+    "abstract": ""
+  },
+  "oa_title::autonomous process generator apg decoupling process design and execution for agentic building services": {
+    "status": "HTTP_429"
+  },
+  "cr_title::autonomous process generator apg decoupling process design and execution for agentic building services": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Autonomous Process Generator (APG): decoupling process design and execution for agentic building services",
+    "doi": "10.1016/j.aei.2026.105189",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-29237-7_38": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-29237-7_38": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-29237-7_38",
+    "title": "Mitigating Hallucinations in Agentic AI Systems Through Self-Verification and Multi-agent Consensus Mechanisms",
+    "abstract": ""
+  },
+  "oa_title::mitigating hallucinations in agentic ai systems through self verification and multi agent consensus mechanisms": {
+    "status": "HTTP_429"
+  },
+  "cr_title::mitigating hallucinations in agentic ai systems through self verification and multi agent consensus mechanisms": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Mitigating Hallucinations in Agentic AI Systems Through Self-Verification and Multi-agent Consensus Mechanisms",
+    "doi": "10.1007/978-3-032-29237-7_38",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-36806-5_5": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-36806-5_5": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-36806-5_5",
+    "title": "Multi-agent Explainable AI Framework for Forest Disturbance Analysis and Biomass Recovery Modeling",
+    "abstract": ""
+  },
+  "oa_title::multi agent explainable ai framework for forest disturbance analysis and biomass recovery modeling": {
+    "status": "HTTP_429"
+  },
+  "cr_title::multi agent explainable ai framework for forest disturbance analysis and biomass recovery modeling": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Multi-agent Explainable AI Framework for Forest Disturbance Analysis and Biomass Recovery Modeling",
+    "doi": "10.1007/978-3-032-36806-5_5",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.eswa.2026.133781": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.eswa.2026.133781": {
+    "status": "FOUND",
+    "doi": "10.1016/j.eswa.2026.133781",
+    "title": "Separating intent from execution: A defense-in-depth security architecture for LLM-based multi-agent systems",
+    "abstract": ""
+  },
+  "oa_title::separating intent from execution a defense in depth security architecture for llm based multi agent systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::separating intent from execution a defense in depth security architecture for llm based multi agent systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Separating intent from execution: A defense-in-depth security architecture for LLM-based multi-agent systems",
+    "doi": "10.1016/j.eswa.2026.133781",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.bios.2026.119051": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.bios.2026.119051": {
+    "status": "FOUND",
+    "doi": "10.1016/j.bios.2026.119051",
+    "title": "Agentic AI-gated multiplex electrochemical sensing for food-safety decision-making",
+    "abstract": ""
+  },
+  "oa_title::agentic ai gated multiplex electrochemical sensing for food safety decision making": {
+    "status": "HTTP_429"
+  },
+  "cr_title::agentic ai gated multiplex electrochemical sensing for food safety decision making": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Agentic AI-gated multiplex electrochemical sensing for food-safety decision-making",
+    "doi": "10.1016/j.bios.2026.119051",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.compag.2026.112267": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.compag.2026.112267": {
+    "status": "FOUND",
+    "doi": "10.1016/j.compag.2026.112267",
+    "title": "AquaAgent-OSPy: an auditable LLM tool-agent system for simulation-grounded irrigation decision support",
+    "abstract": ""
+  },
+  "oa_title::aquaagent ospy an auditable llm tool agent system for simulation grounded irrigation decision support": {
+    "status": "HTTP_429"
+  },
+  "cr_title::aquaagent ospy an auditable llm tool agent system for simulation grounded irrigation decision support": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "AquaAgent-OSPy: an auditable LLM tool-agent system for simulation-grounded irrigation decision support",
+    "doi": "10.1016/j.compag.2026.112267",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/s11219-026-09767-2": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/s11219-026-09767-2": {
+    "status": "FOUND",
+    "doi": "10.1007/s11219-026-09767-2",
+    "title": "Reliable execution of natural language test cases for GUI applications using LLM agents",
+    "abstract": ""
+  },
+  "oa_title::reliable execution of natural language test cases for gui applications using llm agents": {
+    "status": "HTTP_429"
+  },
+  "cr_title::reliable execution of natural language test cases for gui applications using llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Reliable execution of natural language test cases for GUI applications using LLM agents",
+    "doi": "10.1007/s11219-026-09767-2",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/s10586-026-06537-4": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/s10586-026-06537-4": {
+    "status": "FOUND",
+    "doi": "10.1007/s10586-026-06537-4",
+    "title": "Autonomous AI agents and recursive self-improvement: a comprehensive survey of contemporary architectures, capabilities, and safety frameworks",
+    "abstract": ""
+  },
+  "oa_title::autonomous ai agents and recursive self improvement a comprehensive survey of contemporary architectures capabilities and safety frameworks": {
+    "status": "HTTP_429"
+  },
+  "cr_title::autonomous ai agents and recursive self improvement a comprehensive survey of contemporary architectures capabilities and safety frameworks": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Autonomous AI agents and recursive self-improvement: a comprehensive survey of contemporary architectures, capabilities, and safety frameworks",
+    "doi": "10.1007/s10586-026-06537-4",
+    "abstract": ""
+  },
+  "oa_title::verify what matters budgeted verification for tool using agents under counterfactual downstream harm": {
+    "status": "HTTP_429"
+  },
+  "cr_title::verify what matters budgeted verification for tool using agents under counterfactual downstream harm": {
+    "status": "FOUND",
+    "score": 0.41947565543071164,
+    "title": "Estimating Avoidable Harm for Test-Time Compute Allocation in Long-Horizon Tool-Using Language Agents: A Controlled Computational Study and External Validation Protocol",
+    "doi": "10.47191/etj/v11i09.05",
+    "abstract": "Long-horizon tool-using language agents must decide not only what action to take, but how much inference-time computation to spend before an action whose consequences may be difficult to reverse. Existing adaptive test-time methods allocate compute using uncertainty, planning need, budget state, or task consequence, while recent counterfactual work shows that additional computation can help in one state and harm in another. This paper studies a narrower quantity: avoidable harm, defined as action consequence multiplied by the estimated reduction in failure risk obtainable from additional computation. We formulate discrete compute allocation as a budget-constrained sequential decision problem and estimate counterfactual failure risk from randomized calibration data. In a controlled stochastic-agent study with 2,500 calibration trajectories and 6,000 paired test trajectories of horizon 20, a learned avoidable-harm allocator at the same 40-unit compute budget reduced catastrophic trajectory failures from 27.55% under uniform scaling to 19.95% (difference -7.60 percentage points; 95% paired-bootstrap CI [-8.33, -6.87]) and reduced consequence-weighted failure from 6.618 to 5.887. Relative to consequence-only routing, the method further reduced catastrophic failure by 0.62 percentage points and weighted failure by 0.274 while increasing task success by 1.10 percentage points. Across 20 independent replications, the safety and weighted-loss improvements remained significant after Holm correction. The result is not an accuracy win: task success remained lower than uniform scaling (7.85% versus 10.55%), exposing a safety-utility trade-off rather than a universal dominance claim. Distribution-shift and ablation studies further show that persistent risk state and verifier signals are not uniformly beneficial. The study therefore supports avoidable harm as a useful allocation target while explicitly limiting its claims to controlled computation; we provide a pre-registered external-validation protocol for WebArena, ToolHaystack, LongCLI-Bench, OS-Harm, and related environments."
+  },
+  "oa_doi::10.1145/3786582.3786832": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1145/3786582.3786832": {
+    "status": "FOUND",
+    "doi": "10.1145/3786582.3786832",
+    "title": "TraceCaps: Inline Provenance and Risk Enforcement for Agentic Software Engineering",
+    "abstract": ""
+  },
+  "oa_title::tracecaps inline provenance and risk enforcement for agentic software engineering": {
+    "status": "HTTP_429"
+  },
+  "cr_title::tracecaps inline provenance and risk enforcement for agentic software engineering": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "TraceCaps: Inline Provenance and Risk Enforcement for Agentic Software Engineering",
+    "doi": "10.1145/3786582.3786832",
+    "abstract": ""
+  },
+  "oa_doi::10.1145/3805760.3814915": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1145/3805760.3814915": {
+    "status": "FOUND",
+    "doi": "10.1145/3805760.3814915",
+    "title": "Fixpad++: Automated Bug Fix Verification using LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::fixpad automated bug fix verification using llm agents": {
+    "status": "HTTP_429"
+  },
+  "cr_title::fixpad automated bug fix verification using llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Fixpad++: Automated Bug Fix Verification using LLM Agents",
+    "doi": "10.1145/3805760.3814915",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/aiita69518.2026.11567230": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/aiita69518.2026.11567230": {
+    "status": "FOUND",
+    "doi": "10.1109/aiita69518.2026.11567230",
+    "title": "A Multi-Agent Framework for Step-Level Tool-Call Safety Evaluation in Industrial Control Systems",
+    "abstract": ""
+  },
+  "oa_title::a multi agent framework for step level tool call safety evaluation in industrial control systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a multi agent framework for step level tool call safety evaluation in industrial control systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Multi-Agent Framework for Step-Level Tool-Call Safety Evaluation in Industrial Control Systems",
+    "doi": "10.1109/aiita69518.2026.11567230",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icsccc69031.2026.11600150": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icsccc69031.2026.11600150": {
+    "status": "FOUND",
+    "doi": "10.1109/icsccc69031.2026.11600150",
+    "title": "OpenMCPSpec: A Specification Framework for Robust, Governed, and Lifecycle-Managed Machine Communicable Processes in LLM-Agent Systems",
+    "abstract": ""
+  },
+  "oa_title::openmcpspec a specification framework for robust governed and lifecycle managed machine communicable processes in llm agent systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::openmcpspec a specification framework for robust governed and lifecycle managed machine communicable processes in llm agent systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "OpenMCPSpec: A Specification Framework for Robust, Governed, and Lifecycle-Managed Machine Communicable Processes in LLM-Agent Systems",
+    "doi": "10.1109/icsccc69031.2026.11600150",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/mc.2026.3682309": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/mc.2026.3682309": {
+    "status": "FOUND",
+    "doi": "10.1109/mc.2026.3682309",
+    "title": "Securing Autonomous Workflows: Identity and Authorization in Agentic Systems",
+    "abstract": ""
+  },
+  "oa_title::securing autonomous workflows identity and authorization in agentic systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::securing autonomous workflows identity and authorization in agentic systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Securing Autonomous Workflows: Identity and Authorization in Agentic Systems",
+    "doi": "10.1109/mc.2026.3682309",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-23311-0_22": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-23311-0_22": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-23311-0_22",
+    "title": "A Zero-Trust Identity Framework for Autonomous AI Agents: Cryptographic Attestation and Policy-Driven Authorization",
+    "abstract": ""
+  },
+  "oa_title::a zero trust identity framework for autonomous ai agents cryptographic attestation and policy driven authorization": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a zero trust identity framework for autonomous ai agents cryptographic attestation and policy driven authorization": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Zero-Trust Identity Framework for Autonomous AI Agents: Cryptographic Attestation and Policy-Driven Authorization",
+    "doi": "10.1007/978-3-032-23311-0_22",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icecet65726.2026.11632299": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icecet65726.2026.11632299": {
+    "status": "FOUND",
+    "doi": "10.1109/icecet65726.2026.11632299",
+    "title": "Trace-Based Governance for Agentic AI: An MCP-Based Framework for Observability, Human Oversight, and Accountability",
+    "abstract": ""
+  },
+  "oa_title::trace based governance for agentic ai an mcp based framework for observability human oversight and accountability": {
+    "status": "HTTP_429"
+  },
+  "cr_title::trace based governance for agentic ai an mcp based framework for observability human oversight and accountability": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Trace-Based Governance for Agentic AI: An MCP-Based Framework for Observability, Human Oversight, and Accountability",
+    "doi": "10.1109/icecet65726.2026.11632299",
+    "abstract": ""
+  },
+  "oa_title::power calibration and delegation in human agentic ai interaction psychological pathways": {
+    "status": "HTTP_429"
+  },
+  "cr_title::power calibration and delegation in human agentic ai interaction psychological pathways": {
+    "status": "FOUND",
+    "score": 0.39779005524861877,
+    "title": "HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems",
+    "doi": "10.2139/ssrn.6493442",
+    "abstract": "Agentic AI systems increasingly execute consequential actions on behalf of human principals, delegating tasks through multi-step chains of autonomous agents. No existing standard addresses a fundamental accountability gap: verifying that terminal actions in a delegation chain were genuinely authorized by a human principal, through what chain of delegation, and under what scope. This paper presents the Human Delegation Provenance (HDP) protocol, a lightweight token-based scheme that cryptographically captures and verifies human authorization context in multi-agent systems. An HDP token binds a human authorization event to a session, records each agent's delegation action as a signed hop in an append-only chain, and enables any participant to verify the full provenance record using only the issuer's Ed25519 public key and the current session identifier. Verification is fully offline, requiring no registry lookups or third-party trust anchors. We situate HDP within the existing landscape of delegation protocols, identify its distinct design point relative to OAuth 2.0 Token Exchange (RFC 8693), JSON Web Tokens (RFC 7519), UCAN, and the Intent Provenance Protocol (draft-haberkamp-ipp-00), and demonstrate that existing standards fail to address the multi-hop, append-only, human-provenance requirements of agentic systems. HDP has been published as an IETF Internet-Draft (draft-helixar-hdp-agentic-delegation-00) and a reference TypeScript SDK is publicly available."
+  },
+  "oa_doi::10.1007/978-3-032-28316-0_17": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-28316-0_17": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-28316-0_17",
+    "title": "From Human-in-the-Loop to Human-on-the-Loop: VALID Framework for Resilient Trust in Autonomous AI Agent Contract Execution",
+    "abstract": ""
+  },
+  "oa_title::from human in the loop to human on the loop valid framework for resilient trust in autonomous ai agent contract execution": {
+    "status": "HTTP_429"
+  },
+  "cr_title::from human in the loop to human on the loop valid framework for resilient trust in autonomous ai agent contract execution": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "From Human-in-the-Loop to Human-on-the-Loop: VALID Framework for Resilient Trust in Autonomous AI Agent Contract Execution",
+    "doi": "10.1007/978-3-032-28316-0_17",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icccn69946.2026.11662660": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icccn69946.2026.11662660": {
+    "status": "FOUND",
+    "doi": "10.1109/icccn69946.2026.11662660",
+    "title": "An LLM-Based Autonomous Agent for Network Diagnosis and Recovery on a Digital Twin",
+    "abstract": ""
+  },
+  "oa_title::an llm based autonomous agent for network diagnosis and recovery on a digital twin": {
+    "status": "HTTP_429"
+  },
+  "cr_title::an llm based autonomous agent for network diagnosis and recovery on a digital twin": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "An LLM-Based Autonomous Agent for Network Diagnosis and Recovery on a Digital Twin",
+    "doi": "10.1109/icccn69946.2026.11662660",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/isda70544.2026.11606052": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/isda70544.2026.11606052": {
+    "status": "FOUND",
+    "doi": "10.1109/isda70544.2026.11606052",
+    "title": "Provably Safe Action Spaces for Agentic AI in Time-Critical Clinical Workflows",
+    "abstract": ""
+  },
+  "oa_title::provably safe action spaces for agentic ai in time critical clinical workflows": {
+    "status": "HTTP_429"
+  },
+  "cr_title::provably safe action spaces for agentic ai in time critical clinical workflows": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Provably Safe Action Spaces for Agentic AI in Time-Critical Clinical Workflows",
+    "doi": "10.1109/isda70544.2026.11606052",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/aitest70988.2026.00036": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/aitest70988.2026.00036": {
+    "status": "FOUND",
+    "doi": "10.1109/aitest70988.2026.00036",
+    "title": "Metamorphic Testing of Multi-Agent LLM Systems: A Trace-Based Behavioral Oracle Framework",
+    "abstract": ""
+  },
+  "oa_title::metamorphic testing of multi agent llm systems a trace based behavioral oracle framework": {
+    "status": "HTTP_429"
+  },
+  "cr_title::metamorphic testing of multi agent llm systems a trace based behavioral oracle framework": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Metamorphic Testing of Multi-Agent LLM Systems: A Trace-Based Behavioral Oracle Framework",
+    "doi": "10.1109/aitest70988.2026.00036",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icipai70034.2026.11605740": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icipai70034.2026.11605740": {
+    "status": "FOUND",
+    "doi": "10.1109/icipai70034.2026.11605740",
+    "title": "Evidence-Verified LLM Agents for Safe Backend Incident Remediation",
+    "abstract": ""
+  },
+  "oa_title::evidence verified llm agents for safe backend incident remediation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::evidence verified llm agents for safe backend incident remediation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Evidence-Verified LLM Agents for Safe Backend Incident Remediation",
+    "doi": "10.1109/icipai70034.2026.11605740",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/iotaai70471.2026.11607778": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/iotaai70471.2026.11607778": {
+    "status": "FOUND",
+    "doi": "10.1109/iotaai70471.2026.11607778",
+    "title": "GEM: Graph-Evidence Executive Planning for Lightweight LLM Agents in Text-Based Embodied Tasks",
+    "abstract": ""
+  },
+  "oa_title::gem graph evidence executive planning for lightweight llm agents in text based embodied tasks": {
+    "status": "HTTP_429"
+  },
+  "cr_title::gem graph evidence executive planning for lightweight llm agents in text based embodied tasks": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "GEM: Graph-Evidence Executive Planning for Lightweight LLM Agents in Text-Based Embodied Tasks",
+    "doi": "10.1109/iotaai70471.2026.11607778",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/eitce70137.2026.11634569": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/eitce70137.2026.11634569": {
+    "status": "FOUND",
+    "doi": "10.1109/eitce70137.2026.11634569",
+    "title": "LLM-Agent Assisted Black-Box Detection of IDOR/BOLA via Multi-Role Differential Validation",
+    "abstract": ""
+  },
+  "oa_title::llm agent assisted black box detection of idor bola via multi role differential validation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::llm agent assisted black box detection of idor bola via multi role differential validation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "LLM-Agent Assisted Black-Box Detection of IDOR/BOLA via Multi-Role Differential Validation",
+    "doi": "10.1109/eitce70137.2026.11634569",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/lmiat70705.2026.11682229": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/lmiat70705.2026.11682229": {
+    "status": "FOUND",
+    "doi": "10.1109/lmiat70705.2026.11682229",
+    "title": "Multi-Agent Tool Sharing: Task Allocation, Concurrent Access Coordination, and Consistency Guarantees in Collaborative LLM Agent Systems",
+    "abstract": ""
+  },
+  "oa_title::multi agent tool sharing task allocation concurrent access coordination and consistency guarantees in collaborative llm agent systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::multi agent tool sharing task allocation concurrent access coordination and consistency guarantees in collaborative llm agent systems": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Multi-Agent Tool Sharing: Task Allocation, Concurrent Access Coordination, and Consistency Guarantees in Collaborative LLM Agent Systems",
+    "doi": "10.1109/lmiat70705.2026.11682229",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/sera69989.2026.11618645": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/sera69989.2026.11618645": {
+    "status": "FOUND",
+    "doi": "10.1109/sera69989.2026.11618645",
+    "title": "Temporal Poisoning: a Non-Adversarial, Timing-Induced Instability in Long-Term Memory of LLM Agents",
+    "abstract": ""
+  },
+  "oa_title::temporal poisoning a non adversarial timing induced instability in long term memory of llm agents": {
+    "status": "HTTP_429"
+  },
+  "cr_title::temporal poisoning a non adversarial timing induced instability in long term memory of llm agents": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Temporal Poisoning: a Non-Adversarial, Timing-Induced Instability in Long-Term Memory of LLM Agents",
+    "doi": "10.1109/sera69989.2026.11618645",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/lmiat70705.2026.11682665": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/lmiat70705.2026.11682665": {
+    "status": "FOUND",
+    "doi": "10.1109/lmiat70705.2026.11682665",
+    "title": "BioFlowAgent: A Registry-Constrained LLM Agent Separating Planning from Execution for Reproducible Bioinformatics Workflows",
+    "abstract": ""
+  },
+  "oa_title::bioflowagent a registry constrained llm agent separating planning from execution for reproducible bioinformatics workflows": {
+    "status": "HTTP_429"
+  },
+  "cr_title::bioflowagent a registry constrained llm agent separating planning from execution for reproducible bioinformatics workflows": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "BioFlowAgent: A Registry-Constrained LLM Agent Separating Planning from Execution for Reproducible Bioinformatics Workflows",
+    "doi": "10.1109/lmiat70705.2026.11682665",
+    "abstract": ""
+  },
+  "oa_doi::10.5220/0014456800004052": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.5220/0014456800004052": {
+    "status": "FOUND",
+    "doi": "10.5220/0014456800004052",
+    "title": "Sura.ai: Multi-Agent Infrastructure Recovery with LLM-Powered Autonomous Remediation",
+    "abstract": ""
+  },
+  "oa_title::sura ai multi agent infrastructure recovery with llm powered autonomous remediation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::sura ai multi agent infrastructure recovery with llm powered autonomous remediation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Sura.ai: Multi-Agent Infrastructure Recovery with LLM-Powered Autonomous Remediation",
+    "doi": "10.5220/0014456800004052",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-27927-9_7": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-27927-9_7": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-27927-9_7",
+    "title": "Verification of Synchronization of LLM Agents in the Integrated Model of Distributed Systems Using Petri Net",
+    "abstract": ""
+  },
+  "oa_title::verification of synchronization of llm agents in the integrated model of distributed systems using petri net": {
+    "status": "HTTP_429"
+  },
+  "cr_title::verification of synchronization of llm agents in the integrated model of distributed systems using petri net": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Verification of Synchronization of LLM Agents in the Integrated Model of Distributed Systems Using Petri Net",
+    "doi": "10.1007/978-3-032-27927-9_7",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/sist61674.2026.11596258": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/sist61674.2026.11596258": {
+    "status": "FOUND",
+    "doi": "10.1109/sist61674.2026.11596258",
+    "title": "Agentic Ai-Driven Architecture for Dynamic Verification of Infrastructure Digital Twins",
+    "abstract": ""
+  },
+  "oa_title::agentic ai driven architecture for dynamic verification of infrastructure digital twins": {
+    "status": "HTTP_429"
+  },
+  "cr_title::agentic ai driven architecture for dynamic verification of infrastructure digital twins": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Agentic Ai-Driven Architecture for Dynamic Verification of Infrastructure Digital Twins",
+    "doi": "10.1109/sist61674.2026.11596258",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/iicc69623.2026.11582739": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/iicc69623.2026.11582739": {
+    "status": "FOUND",
+    "doi": "10.1109/iicc69623.2026.11582739",
+    "title": "Secure Identity Management and Continuous Adaptive Governance for Agentic AI Systems: A Lyapunov-Stable Mean-Field Framework with Game-Theoretic Authorization",
+    "abstract": ""
+  },
+  "oa_title::secure identity management and continuous adaptive governance for agentic ai systems a lyapunov stable mean field framework with game theoretic authorization": {
+    "status": "HTTP_429"
+  },
+  "cr_title::secure identity management and continuous adaptive governance for agentic ai systems a lyapunov stable mean field framework with game theoretic authorization": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Secure Identity Management and Continuous Adaptive Governance for Agentic AI Systems: A Lyapunov-Stable Mean-Field Framework with Game-Theoretic Authorization",
+    "doi": "10.1109/iicc69623.2026.11582739",
+    "abstract": ""
+  },
+  "oa_doi::10.5220/0014840300004015": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.5220/0014840300004015": {
+    "status": "FOUND",
+    "doi": "10.5220/0014840300004015",
+    "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
+    "abstract": ""
+  },
+  "oa_title::a trace based assurance framework for agentic ai orchestration contracts testing and governance": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a trace based assurance framework for agentic ai orchestration contracts testing and governance": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
+    "doi": "10.5220/0014840300004015",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/aitc70732.2026.11666578": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/aitc70732.2026.11666578": {
+    "status": "FOUND",
+    "doi": "10.1109/aitc70732.2026.11666578",
+    "title": "Adaptive Agentic AI Frameworks for Autonomous Task Planning and Parallel Execution",
+    "abstract": ""
+  },
+  "oa_title::adaptive agentic ai frameworks for autonomous task planning and parallel execution": {
+    "status": "HTTP_429"
+  },
+  "cr_title::adaptive agentic ai frameworks for autonomous task planning and parallel execution": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Adaptive Agentic AI Frameworks for Autonomous Task Planning and Parallel Execution",
+    "doi": "10.1109/aitc70732.2026.11666578",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-21524-6_16": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-21524-6_16": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-21524-6_16",
+    "title": "Sovereign AI Agents for Fair and Transparent Loan Decision-Making: A Digital Sovereignty Framework for Credit Underwriting",
+    "abstract": ""
+  },
+  "oa_title::sovereign ai agents for fair and transparent loan decision making a digital sovereignty framework for credit underwriting": {
+    "status": "HTTP_429"
+  },
+  "cr_title::sovereign ai agents for fair and transparent loan decision making a digital sovereignty framework for credit underwriting": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Sovereign AI Agents for Fair and Transparent Loan Decision-Making: A Digital Sovereignty Framework for Credit Underwriting",
+    "doi": "10.1007/978-3-032-21524-6_16",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icst69053.2026.00013": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icst69053.2026.00013": {
+    "status": "FOUND",
+    "doi": "10.1109/icst69053.2026.00013",
+    "title": "Designing and Verifying Agentic AI Systems through Structural Architecture and State Analysis",
+    "abstract": ""
+  },
+  "oa_title::designing and verifying agentic ai systems through structural architecture and state analysis": {
+    "status": "HTTP_429"
+  },
+  "cr_title::designing and verifying agentic ai systems through structural architecture and state analysis": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Designing and Verifying Agentic AI Systems through Structural Architecture and State Analysis",
+    "doi": "10.1109/icst69053.2026.00013",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/aicconf69182.2026.11600665": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/aicconf69182.2026.11600665": {
+    "status": "FOUND",
+    "doi": "10.1109/aicconf69182.2026.11600665",
+    "title": "Bridging the Gap: An Agentic AI Framework for Reverse-Engineering Automated Test Scripts into Natural Language Requirements",
+    "abstract": ""
+  },
+  "oa_title::bridging the gap an agentic ai framework for reverse engineering automated test scripts into natural language requirements": {
+    "status": "HTTP_429"
+  },
+  "cr_title::bridging the gap an agentic ai framework for reverse engineering automated test scripts into natural language requirements": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Bridging the Gap: An Agentic AI Framework for Reverse-Engineering Automated Test Scripts into Natural Language Requirements",
+    "doi": "10.1109/aicconf69182.2026.11600665",
+    "abstract": ""
+  },
+  "oa_doi::10.1007/978-3-032-07986-2_1": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1007/978-3-032-07986-2_1": {
+    "status": "FOUND",
+    "doi": "10.1007/978-3-032-07986-2_1",
+    "title": "Shadow Management: Leveraging Responsible Agentic AI to Revolutionize Safe Decision-Making in Complex Organizations",
+    "abstract": ""
+  },
+  "oa_title::shadow management leveraging responsible agentic ai to revolutionize safe decision making in complex organizations": {
+    "status": "HTTP_429"
+  },
+  "cr_title::shadow management leveraging responsible agentic ai to revolutionize safe decision making in complex organizations": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Shadow Management: Leveraging Responsible Agentic AI to Revolutionize Safe Decision-Making in Complex Organizations",
+    "doi": "10.1007/978-3-032-07986-2_1",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/iciptm69057.2026.11465464": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/iciptm69057.2026.11465464": {
+    "status": "FOUND",
+    "doi": "10.1109/iciptm69057.2026.11465464",
+    "title": "Autonomous Agentic AI Frameworks for Supply Chain Resilience and Decision-Making",
+    "abstract": ""
+  },
+  "oa_title::autonomous agentic ai frameworks for supply chain resilience and decision making": {
+    "status": "HTTP_429"
+  },
+  "cr_title::autonomous agentic ai frameworks for supply chain resilience and decision making": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Autonomous Agentic AI Frameworks for Supply Chain Resilience and Decision-Making",
+    "doi": "10.1109/iciptm69057.2026.11465464",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/icssit69151.2026.11656407": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/icssit69151.2026.11656407": {
+    "status": "FOUND",
+    "doi": "10.1109/icssit69151.2026.11656407",
+    "title": "Agentic AI-Driven Decision Support Systems for Real-Time Emission Monitoring and Climate Change Mitigation: A Comprehensive Survey",
+    "abstract": ""
+  },
+  "oa_title::agentic ai driven decision support systems for real time emission monitoring and climate change mitigation a comprehensive survey": {
+    "status": "HTTP_429"
+  },
+  "cr_title::agentic ai driven decision support systems for real time emission monitoring and climate change mitigation a comprehensive survey": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Agentic AI-Driven Decision Support Systems for Real-Time Emission Monitoring and Climate Change Mitigation: A Comprehensive Survey",
+    "doi": "10.1109/icssit69151.2026.11656407",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/saner67736.2026.00027": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/saner67736.2026.00027": {
+    "status": "FOUND",
+    "doi": "10.1109/saner67736.2026.00027",
+    "title": "AgentHAB: Automating OpenHAB Rule Generation with Multi-Agent Policy and Validation",
+    "abstract": ""
+  },
+  "oa_title::agenthab automating openhab rule generation with multi agent policy and validation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::agenthab automating openhab rule generation with multi agent policy and validation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "AgentHAB: Automating OpenHAB Rule Generation with Multi-Agent Policy and Validation",
+    "doi": "10.1109/saner67736.2026.00027",
+    "abstract": ""
+  },
+  "oa_title::toward a requirements driven neuro symbolic approach to developing trustworthy ai agent systems": {
+    "status": "HTTP_429"
+  },
+  "cr_title::toward a requirements driven neuro symbolic approach to developing trustworthy ai agent systems": {
+    "status": "FOUND",
+    "score": 0.4380165289256198,
+    "title": "Neuro-Symbolic AI in Education: A Systematic Literature Review of Architectures, Pedagogical Integration, and Trustworthy Intelligent Learning Systems",
+    "doi": "10.2139/ssrn.7346360",
+    "abstract": "Recent advances in educational artificial intelligence have been driven largely by large language models and other neural architectures. However, these systems continue to face challenges in factual reliability, pedagogical consistency, explainability, and governance. Neuro-symbolic artificial intelligence overcomes these limitations by combining neural learning capabilities with symbolic reasoning to create more reliable intelligent learning systems. Yet there has been no systematic literature review that has systematically synthesized the architectural, pedagogical and governance aspects of this emerging field. We systematically searched the IEEE Xplore, Scopus, and Web of Science databases up to 10 July 2026, according to the PRISMA 2020 guidelines. A validated hybrid screening process, incorporating automated screening and required manual screening, yielded 40 studies from 3,492 records. To better reflect architecture trends, we also built an inventory of neuro-symbolic educational systems on the framework-level, which contains 92 systems. The review reveals that 60.0 percent of the studies included in the analysis demonstrated architectural integration, pedagogical grounding and governance or explainability. At the framework level, 71.1 percent of classifiable systems adopted either unified representation or sequential integration strategies, indicating strong convergence toward a limited set of architectural paradigms. Less than half of the identified frameworks (46.7 percent) however, reported similar quantitative performance benefits, which restricts the ability to make robust cross-study comparisons. In general, the intersection of education and neuro-symbolic AI is heading toward a handful of well pedagogically grounded, but relatively under-developed, architectures in the area of governance and explainability. These findings provide a foundation for architectural standardization, transparent evaluation practices, and the development of trustworthy neuro-symbolic intelligent learning systems."
+  },
+  "oa_doi::10.1109/balkancom71095.2026.11605046": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/balkancom71095.2026.11605046": {
+    "status": "FOUND",
+    "doi": "10.1109/balkancom71095.2026.11605046",
+    "title": "From Prediction to Policy: An Agentic AI Framework for Telecom Churn with XAI-Driven Validation",
+    "abstract": ""
+  },
+  "oa_title::from prediction to policy an agentic ai framework for telecom churn with xai driven validation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::from prediction to policy an agentic ai framework for telecom churn with xai driven validation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "From Prediction to Policy: An Agentic AI Framework for Telecom Churn with XAI-Driven Validation",
+    "doi": "10.1109/balkancom71095.2026.11605046",
+    "abstract": ""
+  },
+  "oa_doi::10.1109/bigdata66926.2025.11401974": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1109/bigdata66926.2025.11401974": {
+    "status": "FOUND",
+    "doi": "10.1109/bigdata66926.2025.11401974",
+    "title": "Decentralized Identification and Communitycorroborated for Multi-Agent Access Control and Trust Management",
+    "abstract": ""
+  },
+  "oa_title::decentralized identification and communitycorroborated for multi agent access control and trust management": {
+    "status": "HTTP_429"
+  },
+  "cr_title::decentralized identification and communitycorroborated for multi agent access control and trust management": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Decentralized Identification and Communitycorroborated for Multi-Agent Access Control and Trust Management",
+    "doi": "10.1109/bigdata66926.2025.11401974",
+    "abstract": ""
+  },
+  "oa_title::llm agents for vulnerability identification and verification of cves": {
+    "status": "HTTP_429"
+  },
+  "cr_title::llm agents for vulnerability identification and verification of cves": {
+    "status": "FOUND",
+    "score": 0.48322147651006714,
+    "title": "LLM-Based Classification of CVEs for Vulnerability Analysis in Medical IT Systems",
+    "doi": "10.20944/preprints202603.0737.v1",
+    "abstract": "The digitalization of healthcare systems increases their exposure to security incidents. Security analysts use standard CVE (Common Vulnerabilities and Exposures) records to identify and mitigate vulnerabilities. However, CVEs are often incomplete or overly generic, requiring the addition of structured, actionable information to support effective decision-making. Manually performing this augmentation is unfeasible due to the rapidly growing number of published CVEs. In this paper we evaluate the capabilities of LLMs (Large Language Models) to classify and analyze CVEs within the medical IT systems domain. We propose a framework where LLMs parse structured JSON context and answer a set of specific natural language questions, enabling the categorization of vulnerabilities by their position in the medical chain, affected component types, and mapping to the MITRE ATT&amp;CK framework. While recent studies show that general LLMs can achieve high accuracy in objective CVSS elements and learn CNA-oriented patterns, they often struggle with subjective impact metrics. Our results demonstrate that domain-specific classification through natural language prompting provides the necessary granularity for medical risk prioritization. We conclude that this augmentation effectively bridges the gap in standard CVE records, allowing for a better understanding of how vulnerabilities impact critical healthcare infrastructure and patient safety."
+  },
+  "oa_title::22nd international conference on intelligent computing icic 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::22nd international conference on intelligent computing icic 2026": {
+    "status": "FOUND",
+    "score": 0.5081967213114754,
+    "title": "Advanced Intelligent Computing Technology and Applications",
+    "doi": "10.1007/978-981-92-3520-9",
+    "abstract": ""
+  },
+  "oa_title::28th international conference on pattern recognition icpr 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::28th international conference on pattern recognition icpr 2026": {
+    "status": "FOUND",
+    "score": 0.9354838709677419,
+    "title": "15th International Conference on Pattern Recognition ICPR-2000",
+    "doi": "10.1109/icpr.2000.903473",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.drudis.2026.104798": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.drudis.2026.104798": {
+    "status": "FOUND",
+    "doi": "10.1016/j.drudis.2026.104798",
+    "title": "The shelved pipeline: AI can find strategically abandoned medicines and bring them to patients",
+    "abstract": ""
+  },
+  "oa_title::the shelved pipeline ai can find strategically abandoned medicines and bring them to patients": {
+    "status": "HTTP_429"
+  },
+  "cr_title::the shelved pipeline ai can find strategically abandoned medicines and bring them to patients": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "The shelved pipeline: AI can find strategically abandoned medicines and bring them to patients",
+    "doi": "10.1016/j.drudis.2026.104798",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.rineng.2026.112956": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.rineng.2026.112956": {
+    "status": "FOUND",
+    "doi": "10.1016/j.rineng.2026.112956",
+    "title": "Electrochemical sensor-pathogen interface: Advanced materials, fabrication, and matrix-mitigation strategies using trustworthy, explainable, and agentic AI for field-deployable agricultural diagnostics",
+    "abstract": ""
+  },
+  "oa_title::electrochemical sensor pathogen interface advanced materials fabrication and matrix mitigation strategies using trustworthy explainable and agentic ai for field deployable agricultural diagnostics": {
+    "status": "HTTP_429"
+  },
+  "cr_title::electrochemical sensor pathogen interface advanced materials fabrication and matrix mitigation strategies using trustworthy explainable and agentic ai for field deployable agricultural diagnostics": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Electrochemical sensor-pathogen interface: Advanced materials, fabrication, and matrix-mitigation strategies using trustworthy, explainable, and agentic AI for field-deployable agricultural diagnostics",
+    "doi": "10.1016/j.rineng.2026.112956",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.infsof.2026.108288": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.infsof.2026.108288": {
+    "status": "FOUND",
+    "doi": "10.1016/j.infsof.2026.108288",
+    "title": "A focused survey of code agent security: Attacks, defenses, and evaluation",
+    "abstract": ""
+  },
+  "oa_title::a focused survey of code agent security attacks defenses and evaluation": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a focused survey of code agent security attacks defenses and evaluation": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A focused survey of code agent security: Attacks, defenses, and evaluation",
+    "doi": "10.1016/j.infsof.2026.108288",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.trac.2026.119022": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.trac.2026.119022": {
+    "status": "FOUND",
+    "doi": "10.1016/j.trac.2026.119022",
+    "title": "Foundation-model-assisted electrochemical sensing: from molecular recognition interfaces to autonomous point-of-need analytical decisions",
+    "abstract": ""
+  },
+  "oa_title::foundation model assisted electrochemical sensing from molecular recognition interfaces to autonomous point of need analytical decisions": {
+    "status": "HTTP_429"
+  },
+  "cr_title::foundation model assisted electrochemical sensing from molecular recognition interfaces to autonomous point of need analytical decisions": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Foundation-model-assisted electrochemical sensing: from molecular recognition interfaces to autonomous point-of-need analytical decisions",
+    "doi": "10.1016/j.trac.2026.119022",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.drudis.2026.104754": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.drudis.2026.104754": {
+    "status": "FOUND",
+    "doi": "10.1016/j.drudis.2026.104754",
+    "title": "Can agentic AI dent Eroom’s Law? Large reasoning models across the drug discovery and development pipeline",
+    "abstract": ""
+  },
+  "oa_title::can agentic ai dent eroom s law large reasoning models across the drug discovery and development pipeline": {
+    "status": "HTTP_429"
+  },
+  "cr_title::can agentic ai dent eroom s law large reasoning models across the drug discovery and development pipeline": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "Can agentic AI dent Eroom’s Law? Large reasoning models across the drug discovery and development pipeline",
+    "doi": "10.1016/j.drudis.2026.104754",
+    "abstract": ""
+  },
+  "oa_title::sacmat 2026 proceedings of the 31st acm symposium on access control models and technologies": {
+    "status": "HTTP_429"
+  },
+  "cr_title::sacmat 2026 proceedings of the 31st acm symposium on access control models and technologies": {
+    "status": "FOUND",
+    "score": 0.9294117647058824,
+    "title": "Proceedings of the 31st ACM Symposium on Access Control Models and Technologies",
+    "doi": "10.1145/3750555",
+    "abstract": ""
+  },
+  "oa_doi::10.1016/j.rser.2025.116625": {
+    "status": "HTTP_429"
+  },
+  "cr_doi::10.1016/j.rser.2025.116625": {
+    "status": "FOUND",
+    "doi": "10.1016/j.rser.2025.116625",
+    "title": "A Review and Prospects of Research on Coordinated Optimization Operation of Energy Stations",
+    "abstract": ""
+  },
+  "oa_title::a review and prospects of research on coordinated optimization operation of energy stations": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a review and prospects of research on coordinated optimization operation of energy stations": {
+    "status": "FOUND",
+    "score": 1.0,
+    "title": "A Review and Prospects of Research on Coordinated Optimization Operation of Energy Stations",
+    "doi": "10.1016/j.rser.2025.116625",
+    "abstract": ""
+  },
+  "oa_title::fifth international conference on artificial intelligence automation and algorithms ai2a 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::fifth international conference on artificial intelligence automation and algorithms ai2a 2025": {
+    "status": "FOUND",
+    "score": 0.2111801242236025,
+    "title": "A framework for estimating AI-driven savings in software development",
+    "doi": "10.1117/12.3097590",
+    "abstract": ""
+  },
+  "oa_title::2026 3rd world conference on computer and information security wccis 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::2026 3rd world conference on computer and information security wccis 2026": {
+    "status": "FOUND",
+    "score": 0.9645390070921985,
+    "title": "2026 3rd World Conference on Computer and Information Security (WCCIS)",
+    "doi": "10.1109/wccis70285.2026",
+    "abstract": ""
+  },
+  "oa_title::proceedings 2026 ieee international conference on software services engineering sse 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::proceedings 2026 ieee international conference on software services engineering sse 2026": {
+    "status": "FOUND",
+    "score": 0.8930817610062893,
+    "title": "2026 IEEE International Conference on Software Services Engineering (SSE)",
+    "doi": "10.1109/sse72781.2026",
+    "abstract": ""
+  },
+  "oa_title::13th international conference on networked systems netys 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::13th international conference on networked systems netys 2025": {
+    "status": "FOUND",
+    "score": 0.4358974358974359,
+    "title": "Networked Systems",
+    "doi": "10.1007/978-3-032-00347-8",
+    "abstract": ""
+  },
+  "oa_title::18th international conference on agents and artificial intelligence icaart 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::18th international conference on agents and artificial intelligence icaart 2026": {
+    "status": "FOUND",
+    "score": 0.8121212121212121,
+    "title": "Proceedings of the 18th International Conference on Agents and Artificial Intelligence",
+    "doi": "10.5220/0000216400004052",
+    "abstract": ""
+  },
+  "oa_title::29th international conference on engineering of complex computer systems iceccs 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::29th international conference on engineering of complex computer systems iceccs 2025": {
+    "status": "FOUND",
+    "score": 0.874251497005988,
+    "title": "11th IEEE International Conference on Engineering of Complex Computer Systems - Title",
+    "doi": "10.1109/iceccs.2006.1690344",
+    "abstract": ""
+  },
+  "oa_title::16th eai international conference on digital forensics and cyber crime icdf2c 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::16th eai international conference on digital forensics and cyber crime icdf2c 2025": {
+    "status": "FOUND",
+    "score": 0.45962732919254656,
+    "title": "A Methodology for Event Log Generation from Unstructured Digital Forensics Data",
+    "doi": "10.1007/978-3-032-22542-9_17",
+    "abstract": ""
+  },
+  "oa_title::16th international conference on game theory and ai for security gamesec 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::16th international conference on game theory and ai for security gamesec 2025": {
+    "status": "FOUND",
+    "score": 0.49673202614379086,
+    "title": "CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity",
+    "doi": "10.1007/978-3-032-08064-6_8",
+    "abstract": ""
+  },
+  "oa_title::2026 international conference on artificial intelligence systems and emerging technologies icaiset 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::2026 international conference on artificial intelligence systems and emerging technologies icaiset 2026": {
+    "status": "FOUND",
+    "score": 0.9751243781094527,
+    "title": "2026 International Conference on Artificial Intelligence, Systems, and Emerging Technologies (ICAISET)",
+    "doi": "10.1109/icaiset66439.2026",
+    "abstract": ""
+  },
+  "oa_title::proceedings 2026 ieee international conference on artificial intelligence testing aitest 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::proceedings 2026 ieee international conference on artificial intelligence testing aitest 2026": {
+    "status": "FOUND",
+    "score": 0.8994082840236687,
+    "title": "2026 IEEE International Conference on Artificial Intelligence Testing (AITest)",
+    "doi": "10.1109/aitest70988.2026",
+    "abstract": ""
+  },
+  "oa_title::7th international conference on applied machine learning and data analytics amlda 2024": {
+    "status": "HTTP_429"
+  },
+  "cr_title::7th international conference on applied machine learning and data analytics amlda 2024": {
+    "status": "FOUND",
+    "score": 0.6666666666666666,
+    "title": "Applied Machine Learning and Data Analytics",
+    "doi": "10.1007/978-3-032-18293-7",
+    "abstract": ""
+  },
+  "oa_title::9th international conference on intelligent computing and communication icicc 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::9th international conference on intelligent computing and communication icicc 2026": {
+    "status": "FOUND",
+    "score": 0.7515151515151515,
+    "title": "2026 6th International Conference on Intelligent Communications and Computing (ICICC)",
+    "doi": "10.1109/icicc71012.2026",
+    "abstract": ""
+  },
+  "oa_title::26th international conference on web engineering icwe 2026": {
+    "status": "HTTP_429"
+  },
+  "cr_title::26th international conference on web engineering icwe 2026": {
+    "status": "FOUND",
+    "score": 0.410958904109589,
+    "title": "Web Engineering",
+    "doi": "10.1007/978-3-032-29372-5",
+    "abstract": ""
+  },
+  "oa_title::proceedings 2025 40th ieee acm international conference on automated software engineering workshops asew 2025": {
+    "status": "HTTP_429"
+  },
+  "cr_title::proceedings 2025 40th ieee acm international conference on automated software engineering workshops asew 2025": {
+    "status": "FOUND",
+    "score": 0.9154228855721394,
+    "title": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+    "doi": "10.1109/asew67777.2025",
+    "abstract": ""
+  },
+  "oa_title::4th international scientific and practical conference on digital and information technologies in economics and management ditem 2024": {
+    "status": "HTTP_429"
+  },
+  "cr_title::4th international scientific and practical conference on digital and information technologies in economics and management ditem 2024": {
+    "status": "FOUND",
+    "score": 0.6530612244897959,
+    "title": "Digital and Information Technologies in Economics and Management",
+    "doi": "10.1007/978-3-031-55349-3",
+    "abstract": ""
+  },
+  "oa_title::23rd international symposium on knowledge and systems sciences kss 2024": {
+    "status": "HTTP_429"
+  },
+  "cr_title::23rd international symposium on knowledge and systems sciences kss 2024": {
+    "status": "FOUND",
+    "score": 0.594059405940594,
+    "title": "Knowledge and Systems Sciences",
+    "doi": "10.1007/978-981-96-0178-3",
+    "abstract": ""
+  },
+  "oa_title::a test 2024 proceedings of the 15th acm international workshop on automating test case design selection and evaluation co located with ssta 2024": {
+    "status": "HTTP_429"
+  },
+  "cr_title::a test 2024 proceedings of the 15th acm international workshop on automating test case design selection and evaluation co located with ssta 2024": {
+    "status": "FOUND",
+    "score": 0.848,
+    "title": "Proceedings of the 15th ACM International Workshop on Automating Test Case Design, Selection and Evaluation",
+    "doi": "10.1145/3678719",
+    "abstract": ""
+  },
+  "oa_title::14th conference on innovative data systems research cidr 2024": {
+    "status": "HTTP_429"
+  },
+  "cr_title::14th conference on innovative data systems research cidr 2024": {
+    "status": "FOUND",
+    "score": 0.5081967213114754,
+    "title": "14th Conference on DATA ANALYSIS METHODS for Software Systems",
+    "doi": "10.15388/damss.14.2023",
+    "abstract": "DAMSS-2023 is the 14th International Conference on Data Analysis Methods for Software Systems, held in Druskininkai, Lithuania. Every year at the same venue and time. The exception was in 2020, when the world was gripped by the Covid-19 pandemic and the movement of people was severely restricted. After a year’s break, the conference was back on track, and the next conference was successful in achieving its primary goal of lively scientific communication. The conference focuses on live interaction among participants. For better efficiency of communication among participants, most of the presentations are poster presentations. This format has proven to be highly effective. However, we have several oral sections, too. The history of the conference dates back to 2009 when 16 papers were presented. It began as a workshop and has evolved into a well-known conference. The idea of such a workshop originated at the Institute of Mathematics and Informatics, now the Institute of Data Science and Digital Technologies of Vilnius University. The Lithuanian Academy of Sciences and the Lithuanian Computer Society supported this idea, which gained enthusiastic acceptance from both the Lithuanian and international scientific communities. This year’s conference features 84 presentations, with 137 registered participants from 11 countries. The conference serves as a gathering point for researchers from six Lithuanian universities, making it the main annual meeting for Lithuanian computer scientists. The primary aim of the conference is to showcase research conducted at Lithuanian and foreign universities in the fields of data science and software engineering. The annual organization of the conference facilitates the rapid exchange of new ideas within the scientific community. Seven IT companies supported the conference this year, indicating the relevance of the conference topics to the business sector. In addition, the conference is supported by the Lithuanian Research Council and the National Science and Technology Council (Taiwan, R. O. C.). The conference covers a wide range of topics, including Applied Mathematics, Artificial Intelligence, Big Data, Bioinformatics, Blockchain Technologies, Business Rules, Software Engineering, Cybersecurity, Data Science, Deep Learning, High-Performance Computing, Data Visualization, Machine Learning, Medical Informatics, Modelling Educational Data, Ontological Engineering, Optimization, Quantum Computing, Signal Processing. This book provides an overview of all presentations from the DAMSS-2023 conference."
+  }
+}

@@ -1,0 +1,12 @@
+field,value
+C_total_frozen,280
+v75_remaining_queue_rows,274
+v74_prequeue_adjudicated,6
+residual_P5_processed_v86,22
+P3_processed_v86,11
+records_processed_v86,33
+v86_status_counts,"{""CORE_REVIEW"": 5, ""EXCLUDE"": 2, ""FULL_TEXT_PENDING"": 26}"
+title_only_exclusions,0
+conservative_rule,No security/tool record is promoted to CORE from title or metadata. Method-ambiguous execution semantics are FULL_TEXT_PENDING.
+corpus_status,NOT_FROZEN
+next_step,Source-resolve v86 FULL_TEXT_PENDING candidates in parallel with a large P6_GENERAL_RECALL sweep. Build exact unique-EID master once all v74-v85 adjudication files are recovered/materialized.

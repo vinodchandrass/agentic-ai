@@ -1,0 +1,26 @@
+Prepare a detailed project report on an open-access platform for Journal publications and conference proceedings preparation. The Kerala State Higher Education Council initiated this project. The conference proceedings are like https://easychair.org/  or https://www.edas.info/. The journal submission and operation are like any journal management system (publishers like Springer, Elsevier, or Wiley using a platform), e.g., https://pkp.sfu.ca/software/ojs/ (an open access platform). The journals articles are in a language (English, Malayalam, Hindi, Tamil etc.). One journal editor can operate this journal through this platform. The reviewers and authors can logina nd operate on this platform (like the journal publishers, as I mentioned - Springer, Elsevier, or Wiley journals). If you have any doubts please clarify then we can start to prepare a DPR.
+
+
+Ownership and hosting: Should KSHEC own, host and administer the central platform, with universities/colleges/research institutions in Kerala applying to create journals and conferences under it? My suggested model: Yes. Yes.
+
+Multiple journals: Should the system support potentially hundreds of independent journals, rather than being a platform for a single KSHEC journal? Suggested: Yes — multi-journal/multi-tenant architecture. Yes.
+
+Multiple conferences: Similarly, should universities, colleges and departments be able to create separate conferences and proceedings within the same platform? Suggested: Yes. Yes.
+
+Cost to users: Is the intention that journal hosting, submission, peer review, publication and conference-paper management be provided free/openly to Kerala higher-education institutions, at least initially? This will substantially influence the financial and sustainability model. Ans. Yes, maybe open access, or the institution may provide to publish hard copy as their own. Preparation of a journal issue facility is also required 
+
+Open-source requirement: When you say "open-access platform", do you mean both open-access publications and open-source software? I recommend that the DPR propose an open-source platform, preferably building/extending mature components rather than creating every module from zero. Open access platform means any of the institution in kerala can register in this platform and start operating their journal operation and publication process. Only journal credentials required like (ISSN, DOI, etc.)
+
+Languages: I propose full Unicode support for English, Malayalam, Hindi and Tamil initially, expandable to other Indian languages. More importantly, should the user interface itself be available in Malayalam/Hindi/Tamil, or only allow articles in these languages? I recommend both. English, Malayalam, Hindi, Tamil. Sanskrit
+
+DOI: Should KSHEC provide a centralized DOI facility for participating journals and proceedings? I strongly recommend including this in the DPR. Crossref's infrastructure permits DOI registration and subsequent metadata updating, which fits a centralized scholarly publishing service. www.crossref.org, no this is as per the international joural standards and requirements.We are recommending l
+
+Publication infrastructure: I propose including ISSN/ISBN metadata, DOI/Crossref, ORCID, Google Scholar discoverability, OAI-PMH, Dublin Core/JATS XML, citation exports, metadata APIs, indexing support, plagiarism-check integration, preservation/backup and usage statistics.
+
+Peer review: Should journals individually select single-blind, double-blind or open peer review, while conferences can similarly configure their reviewing model? Recommended: configurable per journal/conference. yes
+
+AI/plagiarism/ethics: I recommend modules for similarity checking, AI-use declaration, conflict-of-interest declarations, research-ethics declarations, reviewer confidentiality, corrections/retractions, version history and publication-ethics workflows—but not automated AI acceptance/rejection. no, these are journal publishers policy. only facilityneed to provide like journal submission system
+
+Conference registration: Do you also want delegate registration, payment gateway, certificates, programme/schedule, attendance and automated certificates, or should Phase I concentrate only on paper submission → review → acceptance → proceedings? EasyChair incorporates registration and payment as part of its broader conference ecosystem. EasyChair. Yes such facilities are required.
+
+DPR scale: Should this be prepared as a formal government DPR for submission to KSHEC/Government of Kerala, including technical architecture, staffing, implementation phases, timeline, server/cloud infrastructure, cybersecurity, estimated budget, recurring expenditure, governance, sustainability, risk assessment and measurable outcomes? not thatmuch format, it should be a complete DPR , how it works how can implement, any open souce can use with configuration etc.

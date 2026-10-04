@@ -1,0 +1,24 @@
+{
+  "pipeline": "DV unresolved secondary recovery v13",
+  "timestamp_utc": "2026-10-02T08:40:11.764549+00:00",
+  "input_file": "D:\\ACM\\DV_Noncandidate_805_Abstract_Master_v10.csv",
+  "input_total": 805,
+  "v10_unresolved_input": 648,
+  "recovered_v13": 339,
+  "still_unresolved_v13": 309,
+  "recovery_rate": 0.5231,
+  "source_counts": {
+    "UNRESOLVED": 309,
+    "SEMANTIC_SCHOLAR_DOI": 192,
+    "ARXIV_TITLE": 71,
+    "SEMANTIC_SCHOLAR_TITLE": 37,
+    "OPENALEX_TITLE_RETRY": 33,
+    "CROSSREF_BIBLIO_RETRY": 6
+  },
+  "doi_disagreements": 10,
+  "synthetic_abstracts": false,
+  "automatic_eligibility_decisions": 0,
+  "title_only_exclusion": false,
+  "corpus_status": "NOT_FROZEN",
+  "warning": "Recovered records require manual abstract adjudication. Still-unresolved records require metadata/full-text handling; they are not exclusions."
+}

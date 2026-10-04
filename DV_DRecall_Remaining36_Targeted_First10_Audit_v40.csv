@@ -1,0 +1,10 @@
+﻿field,value
+records_resolved_this_pass,10
+decision_counts,"{""ADJACENT"": 5, ""EXCLUDE"": 3, ""CORE"": 2}"
+primary_core,2
+core_reviews,0
+remaining_unresolved,26
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+next_step,Continue targeted authoritative/full-text recovery for the remaining 26 records.

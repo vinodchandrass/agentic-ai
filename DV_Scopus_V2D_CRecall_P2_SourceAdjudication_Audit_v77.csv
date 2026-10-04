@@ -1,0 +1,12 @@
+﻿field,value
+C_total,280
+C_records_with_status_before_v77,14
+records_adjudicated_this_pass,5
+v77_decision_counts,"{""ADJACENT"": 3, ""EXCLUDE"": 1, ""CORE_REVIEW"": 1}"
+C_records_with_status_cumulative,19
+C_remaining_without_status,261
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+boundary_findings,"[""Closed-loop monitoring/decision support is not automatically CORE without a consequential action validity boundary."", ""Corrective retrieval/final-answer validation remains output validation, not external-action validity."", ""Review papers are retained separately as CORE_REVIEW/novelty-context evidence rather than primary CORE studies.""]"
+next_step,"Continue the remaining P2 records. Prioritize papers with explicit runtime monitoring, recovery, remediation, rollback, postcondition checking, or state-dependent action correction; then close P1/P2 before moving to P3."

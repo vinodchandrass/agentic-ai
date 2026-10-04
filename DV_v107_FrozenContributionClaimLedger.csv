@@ -1,0 +1,10 @@
+claim_id,statement,position,justification
+C1,We introduce the first authorization-to-recovery lifecycle for AI agents.,DO_NOT_CLAIM,"Prior academic, standards, and practitioner work already spans major portions of this lifecycle."
+C2,Post-effect verification/recovery is a new concept introduced by this review.,DO_NOT_CLAIM,Execution-outcome verification and recovery are already explicit in prior work.
+C3,Runtime governance of agent actions has not previously been studied.,DO_NOT_CLAIM,Runtime governance and authorization are established adjacent literatures.
+C4,This review develops an evidence-mapped Decision-Validity Architecture that organizes heterogeneous controls by the locus at which validity must be established or restored.,PRIMARY_CONTRIBUTION,Supported by frozen v102 taxonomy and 13/13 CORE architecture coverage in v105.
+C5,The review quantitatively distinguishes demonstrated CORE mechanisms from architectural/conceptual CORE_REVIEW proposals.,PRIMARY_CONTRIBUTION,"13 CORE versus 45 CORE_REVIEW, with explicit maturity and mechanism coding."
+C6,"The synthesis reveals an evidence gradient: demonstrated support is strongest around decision formation/validation and enforceable guardrails, while later lifecycle loci—especially post-effect closure—remain empirically sparse.",PRIMARY_EMPIRICAL_SYNTHESIS_FINDING,v103-v105 quantitative and robustness analyses.
+C7,"Protocol/governance architecture is more prevalent in CORE_REVIEW than CORE, whereas deterministic/policy guardrails are substantially more concentrated in CORE.",SUPPORTED_COMPARATIVE_FINDING,Guardrails 7/13 CORE vs 6/45 CORE_REVIEW; Fisher p=0.00496. Trust/protocol governance 0/13 vs 12/45; sparse-cell caution.
+C8,The framework proves that the five loci form a causal sequence.,DO_NOT_CLAIM,The architecture is evidence-derived and organizational; causal ordering has not been experimentally established.
+C9,The identified gaps characterize all agentic AI research.,DO_NOT_CLAIM,Evidence is domain-concentrated: cybersecurity/network/cloud comprises 34/58 records.

@@ -1,0 +1,13 @@
+field,value
+C_total,280
+C_records_with_status_before_v79,25
+records_statused_v79,10
+v79_status_counts,"{""ADJACENT"": 8, ""CORE_REVIEW"": 1, ""FULL_TEXT_PENDING"": 1}"
+C_records_with_status_cumulative,35
+C_remaining_without_status,245
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+new_core_v79,0
+new_core_review_v79,1
+next_step,"Continue larger source-backed C_RECALL_PROTECTION batches, prioritizing unresolved P1/P2 and high-signal P4. Reconcile newly surfaced recall candidates separately before any corpus addition; do not bulk-add or freeze corpus."

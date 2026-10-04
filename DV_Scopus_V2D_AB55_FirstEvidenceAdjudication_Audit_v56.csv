@@ -1,0 +1,11 @@
+﻿field,value
+records_adjudicated,5
+decision_counts,"{""CORE"": 3, ""ADJACENT"": 1, ""CORE_REVIEW"": 1}"
+primary_core,3
+core_review,1
+adjacent,1
+title_only_exclusions,0
+screening_rule_changed,False
+remaining_AB55_not_yet_adjudicated,50
+corpus_status,NOT_FROZEN
+next_step,Continue evidence recovery/adjudication for the remaining 50 A/B new-discovery records; keep CORE_REVIEW separate from primary CORE.

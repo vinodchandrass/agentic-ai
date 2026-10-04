@@ -1,0 +1,3 @@
+screening_status,count,mean,median,min,max
+CORE,13,1.9230769230769231,2.0,1,3
+CORE_REVIEW,45,1.1333333333333333,1.0,0,3

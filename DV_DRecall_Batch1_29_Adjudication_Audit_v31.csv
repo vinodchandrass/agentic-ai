@@ -1,0 +1,14 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION Batch1 recovered-29 semantic adjudication v31
+timestamp_utc,2026-10-03T03:06:05.993188+00:00
+records_adjudicated,29
+decision_counts,"{""ADJACENT"": 13, ""EXCLUDE"": 10, ""CORE"": 5, ""UNCERTAIN"": 1}"
+primary_core,5
+core_reviews,0
+uncertain,1
+doi_disagreement_records,1
+frozen_screening_rule_changed,False
+title_only_exclusions,0
+remaining_batch1_without_recovered_evidence,46
+corpus_status,NOT_FROZEN
+next_step,Targeted evidence recovery for the 46 still unresolved Batch1 records; separately audit the one DOI-disagreement recovered match before publication-grade aggregation.

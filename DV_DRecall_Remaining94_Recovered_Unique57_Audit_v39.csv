@@ -1,0 +1,18 @@
+﻿field,value
+v38_input_rows,94
+v38_recovered_rows,58
+exact_duplicate_recovered_rows_removed_before_adjudication,1
+unique_recovered_records_adjudicated,57
+decision_counts,"{""ADJACENT"": 21, ""EXCLUDE"": 19, ""CORE"": 14, ""CORE_REVIEW"": 3}"
+primary_core,14
+core_reviews,3
+adjacent,21
+exclude,19
+uncertain,0
+doi_disagreements,0
+still_unresolved_rows_v38,36
+unique_records_remaining_after_duplicate_correction,36
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+next_step,"Targeted authoritative/full-text recovery for the 36 still-unresolved unique records, then aggregate the corrected 93 unique records from the nominal 94-row v29 remainder."

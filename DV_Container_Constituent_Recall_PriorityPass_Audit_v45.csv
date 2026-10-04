@@ -1,0 +1,10 @@
+﻿field,value
+priority_conferences_checked,"[""ICECCS 2025"", ""GameSec 2025"", ""AITest 2026"", ""ASEW 2025""]"
+constituent_candidates_recorded,7
+decision_counts,"{""ADJACENT"": 4, ""EXCLUDE"": 2, ""UNCERTAIN"": 1}"
+exact_title_matches_in_DRecall_168,0
+new_primary_core_from_this_pass,0
+uncertain_requiring_fulltext,1
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,"Continue constituent-paper recall across remaining conference events and deduplicate candidates against the full indexed discovery master, not only D_RECALL 168."

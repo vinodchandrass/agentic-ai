@@ -1,0 +1,12 @@
+metric,value
+verified_core_sources,8
+peer_reviewed_journal_sources,3
+preprint_or_spec_sources,4
+internet_draft_sources,1
+new_close_competitors_added,4
+absolute_first_claims_allowed,NO
+distinctive_contribution,"Decision-validity-specific evidence mapping of mechanisms × consequential validity loci × evidence maturity, plus quantified CORE/CORE_REVIEW evidence gradient."
+bibliographic_gate,PASS_WITH_CONSERVATIVE_NOVELTY_WORDING
+analysis_changes,0
+writing_gate,OPEN
+v110_state,BIBLIOGRAPHIC_AND_CITATION_POSITION_FROZEN

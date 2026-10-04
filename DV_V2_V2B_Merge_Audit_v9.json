@@ -1,0 +1,72 @@
+{
+  "pipeline": "DV Scopus V2 + V2B merge/dedup v9",
+  "timestamp_utc": "2026-10-01T16:50:49.184492+00:00",
+  "inputs": {
+    "V2": "D:\\ACM\\Scopus_V2_Production_Candidate.csv",
+    "V2B": "D:\\ACM\\Scopus_V2B_StateCommit_Candidate.csv"
+  },
+  "input_counts": {
+    "V2": 993,
+    "V2B": 80,
+    "combined_raw": 1073
+  },
+  "dedup_hierarchy": [
+    "EID",
+    "DOI",
+    "normalized_title"
+  ],
+  "unique_master_records": 1024,
+  "duplicates_removed": 49,
+  "overlap_rows_written": 46,
+  "sentinel_diagnostic": {
+    "ATR": {
+      "found": false,
+      "matches": []
+    },
+    "CORDON": {
+      "found": false,
+      "matches": []
+    },
+    "TOCTOU": {
+      "found": false,
+      "matches": []
+    },
+    "IEIB": {
+      "found": true,
+      "matches": [
+        "A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents"
+      ]
+    },
+    "IBBC": {
+      "found": true,
+      "matches": [
+        "IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents"
+      ]
+    },
+    "VERIACT": {
+      "found": true,
+      "matches": [
+        "VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents"
+      ]
+    },
+    "AGENTGUARD": {
+      "found": true,
+      "matches": [
+        "AgentGuard: Runtime Verification of AI Agents"
+      ]
+    }
+  },
+  "supplementary_frontier_sentinels": [
+    "ATR",
+    "CORDON",
+    "TOCTOU"
+  ],
+  "automatic_eligibility_decisions": 0,
+  "corpus_status": "INDEXED_DISCOVERY_MASTER_NOT_ELIGIBILITY_FROZEN",
+  "warning": "Merge/dedup only. Do not interpret title-level absence as exclusion and do not mix review papers with primary mechanism-frequency evidence.",
+  "outputs": {
+    "master": "DV_Scopus_Indexed_Discovery_Master_v9.csv",
+    "overlap": "DV_V2_V2B_Overlap_v9.csv",
+    "audit": "DV_V2_V2B_Merge_Audit_v9.json"
+  }
+}

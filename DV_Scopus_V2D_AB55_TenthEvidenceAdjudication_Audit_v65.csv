@@ -1,0 +1,13 @@
+﻿field,value
+records_adjudicated_this_pass,3
+decision_counts,"{""ADJACENT"": 2, ""EXCLUDE"": 1}"
+primary_core,0
+adjacent,2
+exclude,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,27
+AB55_remaining,28
+corpus_status,NOT_FROZEN
+boundary_note,Benchmark/training-data grounding and dynamic tool synchronization remain outside CORE unless they substantively connect state/justification/authority to consequential execution validity.
+next_step,Continue source-backed adjudication of the remaining 28 A/B records; investigate Localized Diffusion Repair and other explicit repair/reliability mechanisms before lower-yield application papers.

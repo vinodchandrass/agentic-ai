@@ -1,0 +1,13 @@
+﻿field,value
+C_total,280
+C_adjudicated_before_v76,9
+records_adjudicated_or_pending_this_pass,5
+v76_status_counts,"{""EXCLUDE"": 2, ""FULL_TEXT_PENDING"": 2, ""ADJACENT"": 1}"
+C_records_with_status_cumulative,14
+C_remaining_without_status,266
+title_only_exclusions,0
+screening_rule_changed,False
+full_text_pending_this_pass,2
+corpus_status,NOT_FROZEN
+method_note,FULL_TEXT_PENDING is not an eligibility exclusion. These records remain active until method-level evidence is obtained.
+next_step,"Continue remaining P1 records with source-backed adjudication, then process P2 state-monitoring/recovery. Prioritize full text for Wrong Work Item Retrieval and Synergetic Adaptive Orchestration when accessible."

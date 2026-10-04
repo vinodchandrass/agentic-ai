@@ -1,0 +1,48 @@
+{
+  "pipeline": "DV Abstract Screening Preparation v3",
+  "timestamp_utc": "2026-10-01T15:22:19.982061+00:00",
+  "input_file": "DV_Abstract_Enriched_Master_v2.csv",
+  "input_master_records": 252,
+  "records_with_abstract": 151,
+  "automatic_inclusion_decisions": 0,
+  "automatic_exclusion_decisions": 0,
+  "screening_priority_is_eligibility": false,
+  "dimension_counts": {
+    "INTENT_SPECIFICATION": 42,
+    "DECISION_JUSTIFICATION": 101,
+    "STATE_DEPENDENCY": 76,
+    "TEMPORAL_VALIDITY": 8,
+    "REVALIDATION": 3,
+    "AUTHORITY_DELEGATION": 47,
+    "ACTION_EXECUTION": 119,
+    "COMMIT_TRANSACTION": 23,
+    "EFFECT_VALIDATION": 25,
+    "RECOVERY_COMPENSATION": 15,
+    "FORMAL_RUNTIME_ASSURANCE": 10
+  },
+  "lifecycle_stage_counts": {
+    "0": 1,
+    "1": 31,
+    "2": 85,
+    "3": 34
+  },
+  "priority_counts": {
+    "B_HIGH": 55,
+    "A_CORE_FIRST": 46,
+    "C_MEDIUM": 31,
+    "D_LOW": 19
+  },
+  "high_priority_manual_records": 101,
+  "manual_decision_vocabulary": [
+    "CORE",
+    "ADJACENT",
+    "EXCLUDE",
+    "UNCERTAIN"
+  ],
+  "corpus_status": "NOT_FROZEN",
+  "outputs": {
+    "screening_package": "DV_Abstract_Screening_Package_v3.csv",
+    "high_priority_manual_set": "DV_HighPriority_Manual_Set_v3.csv"
+  },
+  "warning": "Regex evidence flags and priority classes are screening aids only. They must not be interpreted as study eligibility decisions."
+}

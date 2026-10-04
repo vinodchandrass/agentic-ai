@@ -1,0 +1,8 @@
+component,frozen_position
+problem,"Existing agent-governance work contains many controls, but the literature lacks a consistently evidence-mapped synthesis of where validity is established across consequential agent decision/action boundaries."
+review_contribution,"Systematically classify decision-validity mechanisms by validity locus, functional mechanism, implementation maturity, and evidence status."
+framework_contribution,Evidence-mapped five-locus Decision-Validity Architecture: decision formation/validation; authority/permission; trusted context/capability; commit/execution control; post-effect verification/recovery.
+quantitative_contribution,"Quantify CORE versus CORE_REVIEW mechanism prevalence, boundary coverage, domain concentration, evidence gaps, and exact/sensitivity contrasts."
+principal_finding,Demonstrated evidence is uneven: CORE support concentrates in decision formation/validation and deterministic guardrails; commit/execution and trusted-context evidence are sparse; post-effect closure has no CORE record as its primary boundary.
+novelty_boundary,"Novelty lies in systematic evidence mapping, quantitative evidence-gradient analysis, and integration—not in inventing authorization, runtime governance, verification, recovery, or the lifecycle concept itself."
+scope_caution,The corpus is strongly concentrated in cybersecurity/network/cloud; cross-domain generalization must therefore be cautious.

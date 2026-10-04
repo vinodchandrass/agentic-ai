@@ -1,0 +1,14 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION publication Batch1 evidence recovery v30
+timestamp_utc,2026-10-03T02:17:35.990775+00:00
+input_records,75
+recovered_evidence,29
+still_unresolved,46
+recovery_rate,0.3867
+source_counts,"{""NO_EVIDENCE"": 46, ""OPENALEX_DOI"": 16, ""SEMANTIC_SCHOLAR_DOI"": 9, ""SEMANTIC_SCHOLAR_TITLE"": 2, ""OPENALEX_TITLE"": 2}"
+doi_disagreements,1
+synthetic_abstracts,False
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+manual_adjudication_required,True
+corpus_status,NOT_FROZEN

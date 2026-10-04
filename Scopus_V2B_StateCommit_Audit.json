@@ -1,0 +1,37 @@
+{
+  "pipeline": "Scopus V2 production-candidate retrieval",
+  "timestamp_utc": "2026-10-01T16:20:24.225838+00:00",
+  "endpoint": "https://api.elsevier.com/content/search/scopus",
+  "query": "TITLE-ABS-KEY( ( \"LLM agent*\" OR \"large language model agent*\" OR \"agentic AI\" OR \"agentic system*\" OR \"autonomous AI agent*\" OR \"tool-using agent*\" OR \"computer-use agent*\" OR \"GUI agent*\" ) AND ( \"decision conflict*\" OR \"decision condition*\" OR \"decision valid*\" OR revalidat* OR \"state change*\" OR \"state valid*\" OR \"state inconsisten*\" OR \"state verification\" OR stale* OR freshness OR TOCTOU OR \"time-of-check\" OR \"time of check\" OR \"semantic transaction*\" OR \"transaction boundary\" OR \"transactional execution\" OR \"commit semantics\" OR \"commit protocol*\" OR \"compare-and-set\" OR rollback OR compensation OR \"effect verification\" OR \"effect validation\" OR \"execution verification\" ) )",
+  "view": "STANDARD",
+  "page_size": 25,
+  "filters_applied": {
+    "year": null,
+    "subject_area": null,
+    "language": null,
+    "document_type": null
+  },
+  "total_results_reported": 80,
+  "records_retrieved": 80,
+  "eid_available": 80,
+  "doi_available": 76,
+  "title_available": 80,
+  "duplicate_eids": 0,
+  "duplicate_dois": 0,
+  "duplicate_titles": 0,
+  "year_distribution": {
+    "2027": 7,
+    "2026": 56,
+    "2025": 17
+  },
+  "document_type_distribution": {
+    "Conference Paper": 57,
+    "Article": 15,
+    "Book Chapter": 3,
+    "Review": 3,
+    "Data Paper": 1,
+    "Editorial": 1
+  },
+  "output_csv": "Scopus_V2B_StateCommit_Candidate.csv",
+  "corpus_status": "PRODUCTION_CANDIDATE_NOT_FROZEN"
+}

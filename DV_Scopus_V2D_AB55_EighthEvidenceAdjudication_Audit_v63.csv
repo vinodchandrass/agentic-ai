@@ -1,0 +1,13 @@
+﻿field,value
+records_adjudicated_this_pass,3
+decision_counts,"{""ADJACENT"": 2, ""UNCERTAIN"": 1}"
+primary_core,0
+adjacent,2
+uncertain,1
+title_only_exclusions,0
+screening_rule_changed,False
+unicode_matching_correction,ShieldMCP was previously missed by exact title matching because the queue title contains a non-breaking-space character; v63 uses DOI matching and corrects the workflow record.
+AB55_adjudicated_cumulative,22
+AB55_remaining,33
+corpus_status,NOT_FROZEN
+next_step,Continue source-backed adjudication of remaining A/B records and obtain fuller evidence for UNCERTAIN Agentic-IoT policy paper before final eligibility.

@@ -1,0 +1,29 @@
+{
+  "pipeline": "SCOPUS_V1_300_ENRICHMENT_V1",
+  "timestamp": "2026-10-01T07:40:48.314820",
+  "input": "scopus_v1_stratified_sample_300.csv",
+  "input_sample_design": "300-record reproducible random sample from 4,610 Scopus V1 results",
+  "sources": [
+    "Scopus STANDARD metadata",
+    "OpenAlex API",
+    "Crossref REST API"
+  ],
+  "matching_policy": {
+    "primary": "DOI exact lookup",
+    "fallback": "OpenAlex title search with normalized-title similarity >= 0.90",
+    "crossref": "Exact DOI lookup only"
+  },
+  "abstract_policy": "OpenAlex abstract preferred; Crossref abstract used only when OpenAlex abstract unavailable. No synthetic abstracts.",
+  "statistics": {
+    "input_records": 300,
+    "records_with_scopus_doi": 276,
+    "openalex_doi_matches": 271,
+    "openalex_title_matches": 8,
+    "crossref_doi_matches": 271,
+    "openalex_abstracts": 203,
+    "crossref_abstracts": 61,
+    "abstract_available_any_source": 203,
+    "unresolved_records": 97,
+    "doi_disagreement_count": 2
+  }
+}

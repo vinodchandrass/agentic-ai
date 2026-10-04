@@ -1,0 +1,10 @@
+﻿field,value
+pipeline,DV targeted fulltext/authoritative-metadata resolution queue v25
+timestamp_utc,2026-10-03T01:25:18.631372+00:00
+still_fulltext_from_v23,36
+v24_uncertain_empty_abstract,1
+combined_resolution_queue,37
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Use targeted web/publisher/preprint/DOI searches for these 37 records and capture source-backed evidence before adjudication.

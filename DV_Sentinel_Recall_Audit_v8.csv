@@ -1,0 +1,8 @@
+﻿sentinel,target_title,FOUND,similarity,matched_title,doi,eid
+ATR,From Version Conflicts to Decision Conflicts: Selective Revalidation for Long-Running AI Agents,False,0.4852,From Trajectories to States: State-Constrained Plan Execution for LLM Agents,10.1007/978-981-92-3403-5_4,2-s2.0-105046459577
+CORDON,Cordon: Semantic Transactions for Tool-Using LLM Agents,False,0.592,LatentReAct: Decomposed Latent Verification for Robust Tool-Using Agents,10.1007/978-981-92-3557-5_1,2-s2.0-105046282670
+TOCTOU,Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents,False,0.4484,The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents,10.18653/v1/2025.acl-long.1435,2-s2.0-105021040300
+IEIB,A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents,True,1.0,A Trusted Provenance and TEE-Based Reference Architecture for Intent-Execution Binding in LLM Agents,10.18280/ijsse.160810,2-s2.0-105051277065
+IBBC,IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents,True,1.0,IBBC-Guard: Intent-Bound Behavior-Chain Modeling for Unauthorized Tool-Call Detection and Dynamic Permission Control in LLM Agents,10.1109/WCCIS70285.2026.11650697,2-s2.0-105049167344
+VERIACT,VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents,True,1.0,VeriAct-Agent: Evidence-Verified Tool Execution for Reliable LLM Agents,10.1109/MLISE70044.2026.11607636,2-s2.0-105046376806
+AGENTGUARD,AgentGuard: Runtime Verification of AI Agents,True,1.0,AgentGuard: Runtime Verification of AI Agents,10.1109/ASEW67777.2025.00023,2-s2.0-105033635658

@@ -1,0 +1,47 @@
+{
+  "pipeline": "Decision Validity Candidate Extraction v1",
+  "timestamp_utc": "2026-10-01T14:32:33.876590+00:00",
+  "input_file": "Scopus_V2_Production_Candidate.csv",
+  "input_records": 993,
+  "screening_basis": "Scopus STANDARD metadata title only",
+  "automatic_decisions": "NONE",
+  "candidate_rule": {
+    "rule_1": "agent_signal AND dimension_count >= 1",
+    "rule_2": "action_signal AND dimension_count >= 2",
+    "interpretation": "High-sensitivity enrichment queue only; not study eligibility"
+  },
+  "candidate_records": 188,
+  "noncandidate_records": 805,
+  "review_novelty_records": 72,
+  "dimension_counts": {
+    "decision_basis": 73,
+    "dependency_binding": 50,
+    "temporal_validity": 1,
+    "conflict_detection": 4,
+    "revalidation": 55,
+    "authority_validity": 46,
+    "commit_binding": 34,
+    "effect_validation": 3,
+    "recovery": 16,
+    "formal_assurance": 7
+  },
+  "candidate_priority_counts": {
+    "MEDIUM": 154,
+    "HIGH": 33,
+    "VERY_HIGH": 1
+  },
+  "year_distribution": {
+    "2027": 37,
+    "2026": 753,
+    "2025": 184,
+    "2024": 18,
+    "2023": 1
+  },
+  "outputs": {
+    "all_coded": "DV_All_993_Coded_v1.csv",
+    "high_sensitivity_candidates": "DV_HighSensitivity_Candidates_v1.csv",
+    "review_novelty_set": "DV_Review_Novelty_Set_v1.csv"
+  },
+  "corpus_status": "NOT_FROZEN",
+  "important_warning": "Absence of title-level signals MUST NOT be used to exclude a record. Abstract/full-text screening is required before eligibility decisions."
+}

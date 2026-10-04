@@ -1,0 +1,11 @@
+﻿field,value
+pipeline,DV 241 unresolved full-text retrieval prioritization v22
+timestamp_utc,2026-10-02T16:51:02.000968+00:00
+input_records,241
+priority_counts,"{""D_RECALL_PROTECTION"": 194, ""C_FULLTEXT_THIRD"": 45, ""A_FULLTEXT_FIRST"": 2}"
+batch1_records,47
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+all_241_remain_unresolved_until_evidence_review,True
+corpus_status,NOT_FROZEN
+next_step,"Retrieve source-backed abstract/full text for Batch 1, adjudicate only after evidence is available, then continue remaining priorities."

@@ -1,0 +1,23 @@
+{
+  "pipeline": "DV Noncandidate high-priority recall adjudication v11",
+  "timestamp_utc": "2026-10-02T02:00:53.658753+00:00",
+  "input": "DV_Noncandidate_805_HighPriority_v10.csv",
+  "records_adjudicated": 24,
+  "evidence_basis": "Actual title + recovered abstract for every record",
+  "frozen_core_rule": "CORE: substantively addresses preservation, verification, enforcement, or restoration of the validity of an agent's consequential decision/action across the decision-to-execution/effect boundary.",
+  "decision_counts": {
+    "ADJACENT": 10,
+    "CORE": 9,
+    "EXCLUDE": 4,
+    "CORE_REVIEW": 1
+  },
+  "primary_core_count": 9,
+  "core_review_count": 1,
+  "adjacent_count": 10,
+  "exclude_count": 4,
+  "uncertain_count": 0,
+  "automatic_eligibility_decisions": 0,
+  "reviews_mixed_with_primary_frequency_evidence": false,
+  "corpus_status": "NOT_FROZEN",
+  "next_step": "Adjudicate 71 C_RECALL_LOW resolved records, then handle 648 unresolved records."
+}

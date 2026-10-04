@@ -1,0 +1,16 @@
+field,value
+C_total,280
+C_records_with_status_before_v81,44
+records_statused_v81,10
+v81_status_counts,"{""ADJACENT"": 6, ""CORE_REVIEW"": 1, ""FULL_TEXT_PENDING"": 3}"
+C_records_with_status_cumulative,54
+C_remaining_without_status,226
+title_only_exclusions,0
+screening_rule_changed,False
+prior_validated_decisions_overridden,0
+corpus_status,NOT_FROZEN
+new_primary_core_v81,0
+new_core_review_v81,1
+full_text_pending_v81,3
+key_boundary_finding,"State-changing execution alone remains insufficient for CORE; explicit runtime validation/revalidation of action validity, authority, premises, or admissibility is required. Architectural guardrails without primary validation remain CORE_REVIEW."
+next_step,"Continue larger source-backed C_RECALL_PROTECTION batches, prioritizing remaining P1/P2 and high-signal P4. Resolve FULL_TEXT_PENDING only with stronger method/full-text evidence. Do not freeze corpus or begin manuscript writing."

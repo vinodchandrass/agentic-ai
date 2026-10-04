@@ -1,0 +1,11 @@
+metric,value
+source,DV_Scopus_V2D_CoreMechanismTaxonomy_Frozen_v102.csv
+N,58
+CORE_N,13
+CORE_REVIEW_N,45
+primary_mechanism_N,47
+tests,Fisher exact two-sided; Haldane-Anscombe corrected OR for zero/sparse cells; descriptive risk differences
+multiplicity_policy,Exploratory mechanism contrasts; p-values not used as sole evidence and no confirmatory multiplicity claim
+screening_mutations,0
+taxonomy_mutations,0
+v104_state,ROBUSTNESS_AND_SENSITIVITY_COMPLETE

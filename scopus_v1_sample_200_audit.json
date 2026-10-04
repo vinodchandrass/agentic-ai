@@ -1,0 +1,15 @@
+{
+  "query_version": "SCOPUS_V1",
+  "retrieval_timestamp": "2026-10-01T07:14:06.884154",
+  "query": "TITLE-ABS-KEY( ( \"LLM agent*\" OR \"large language model agent*\" OR \"AI agent*\" OR \"agentic AI\" OR \"agentic system*\" OR \"autonomous AI agent*\" OR \"tool-using agent*\" ) AND ( correct* OR valid* OR integrity OR consisten* OR verif* OR validation OR invariant* OR specification* OR contract* OR \"runtime verification\" OR \"runtime assurance\" OR enforcement OR provenance OR authori* OR delegation OR transaction* OR commit* OR rollback OR stale* OR freshness OR \"state consistency\" OR \"state validity\" OR \"decision conflict*\" OR \"semantic transaction*\" OR \"effect validation\" OR \"action validation\" ) )",
+  "scopus_v1_total_count": 4610,
+  "target_sample": 200,
+  "retrieved_records": 200,
+  "page_size": 25,
+  "view": "STANDARD",
+  "doi_available": 187,
+  "abstract_available": 0,
+  "author_keywords_available": 0,
+  "sampling_method": "First 200 Scopus results; preliminary query audit only",
+  "purpose": "Precision/error analysis before production retrieval"
+}

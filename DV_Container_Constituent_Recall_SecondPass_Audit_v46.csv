@@ -1,0 +1,9 @@
+﻿field,value
+constituent_candidates_screened,9
+decision_counts,"{""EXCLUDE"": 4, ""ADJACENT"": 3, ""CORE"": 2}"
+primary_core,2
+already_present_in_full_indexed_master,2
+new_constituent_candidates_not_in_full_indexed_master,7
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Continue remaining proceedings-event recall checks; then reconcile all constituent candidates with full indexed master and screen only genuinely new records.

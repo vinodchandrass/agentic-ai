@@ -1,0 +1,10 @@
+metric,value
+sections,9
+planned_tables,6
+planned_figures,5
+frozen_results,10
+result_rows_without_source_version,0
+screening_or_taxonomy_mutations,0
+analytical_drift_detected,NO
+v109_state,FINAL_EVIDENCE_PACKAGE_AND_BLUEPRINT_FROZEN
+writing_gate,CONDITIONALLY_OPEN: verify final bibliography/closest academic competitors before prose drafting

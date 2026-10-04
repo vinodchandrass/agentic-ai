@@ -1,0 +1,14 @@
+component,state
+analysis_pipeline,FROZEN_THROUGH_v108
+screening_master,FROZEN_v98; QA v99 LOCK_READY
+taxonomy,FROZEN_v102
+quantitative_synthesis,v103 COMPLETE
+robustness_sensitivity,v104 COMPLETE
+evidence_architecture,v105 COMPLETE
+novelty_stress_test,v106 PASS_WITH_REPOSITIONING
+contribution_position,v107 FROZEN
+prewriting_alignment,v108 PASS/FROZEN
+manuscript_blueprint,v109 FROZEN
+allowed_future_changes,"Editorial wording, verified citations, presentation/visual design; analytical changes only if a documented error is discovered."
+prohibited_future_drift,Changing frozen status/taxonomy/denominators or inventing stronger novelty/causal claims for narrative convenience.
+writing_gate,OPEN_AFTER_FINAL_BIBLIOGRAPHIC_VERIFICATION

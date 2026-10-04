@@ -1,0 +1,12 @@
+﻿field,value
+records_adjudicated_this_pass,2
+decision_counts,"{""CORE"": 1, ""ADJACENT"": 1}"
+primary_core,1
+adjacent,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,24
+AB55_remaining,31
+corpus_status,NOT_FROZEN
+mechanism_note,TeLLAgent contributes a post-execution observation/self-correction/replanning mechanism; Hi-RAG remains tool-selection optimization rather than decision-validity assurance.
+next_step,"Continue source-backed adjudication of the remaining A/B records, emphasizing papers with effect observation, explicit recovery, state/context checks, authorization, and action gating; separately resolve the v63 Agentic-IoT UNCERTAIN record when fuller evidence is available."

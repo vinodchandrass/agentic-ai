@@ -1,0 +1,16 @@
+field,value
+C_total,280
+C_records_with_status_before_v83,66
+records_statused_v83,20
+v83_status_counts,"{""ADJACENT"": 12, ""CORE_REVIEW"": 1, ""EXCLUDE"": 4, ""FULL_TEXT_PENDING"": 3}"
+C_records_with_status_cumulative,86
+C_remaining_without_status,194
+title_only_exclusions,0
+screening_rule_changed,False
+prior_validated_decisions_overridden,0
+corpus_status,NOT_FROZEN
+new_primary_core_v83,0
+new_core_review_v83,1
+full_text_pending_v83,3
+key_boundary_finding,"P4 state-changing-domain membership is not sufficient for CORE. Computational/simulation execution, read-only querying, recommendations, diagnostic invocation, and operational automation without explicit validity/authority/premise revalidation remain ADJACENT/EXCLUDE; uncertain live-commit semantics remain FULL_TEXT_PENDING."
+next_step,"Continue remaining P4 in another maximum-throughput tranche, then sweep P5. Resolve pending cases only from stronger method/full-text evidence; keep corpus unfrozen and do not draft manuscript."

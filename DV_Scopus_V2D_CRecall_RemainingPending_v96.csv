@@ -1,0 +1,10 @@
+eid,doi,title,priority
+2-s2.0-105047272377,,"Unlocking the Potential of Small-to-Medium LLMs in Autonomous Agent Architectures: A Comparative Analysis of Gemini, Llama, and Qwen",P4_STATE_CHANGING_DOMAIN
+2-s2.0-105044118005,10.1109/AIIoT68874.2026.11569555,From Code Understanding to Multi-Agent Collaboration: A Layered Protocol Stack for Modern AI Intelligent Systems,P6_GENERAL_RECALL
+2-s2.0-105037451073,10.1109/IC3ET64989.2026.11467510,"Towards Explainable Agentic Intelligence: A LangGraph-MCP Hybrid Framework for Scalable, Fair, and Self-Improving Multi-Agent Systems",P5_TOOL_INTEGRATION_SELECTION
+2-s2.0-105046391965,10.1109/ICAD69378.2026.11608918,Agent-to-Agent -MCP Architecture for Intelligent Enterprise Payroll Management,P5_TOOL_INTEGRATION_SELECTION
+2-s2.0-105047159292,10.1109/WoWMoM69805.2026.00027,"Say the Mission, Execute the Swarm: Agent-Enhanced LLM Reasoning in the Web-of-Drones",P6_GENERAL_RECALL
+2-s2.0-105028272640,10.1007/978-981-95-1361-1_45,"An Intelligent Plug-In Playable Orchestration Model that Combines Gen-AI Prompting, RAG and Agentic AI for Efficient Cybersecurity Operations",P5_TOOL_INTEGRATION_SELECTION
+2-s2.0-105031379643,10.1109/CSITSS67709.2025.11294866,Scaling Multi-MCP AI Agents Beyond Context Limits,P5_TOOL_INTEGRATION_SELECTION
+2-s2.0-105035721414,10.1109/ISRITI68345.2025.11393196,Multi-Agent Orchestration Protocol for Generative AI Systems,P6_GENERAL_RECALL
+2-s2.0-105020669332,10.1109/ICNP65844.2025.11192362,Demo: Conversational AI Agent for ML Infrastructure Monitoring and Analysis,P2_STATE_MONITOR_RECOVERY

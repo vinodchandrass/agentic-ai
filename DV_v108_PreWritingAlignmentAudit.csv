@@ -1,0 +1,12 @@
+metric,value
+RQ_count,6
+claims_traced,10
+claims_without_RQ_link,0
+claims_without_evidence_version,0
+claims_without_scope_or_denominator,0
+claims_without_overclaim_boundary,0
+screening_or_taxonomy_mutations,0
+research_questions_aligned_to_completed_analysis,YES
+novelty_position_preserved,YES
+prewriting_alignment_gate,PASS
+v108_state,PREWRITING_ALIGNMENT_FROZEN

@@ -1,0 +1,13 @@
+﻿field,value
+pipeline,DV Batch1 47 evidence recovery v23
+timestamp_utc,2026-10-02T17:39:27.431023+00:00
+input_records,47
+recovered_evidence,11
+still_fulltext_required,36
+recovery_rate,0.234
+source_counts,"{""NO_EVIDENCE"": 36, ""SEMANTIC_SCHOLAR_DOI"": 10, ""SEMANTIC_SCHOLAR_TITLE"": 1}"
+doi_disagreements,0
+synthetic_abstracts,False
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN

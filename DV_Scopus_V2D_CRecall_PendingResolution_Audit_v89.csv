@@ -1,0 +1,11 @@
+field,value
+records_deep_checked_v89,9
+status_changes_v89,3
+resolved_from_pending_to_adjacent,3
+core_review_confirmed,1
+still_full_text_pending,5
+new_core_promotions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+decision_rule,Real-time actuation/guardrails in simulation and plan generation without demonstrated consequential commit remain ADJACENT. Governance/alignment around a production decision pipeline without explicit exact-action admission remains CORE_REVIEW. Publicly under-specified live-action systems remain FULL_TEXT_PENDING.
+next_step,Continue source recovery across all remaining FULL_TEXT_PENDING records. In parallel recover/materialize earlier v74-v84 adjudication files and build one unique-EID master; only that master should be used for exact cumulative counts and freeze readiness.

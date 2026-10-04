@@ -1,0 +1,20 @@
+{
+  "pipeline": "DV v13 recovered abstract screening preparation v14",
+  "timestamp_utc": "2026-10-02T10:59:50.869072+00:00",
+  "input_records": 339,
+  "doi_disagreement_records": 10,
+  "priority_counts": {
+    "A_SEMANTIC_FIRST": 163,
+    "C_SEMANTIC_THIRD": 136,
+    "B_SEMANTIC_SECOND": 16,
+    "D_NO_SIGNAL": 14,
+    "MATCH_AUDIT_FIRST": 10
+  },
+  "batch1_records": 100,
+  "remaining_records": 239,
+  "automatic_eligibility_decisions": 0,
+  "priority_is_not_eligibility": true,
+  "reviews_must_be_separated": true,
+  "corpus_status": "NOT_FROZEN",
+  "next_step": "Bibliographically audit DOI-disagreement records, then manually adjudicate Batch 1 from title + recovered abstract under the frozen CORE rule."
+}

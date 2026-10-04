@@ -1,0 +1,16 @@
+{
+  "pipeline": "DV Lower-Priority Recall Protection Screen v6",
+  "timestamp_utc": "2026-10-01T15:29:58.465746+00:00",
+  "records_adjudicated": 50,
+  "priority_classes": [
+    "C_MEDIUM",
+    "D_LOW"
+  ],
+  "eligibility_definition_changed": false,
+  "decision_counts": {
+    "ADJACENT": 25,
+    "EXCLUDE": 25
+  },
+  "core_records": 0,
+  "status": "RESOLVED_ABSTRACT_RECALL_PASS_COMPLETE_NOT_FINAL_CORPUS"
+}

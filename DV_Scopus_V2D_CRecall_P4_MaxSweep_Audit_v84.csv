@@ -1,0 +1,17 @@
+field,value
+C_total,280
+C_records_with_status_before_v84,86
+records_statused_v84,40
+v84_status_counts,"{""ADJACENT"": 14, ""CORE_REVIEW"": 5, ""EXCLUDE"": 15, ""FULL_TEXT_PENDING"": 6}"
+C_records_with_status_cumulative,126
+C_remaining_without_status,154
+title_only_exclusions,0
+screening_rule_changed,False
+prior_validated_decisions_overridden,0
+corpus_status,NOT_FROZEN
+new_primary_core_v84,0
+new_core_review_v84,5
+full_text_pending_v84,6
+legacy_out_of_scope_controls_excluded_v84,10
+key_boundary_finding,"Constraint enforcement, action masking, validators, supervisors, consensus, or HITL are taxonomy-relevant but remain non-CORE when demonstrated only in simulation, analytics, diagnostics, recommendations, read-only access, or infrastructure. Consequential live commit plus explicit validity/authority/premise revalidation remains required."
+next_step,"Recompute unresolved queue after v84. Finish remaining P4 records, then P5/P3/P6 in large source-backed sweeps; separately resolve FULL_TEXT_PENDING with stronger sources. Do not freeze corpus or begin manuscript writing."

@@ -1,0 +1,10 @@
+{
+  "query_version": "SCOPUS_V1",
+  "retrieval_timestamp": "2026-10-01T07:04:53.675559",
+  "query": "TITLE-ABS-KEY( ( \"LLM agent*\" OR \"large language model agent*\" OR \"AI agent*\" OR \"agentic AI\" OR \"agentic system*\" OR \"autonomous AI agent*\" OR \"tool-using agent*\" ) AND ( correct* OR valid* OR integrity OR consisten* OR verif* OR validation OR invariant* OR specification* OR contract* OR \"runtime verification\" OR \"runtime assurance\" OR enforcement OR provenance OR authori* OR delegation OR transaction* OR commit* OR rollback OR stale* OR freshness OR \"state consistency\" OR \"state validity\" OR \"decision conflict*\" OR \"semantic transaction*\" OR \"effect validation\" OR \"action validation\" ) )",
+  "total_results": 4610,
+  "http_status": 200,
+  "rate_limit_limit": "20000",
+  "rate_limit_remaining": "20000",
+  "rate_limit_reset": "1791423293"
+}

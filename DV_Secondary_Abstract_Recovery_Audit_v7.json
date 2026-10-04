@@ -1,0 +1,29 @@
+{
+  "pipeline": "DV Secondary Abstract Recovery v7",
+  "timestamp_utc": "2026-10-01T15:40:44.872640+00:00",
+  "input_file": "DV_Abstract_Unresolved_v2.csv",
+  "input_unresolved_records": 101,
+  "recovered_records": 2,
+  "still_unresolved_records": 99,
+  "recovery_rate": 0.0198,
+  "source_counts": {
+    "OPENALEX": 1,
+    "CROSSREF": 1
+  },
+  "match_method_counts": {
+    "TITLE_FALLBACK": 2
+  },
+  "doi_disagreements": 2,
+  "openalex_title_threshold": 0.92,
+  "crossref_title_threshold": 0.94,
+  "synthetic_abstracts": false,
+  "automatic_eligibility_decisions": 0,
+  "corpus_status": "NOT_FROZEN",
+  "outputs": {
+    "master": "DV_Secondary_Abstract_Recovery_Master_v7.csv",
+    "recovered": "DV_Secondary_Abstract_Recovered_v7.csv",
+    "unresolved": "DV_Still_Unresolved_v7.csv",
+    "cache": "DV_Secondary_Abstract_Recovery_Cache_v7.json"
+  },
+  "warning": "Title-fallback matches are retrieval candidates, not eligibility decisions. DOI disagreements and borderline matches require manual review."
+}

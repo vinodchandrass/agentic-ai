@@ -1,0 +1,7 @@
+table,title,location,content,statistical_or_claim_guardrail
+Table 1,Review eligibility and evidence-status framework,Methodology,"Definitions of CORE, CORE_REVIEW, ADJACENT, EXCLUDE; decision-boundary criterion",No prevalence inference.
+Table 2,Decision-validity mechanism taxonomy,Results §4,Mechanism definitions + CORE n/% + CORE_REVIEW n/% + total n/%,"Multi-label; denominators 13,45,58; rows do not sum to 100%."
+Table 3,Validity-locus coverage and evidence maturity,Results §5,L1-L5 CORE/CORE_REVIEW counts and CORE share,Primary boundary per record.
+Table 4,CORE vs CORE_REVIEW mechanism contrasts,Results §5,Risk difference; Fisher exact; corrected OR for sparse/zero cells,Exploratory; no multiplicity-confirmatory claims.
+Table 5,"Evidence gaps, domain concentration and sensitivity checks",Results §6,Primary-mechanism gap; boundary sensitivity; domain concentration,Report alternate denominator 47 explicitly.
+Table 6,Comparison with closest related governance/authorization frameworks,Discussion §7,L1-L5 coverage + quantitative systematic evidence mapping,Do not use 'first-ever' unless final citation verification supports it.

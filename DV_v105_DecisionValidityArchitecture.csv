@@ -1,0 +1,6 @@
+layer,name,boundary,validity_function,representative_mechanisms,framework_status
+L1,Decision formation & validation,proposal -> validated decision,Validate candidate reasoning/outputs before authorization or execution,Multi-agent validation; deterministic guardrails; semantic validation; state/premise revalidation,EVIDENCE_DERIVED_SYNTHESIS_MODEL_v105
+L2,Authority & permission,authority -> action,Establish whether the agent is permitted/consented to act,Authority/consent gates; policy constraints,EVIDENCE_DERIVED_SYNTHESIS_MODEL_v105
+L3,Trusted context & capability,context/capability -> trusted execution,"Establish integrity/provenance/trust of context, tools, identities, or capabilities",Cryptographic provenance; trust negotiation/protocol governance,EVIDENCE_DERIVED_SYNTHESIS_MODEL_v105
+L4,Commit & execution control,decision -> tool/external effect,Govern the transition from a selected decision to consequential execution,Governed commit; invocation-time policy/guardrails; revalidation,EVIDENCE_DERIVED_SYNTHESIS_MODEL_v105
+L5,Post-effect closure,effect -> verified/restored state,Verify achieved effect and restore/recover validity when outcomes diverge,Effect verification; recovery/remediation tied to validity restoration,EVIDENCE_DERIVED_SYNTHESIS_MODEL_v105

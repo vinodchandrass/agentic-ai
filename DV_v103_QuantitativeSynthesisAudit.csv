@@ -1,0 +1,12 @@
+metric,value
+source,DV_Scopus_V2D_CoreMechanismTaxonomy_Frozen_v102.csv
+records,58
+CORE_denominator,13
+CORE_REVIEW_denominator,45
+mechanism_model,MULTI_LABEL_RECORD_INCIDENCE
+mechanism_percentage_rule,n unique records carrying mechanism / group denominator; percentages do not sum to 100%
+boundary_model,ONE_PRIMARY_BOUNDARY_PER_RECORD
+evidence_gap_mechanisms_excluded_from_primary_prevalence,YES
+screening_status_changes,0
+taxonomy_changes,0
+v103_state,QUANTITATIVE_SYNTHESIS_COMPLETE

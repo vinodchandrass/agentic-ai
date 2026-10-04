@@ -1,0 +1,47 @@
+﻿master_group,search_families,source_record_count,eid,doi,title
+2,V2;V2B,2,2-s2.0-105045433493,10.1016/j.ipm.2026.105065,Stage-aware LLM-SLM collaboration for agentic tasks via joint routing and verification
+3,V2;V2B,2,2-s2.0-105046156554,10.1007/978-981-92-2859-1_2,Reaching the Right Shore: Securing Smartphone LLM Agents via Execution Verification
+14,V2;V2B,2,2-s2.0-105051327463,10.1016/j.apenergy.2026.128868,A trustworthy intent-driven LLM-agent workflow with state verification for power system simulation
+138,V2;V2B,2,2-s2.0-105047277605,10.3390/electronics15153254,"Current Trends in Artificial Intelligence Architectures: From Model Scaling to System Intelligence, Post-Transformer Hybrids and World Models"
+191,V2;V2B,2,2-s2.0-105041162695,10.1109/TSC.2026.3700604,AgenticOTA: An Agentic AI Pipeline for Context-Aware Over-the-Air Update Deployments in Connected Autonomous Vehicles
+192,V2;V2B,2,2-s2.0-105045960581,10.3390/technologies14070386,"Trustworthy Companion AI for Human-Aware Transition of Control: Motivation, Architecture, and Research Roadmap"
+208,V2,2,2-s2.0-105046347384,10.1145/3820171.3806880,MeshAgent: Enabling Reliable Network Management with Large Language Models
+254,V2;V2B,2,2-s2.0-105046422682,10.1145/3786335.3813188,HearthNet: Edge Multi-Agent Orchestration for Smart Homes
+279,V2;V2B,2,2-s2.0-105043707783,10.1177/15741702261450097,Budgeted agentic AI for adaptive lightweight model fine-tuning
+296,V2;V2B,2,2-s2.0-105038662510,10.1145/3772318.3790655,When Should Users Check? Modeling Confirmation Frequency in Multi-Step Agentic AI Tasks
+303,V2;V2B,2,2-s2.0-105037461427,10.3390/data11040066,"A Dataset Capturing Decision Processes, Tool Interactions and Provenance Links in Autonomous AI Agents"
+307,V2;V2B,2,2-s2.0-105037059708,10.3390/app16083847,Smart Cities in the Agentic AI Era: Three Vectors of Urban Transformation
+378,V2;V2B,2,2-s2.0-105051079310,10.1007/978-3-032-18585-3_6,"Agentic AI and Cybersecurity: Threats, Defenses, and Open Problems"
+388,V2;V2B,2,2-s2.0-105034854577,10.1609/aaai.v40i43.40974,Automating Complex Document Workflows via Stepwise and Rollback-Enabled Operation Orchestration
+419,V2;V2B,2,2-s2.0-105046390618,10.1109/ICIPAI70034.2026.11605740,Evidence-Verified LLM Agents for Safe Backend Incident Remediation
+420,V2;V2B,2,2-s2.0-105050630429,10.1109/ICERA72709.2026.11666599,Containing the Cascade: A Benchmark and Reference Mediator for Failure Propagation in Tool-Using LLM Multi-Agent Systems
+433,V2;V2B,2,2-s2.0-105048644155,10.1109/ICETIS70504.2026.11633456,ErrorChain: Error Cascade Detection and Early Truncation in Multi-Step Agents
+435,V2;V2B,2,2-s2.0-105042450166,10.32604/cmc.2026.082270,Auditable LLM Autonomy for Operational Decision-Making: Big Data Evidence and Decision Traces
+450,V2;V2B,2,2-s2.0-105044500833,10.1109/INFOCOM59046.2026.11571400,Rollback Is Not Undo: Path-Dependent Failures in LLM-Arbitrated Network Control
+456,V2,2,2-s2.0-105048465675,,Training Task Reasoning LLM Agents for Multi-turn Task Planning via Single-turn Reinforcement Learning
+462,V2;V2B,2,2-s2.0-105049146957,10.1109/IWQoS70441.2026.11661202,DelAct: A Replayable Boundary Runtime for Auditable and Governed LLM Agent Workflows
+469,V2;V2B,2,2-s2.0-105048915944,10.1109/COMPSAC69091.2026.00186,KC-Agent: A Dual-Process Cognitive Architecture for Efficient ML Model Improvement
+478,V2;V2B,2,2-s2.0-105046383589,10.1109/MLISE70044.2026.11607557,When Not to Write Memory: Governing False Promotion from Correlated Agent Traces
+498,V2;V2B,2,2-s2.0-105046619025,10.1109/ECAI69016.2026.11613753,InfraAgent: A Multi-Agent AI Framework for Predictive Deployment Failure Detection and Autonomous Remediation in Multi-Cloud Environments
+515,V2;V2B,2,2-s2.0-105043091901,10.1109/TIE.2026.3695234,Benchmarking the Engineering Reliability of LLM-Based Design for Resonant Wireless Power Transfer Systems
+527,V2,5,2-s2.0-105035609744,,"18th International Conference on Agents and Artificial Intelligence, ICAART 2026"
+545,V2;V2B,2,2-s2.0-105049563766,10.1631/jzus.A2500629,Multi-agent collaborative optimization framework for integrated energy system scheduling
+566,V2;V2B,2,2-s2.0-105051153540,10.1007/s10015-026-01152-3,Bringing the Dual-LLM pattern to practice in Google ADK for deterministic AI agent security against prompt injection
+575,V2;V2B,2,2-s2.0-105037800300,10.1109/SoutheastCon63549.2026.11475963,Governed Agentic AI for Software Platforms: A Reference Architecture for Safe Autonomy at Scale
+577,V2;V2B,2,2-s2.0-105038709560,10.1109/ICMLAS67792.2026.11484017,"Cognitive OS Agents: A Safe, Explainable, and Autonomous Architecture for Planning, Learning, and Acting at the Operating System Level"
+584,V2;V2B,2,2-s2.0-105042485370,10.1109/ICBDML68582.2026.11544399,An End-to-End Agentic AI Architecture for Autonomous Control in 5G/6G Non-Terrestrial Networks
+585,V2;V2B,2,2-s2.0-105047206345,10.1109/MAIN71116.2026.11622333,A Playground for Benchmarking Agentic AI in Network Management
+586,V2;V2B,2,2-s2.0-105041766922,10.1109/ICAIC67076.2026.11395749,Architectural Resilience in AI-Driven Decision Systems under Adversarial Conditions
+605,V2;V2B,2,2-s2.0-105041785300,10.1109/MENACOMM69507.2026.11532792,Agentic AI in Distributed SDN: Synchronization and Design Framework
+606,V2;V2B,2,2-s2.0-105038582456,10.1007/978-3-032-15806-2_1,"Beyond Intelligent Systems: Defining Agentic AI and Its Power to Reshape Innovation, Governance, Sustainability, and Trust"
+656,V2,2,2-s2.0-105020256076,,"16th International Conference on Game Theory and AI for Security, GameSec 2025"
+674,V2;V2B,2,2-s2.0-105040212083,10.1109/ICOIN68469.2026.11480549,State-Verification in Asynchronous Blockchain-Driven Agentic AI Systems
+724,V2,2,2-s2.0-105047334651,10.1016/j.agsy.2026.104933,When the advisor is an algorithm: governing agri-food knowledge in the age of AI and misinformation
+811,V2;V2B,2,2-s2.0-105020820069,10.1145/3766882.3767179,Towards Safe Agentic AI Performance Engineering
+841,V2;V2B,2,2-s2.0-105040215900,10.18653/v1/2025.emnlp-main.892,Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent
+844,V2;V2B,2,2-s2.0-105021823681,10.1109/ICNC-FSKD67701.2025.11198022,A Framework for Open-Domain Entity Dynamic Tracking Powered by LLM Agents
+851,V2;V2B,2,2-s2.0-105036395130,10.1109/ICAIDES67265.2025.11404085,COSTAR: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workflows
+895,V2;V2B,2,2-s2.0-105010219519,,FROM COMMANDS TO PROMPTS: LLM-BASED SEMANTIC FILE SYSTEM FOR AIOS
+922,V2;V2B,2,2-s2.0-105037470818,10.1109/ICAISG68699.2025.11452134,Agentic AI in DevOps: Boosting Software Automation and Collaboration
+923,V2;V2B,2,2-s2.0-105044520064,10.1109/ICERCS65898.2025.11580555,A Modular Multi-Agent Framework for Trip Planning Using Agentic-AI and Google ADK
+928,V2;V2B,2,2-s2.0-105035765985,10.1109/AIoT66900.2025.00120,Using Sentinels and Digital Twins to Secure Agentic AI in IoT Systems

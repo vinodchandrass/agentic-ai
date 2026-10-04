@@ -1,0 +1,13 @@
+field,value
+C_total_control,280
+pre_v75_v74_controls,6
+v75_queue_records,274
+unique_v75_queue_EIDs_with_v76_v89_status,274
+provisional_status_counts_280,"{""ADJACENT"": 86, ""CORE"": 8, ""CORE_REVIEW"": 28, ""EXCLUDE"": 92, ""FULL_TEXT_PENDING"": 66}"
+FULL_TEXT_PENDING_remaining,66
+unresolved_without_any_status,0
+known_cross_version_conflicts_reconciled,4
+missing_frozen_artifact,"v75 three-record source adjudication: audit says CORE=2, ADJACENT=1 but identities are not available in recovered artifacts"
+master_status,PROVISIONAL_NOT_FROZEN
+freeze_blockers,Recover identities/labels of the 3 frozen v75 adjudications; resolve or formally disposition 66 FULL_TEXT_PENDING records with source-backed evidence.
+manuscript_status,DO_NOT_START

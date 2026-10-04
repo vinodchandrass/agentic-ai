@@ -1,0 +1,12 @@
+metric,value
+records,58
+unique_eids,58
+CORE,13
+CORE_REVIEW,45
+screening_status_mutations,0
+literal_MECHANISM_NOT_SPECIFIED_remaining,0
+literal_BOUNDARY_NOT_SPECIFIED_remaining,0
+explicit_evidence_gap_records,15
+taxonomy_freeze_state,FROZEN_v102
+sha256,4ba06e02ceef8515f977034c6022f881c7ed8732a635561eb678bda59de0ec76
+interpretation_rule,Evidence-gap categories are not mechanism prevalence and must be reported separately from primary mechanism families.

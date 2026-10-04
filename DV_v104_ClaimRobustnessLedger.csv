@@ -1,0 +1,6 @@
+claim_id,claim,evidence,risk_difference_pp,corrected_OR,fisher_p,robustness_interpretation
+C1,Deterministic/policy guardrails are more concentrated in CORE than CORE_REVIEW,7/13 vs 6/45,40.5,7.012,0.00496,ROBUST_DESCRIPTIVE; EXACT_TEST_SUPPORT
+C2,Trust/protocol governance is concentrated in CORE_REVIEW and absent from CORE,0/13 vs 12/45,-26.7,0.099,0.0505,"STRUCTURAL_ZERO_IN_CORE; INTERPRET AS EVIDENCE GAP, NOT PROOF OF IMPOSSIBILITY"
+C3,CORE evidence concentrates at proposal-to-validated-decision boundary,8/13 CORE,,,,ROBUST_WITHIN_FROZEN_TAXONOMY; DOWNSTREAM BOUNDARIES STILL REPRESENTED 5/13
+C4,Effect-to-verified/restored-state CORE evidence is absent,0/13 CORE,,,,ROBUST ZERO IN CURRENT CORE SET; DO NOT GENERALIZE BEYOND SEARCH/SCOPE
+C5,Secondary/contextual evidence lacks a primary validated mechanism,11/45 CORE_REVIEW,,,,ROBUST BY EXPLICIT EVIDENCE-GAP CODING; EXCLUDE FROM PRIMARY MECHANISM PREVALENCE

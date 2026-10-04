@@ -1,0 +1,7 @@
+source_class,preferred_source,location,status,rule
+Search/method standards,PRISMA/search-method sources,§3,Required,Use authoritative methodological sources.
+Decision-validity conceptual background,Primary/authoritative academic sources,§1-2,Required,Do not rely on practitioner sources for foundational claims if academic source exists.
+Closest competing frameworks,Original academic papers/reviews/standards,§2/§7,Required,Verify bibliographic metadata before manuscript insertion.
+Practitioner near-neighbors,Industry/practitioner sources,§2/§7,Selective,Use only to demonstrate operational convergence; not as primary scholarly novelty proof.
+All numerical review findings,Frozen v102-v105 analysis outputs,§4-8,Internal evidence,Numbers must match frozen result ledger exactly.
+Novelty statement,v106-v107 stress-test + verified related work,§1/§7,Required,Use 'to our knowledge' only after final bibliographic verification; avoid absolute first-ever claim.

@@ -1,0 +1,13 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION 194 preparation v29
+timestamp_utc,2026-10-03T01:41:43.554249+00:00
+input_d_recall_records,194
+publication_level_records,169
+container_or_proceedings_records,25
+publication_batch1_records,75
+publication_records_after_batch1,94
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+all_records_require_source_backed_evidence_before_eligibility,True
+corpus_status,NOT_FROZEN
+next_step,Run evidence recovery on the 75 publication-level Batch 1 records. Handle proceedings/container records separately as bibliographic units rather than treating their titles as study-level evidence.

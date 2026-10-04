@@ -1,0 +1,12 @@
+﻿field,value
+pipeline,DV targeted final-four resolution v28
+timestamp_utc,2026-10-03T01:36:59.693499+00:00
+records,4
+decision_counts,"{""UNCERTAIN"": 2, ""EXCLUDE"": 1, ""ADJACENT"": 1}"
+primary_core,0
+uncertain_retained_due_insufficient_evidence,2
+title_only_exclusions,0
+substitution_of_similarly_named_paper,False
+v25_targeted_queue_resolution_complete,True
+corpus_status,NOT_FROZEN
+next_step,"Aggregate v26-v28 targeted results, then return to the 194 D_RECALL_PROTECTION records and remaining unresolved corpus before final freeze."

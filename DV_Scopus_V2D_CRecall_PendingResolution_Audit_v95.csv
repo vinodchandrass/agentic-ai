@@ -1,0 +1,13 @@
+field,value
+v95_records_resolved,11
+pending_to_CORE,0
+pending_to_CORE_REVIEW,2
+pending_to_ADJACENT,8
+pending_to_EXCLUDE,1
+FULL_TEXT_PENDING_remaining,29
+status_counts_280,"{""ADJACENT"": 109, ""CORE"": 12, ""CORE_REVIEW"": 34, ""EXCLUDE"": 96, ""FULL_TEXT_PENDING"": 29}"
+unique_eids,280
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+manuscript_status,DO_NOT_START
+next_step,Resolve remaining 29 pending; prioritize governance/security/enterprise and then lower-signal general-recall records.

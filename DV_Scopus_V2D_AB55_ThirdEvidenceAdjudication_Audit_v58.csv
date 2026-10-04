@@ -1,0 +1,11 @@
+﻿field,value
+records_adjudicated_this_pass,2
+decision_counts,"{""ADJACENT"": 1, ""CORE"": 1}"
+primary_core,1
+adjacent,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,10
+AB55_remaining,45
+corpus_status,NOT_FROZEN
+next_step,"Continue source-backed adjudication of remaining A/B records, prioritizing authorization and runtime action-control papers."

@@ -1,0 +1,23 @@
+{
+  "pipeline": "DV Noncandidate C_RECALL_LOW adjudication v12",
+  "timestamp_utc": "2026-10-02T02:08:18.627143+00:00",
+  "input": "DV_Noncandidate_805_Abstract_Master_v10.csv",
+  "priority_scope": "C_RECALL_LOW",
+  "records_adjudicated": 71,
+  "screening_basis": "Actual title + recovered abstract where available; title-only records remain UNCERTAIN",
+  "frozen_core_rule": "CORE if the study substantively addresses preservation, verification, enforcement, or restoration of the validity of an agent's consequential decision/action across the decision-to-execution/effect boundary.",
+  "decision_counts": {
+    "ADJACENT": 26,
+    "EXCLUDE": 22,
+    "UNCERTAIN": 13,
+    "CORE": 8,
+    "CORE_REVIEW": 2
+  },
+  "primary_core_count": 8,
+  "core_review_count": 2,
+  "uncertain_due_to_missing_abstract": 13,
+  "automatic_eligibility_decisions": 0,
+  "reviews_mixed_with_primary_frequency_evidence": false,
+  "corpus_status": "NOT_FROZEN",
+  "next_step": "Recover evidence for 648 D_NO_SIGNAL/unresolved records and the 13 C_RECALL_LOW title-only UNCERTAIN records; do not treat signal absence as exclusion."
+}

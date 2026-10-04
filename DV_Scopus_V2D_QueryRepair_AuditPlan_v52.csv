@@ -1,0 +1,9 @@
+﻿field,value
+known_indexed_core_misses,3
+repair_families,3
+repair_strategy,Supplementary high-precision sensitivity family; do not replace V2/V2B.
+generic_terms_deliberately_not_added,"[""safe*"", ""trust*"", ""governance"", ""compliance"", ""valid*"", ""validation alone""]"
+required_sentinel_test,"[""Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric"", ""Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI"", ""Governed Agentic Cloud Data Pipelines with MCP Gateways"", ""IEIB / Intent-Execution Binding"", ""IBBC-Guard"", ""VeriAct-Agent"", ""AgentGuard""]"
+frontier_sentinels_handled_separately,"[""ATR / From Version Conflicts to Decision Conflicts"", ""Cordon"", ""TOCTOU agent work""]"
+freeze_rule,Do not freeze indexed search unless V2D retrieves all 3 known indexed misses or a documented indexing exception explains a miss; inspect V2D-only yield and screen mechanism-relevant records.
+corpus_status,NOT_FROZEN

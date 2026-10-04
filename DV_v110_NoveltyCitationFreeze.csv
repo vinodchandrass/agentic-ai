@@ -1,0 +1,11 @@
+candidate_claim,decision,basis
+First systematic review of Agentic AI,PROHIBITED,Moralles et al. 2026 already provides an Agentic AI SLR.
+First systematic review of Agentic AI governance,PROHIBITED,Raji & Bashir 2026 explicitly presents a systematic review of emerging Agentic AI governance.
+First lifecycle-aware framework for Agentic AI,PROHIBITED,Farooq et al. 2026 proposes a lifecycle-aware evaluation framework.
+First runtime governance framework for AI agents,PROHIBITED,Kaptein et al. 2026 formalizes runtime governance on execution paths.
+First authorization architecture for tool-using agents,PROHIBITED,Surapani et al. 2026 reviews and derives authorization architectures.
+First execution-time state revalidation mechanism,PROHIBITED,OpenPort includes execution-time State Witness revalidation.
+First concept of post-effect/outcome verification,PROHIBITED,IETF draft explicitly defines execution outcome verification as first-class.
+Decision-validity-specific systematic evidence mapping across consequential boundaries and evidence maturity,DEFENSIBLE_WITH_QUALIFICATION,"No equivalent found in this targeted verification; frame as the review's distinctive contribution, not an absolute first-ever claim."
+Quantified CORE vs CORE_REVIEW evidence gradient across validity loci,DEFENSIBLE_WITH_QUALIFICATION,Derived from frozen corpus; distinguish from general governance/evaluation lifecycle reviews.
+Empirical sparsity of post-effect closure within the frozen mechanism-focused synthesis set,DEFENSIBLE,Corpus-derived finding; scope explicitly to the 58-record synthesis set and frozen CORE definition.

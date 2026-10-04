@@ -1,0 +1,29 @@
+{
+  "pipeline": "DV Lower-Priority Recall Screen v7 corrected",
+  "timestamp_utc": "2026-10-01T16:54:39.360787+00:00",
+  "input_file": "DV_LowerPriority_Recall_Screen_v6.csv",
+  "records_readjudicated": 50,
+  "priority_scope": [
+    "C_MEDIUM",
+    "D_LOW"
+  ],
+  "screening_basis": "Actual record title + abstract; record-level semantic adjudication",
+  "frozen_core_rule": "CORE if the study substantively addresses preservation, verification, enforcement, or restoration of the validity of an agent's consequential decision/action across the decision-to-execution/effect boundary.",
+  "decision_counts": {
+    "EXCLUDE": 28,
+    "ADJACENT": 21,
+    "CORE": 1
+  },
+  "core_records": [
+    {
+      "eid": "2-s2.0-105047027538",
+      "doi": "10.3390/electronics15153452",
+      "title": "ReflectiChain: Mitigating Semantic-Execution Drift in Long-Horizon LLM Agents via Retrospective Reflection and Double-Loop Policy Adaptation"
+    }
+  ],
+  "automatic_eligibility_decisions": 0,
+  "v6_status": "SUPERSEDED_INVALID_FOR_AGGREGATION",
+  "v6_correction_reason": "Prior v6 assignments were not based on defensible record-level title/abstract adjudication.",
+  "corpus_status": "NOT_FROZEN",
+  "warning": "These 50 corrected decisions do not resolve the 805 title-level noncandidate recall problem or the unresolved-record/full-text problem."
+}

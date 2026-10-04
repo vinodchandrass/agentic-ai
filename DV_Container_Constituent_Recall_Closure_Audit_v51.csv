@@ -1,0 +1,13 @@
+﻿field,value
+unique_constituent_candidates_screened,31
+decision_counts,"{""EXCLUDE"": 11, ""ADJACENT"": 10, ""CORE"": 8, ""UNCERTAIN"": 2}"
+core_total,8
+new_core_absent_from_indexed_master,3
+new_core_titles,"[""Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric"", ""Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI"", ""Governed Agentic Cloud Data Pipelines with MCP Gateways""]"
+uncertain_remaining,2
+uncertain_titles,"[""Empowering Embodied Agents with Semantic Intelligence"", ""Development and Use of LLM-Agents to Automate Business Processes of a Smart Farm""]"
+title_only_exclusions,0
+all_20_unique_container_events_recall_checked,True
+container_stage_status,RECALL_CHECK_COMPLETE_BUT_NOT_FROZEN
+corpus_status,NOT_FROZEN
+next_step,Add the 3 genuinely new CORE constituent studies to the supplemental recall corpus; resolve the remaining constituent UNCERTAIN records where possible; then design a query-repair/sensitivity search around the mechanisms that caused the ICAISET misses before freezing the indexed search.

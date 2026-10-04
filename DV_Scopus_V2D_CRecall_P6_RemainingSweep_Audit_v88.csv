@@ -1,0 +1,13 @@
+field,value
+C_total_frozen,280
+v75_queue_rows,274
+P6_total_v75,99
+P6_examined_v87,40
+P6_remaining_processed_v88,59
+P6_queue_coverage_v87_plus_v88,99
+v88_status_counts,"{""ADJACENT"": 6, ""CORE_REVIEW"": 1, ""EXCLUDE"": 33, ""FULL_TEXT_PENDING"": 19}"
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+important_caveat,V88 deliberately retains operational/embodied contemporary agentic systems as FULL_TEXT_PENDING when publication metadata does not establish commit-boundary revalidation. No CORE assignments were inferred from titles.
+next_step,"P6 queue is now fully triaged at least once. Next recover stronger source/full-text evidence for FULL_TEXT_PENDING across v76-v88, reconcile all unique EIDs into one master, and only then determine remaining unresolved records and corpus-freeze readiness."

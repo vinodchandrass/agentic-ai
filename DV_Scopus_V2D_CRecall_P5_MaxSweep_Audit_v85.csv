@@ -1,0 +1,13 @@
+field,value
+C_total_frozen,280
+v75_queue_rows,274
+v74_already_adjudicated_before_queue,6
+v75_queue_plus_v74_control_total,280
+bookkeeping_note,The v75 queue intentionally contains 274 remaining records after six v74 adjudications; 280 remains the correct review-control denominator.
+v85_records_statused,30
+v85_status_counts,"{""ADJACENT"": 8, ""CORE_REVIEW"": 6, ""EXCLUDE"": 13, ""FULL_TEXT_PENDING"": 3}"
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+key_method_note,"Running cumulative counts from v79-v84 contained duplicate-status arithmetic. From v85 onward, cumulative progress must be computed by unique EID union across frozen adjudication files, not by summing batch sizes."
+next_step,"Continue remaining P5, then P3/P6; materialize/recover v74-v78 adjudication files to produce an exact unique-EID cumulative reconciliation before corpus freeze."

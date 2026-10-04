@@ -1,0 +1,13 @@
+﻿field,value
+pipeline,DV targeted authoritative-web resolution second batch v27
+timestamp_utc,2026-10-03T01:31:38.299425+00:00
+records_resolved_this_batch,23
+decision_counts,"{""EXCLUDE"": 11, ""ADJACENT"": 8, ""CORE"": 3, ""CORE_REVIEW"": 1}"
+primary_core_this_batch,3
+core_reviews_this_batch,1
+total_v25_resolved_after_v26_v27,33
+remaining_unresolved_v25_records,4
+remaining_indices,"[1, 12, 15, 26]"
+automatic_eligibility_decisions,0
+corpus_status,NOT_FROZEN
+next_step,"Resolve the final 4 v25 records with publisher/full-text/author evidence; if evidence remains insufficient, retain as UNCERTAIN rather than title-based exclusion."

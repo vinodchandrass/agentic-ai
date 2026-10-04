@@ -1,0 +1,11 @@
+﻿field,value
+records_adjudicated_this_pass,2
+decision_counts,"{""ADJACENT"": 2}"
+primary_core,0
+adjacent,2
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,17
+AB55_remaining,38
+corpus_status,NOT_FROZEN
+next_step,"Continue source-backed adjudication of the remaining A/B records; prioritize dynamic policy generation and records with explicit pre-execution validation, authorization, state checks, or recovery."

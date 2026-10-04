@@ -1,0 +1,11 @@
+﻿field,value
+records_processed_this_pass,26
+decision_counts,"{""EXCLUDE"": 10, ""ADJACENT"": 8, ""UNCERTAIN"": 7, ""CORE_REVIEW"": 1}"
+primary_core,0
+core_reviews,1
+uncertain,7
+remaining_unprocessed_from_v38_unresolved,0
+title_only_exclusions,0
+screening_rule_changed,False
+corpus_status,NOT_FROZEN
+next_step,Aggregate v39+v40+v41 into the corrected 93-unique-record second D_RECALL publication batch; retain the 7 UNCERTAIN records for later full-text resolution.

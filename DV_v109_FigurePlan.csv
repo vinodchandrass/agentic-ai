@@ -1,0 +1,6 @@
+figure,title,location,evidence,design_guardrail
+Figure 1,PRISMA / screening flow,Methodology,Frozen identification/screening counts,Must preserve frozen denominators; no reconstruction from memory.
+Figure 2,Decision-validity mechanism landscape,Results §4,Mechanism prevalence by CORE vs CORE_REVIEW,Multi-label grouped bars or dot plot; explicit denominators.
+Figure 3,Mechanism × validity-locus evidence matrix,Results §5,Mechanism-boundary incidence,Cell = unique records; separate evidence gaps from mechanisms.
+Figure 4,Evidence-mapped Decision-Validity Architecture,Discussion §7,L1 Decision validation → L2 authority → L3 trusted context/capability → L4 commit/execution → L5 post-effect closure,"Show evidence density on loci; label as synthesis architecture, not causal proof."
+Figure 5,Evidence gradient / research-priority map,Discussion §7,CORE/CORE_REVIEW density and identified gaps across loci,Emphasize L5 sparse demonstrated evidence; avoid implying downstream absence generally.

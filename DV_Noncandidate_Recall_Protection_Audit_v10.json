@@ -1,0 +1,29 @@
+{
+  "pipeline": "DV Noncandidate Recall Protection v10",
+  "timestamp_utc": "2026-10-01T20:06:14.236588+00:00",
+  "input_file": "D:\\ACM\\DV_All_993_Coded_v1.csv",
+  "input_records": 993,
+  "title_level_noncandidates": 805,
+  "title_level_nonselection_is_exclusion": false,
+  "records_with_recovered_abstract": 157,
+  "records_still_unresolved": 648,
+  "abstract_recovery_rate": 0.195,
+  "source_counts": {
+    "CROSSREF_DOI": 728,
+    "UNRESOLVED": 71,
+    "CROSSREF_TITLE": 6
+  },
+  "doi_disagreements": 6,
+  "priority_counts": {
+    "D_NO_SIGNAL": 710,
+    "C_RECALL_LOW": 71,
+    "A_RECALL_HIGH": 17,
+    "B_RECALL_MEDIUM": 7
+  },
+  "high_medium_manual_queue": 24,
+  "synthetic_abstracts": false,
+  "automatic_eligibility_decisions": 0,
+  "manual_screen_required": true,
+  "corpus_status": "NOT_FROZEN",
+  "warning": "Recall priority is a screening aid only. D_NO_SIGNAL is not an exclusion. Unresolved records require later metadata/full-text handling."
+}

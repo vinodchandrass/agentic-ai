@@ -1,0 +1,13 @@
+﻿field,value
+C_total,280
+C_records_with_status_before_v78,19
+records_statused_v78,6
+v78_status_counts,"{""ADJACENT"": 3, ""CORE"": 2, ""FULL_TEXT_PENDING"": 1}"
+C_records_with_status_cumulative,25
+C_remaining_without_status,255
+title_only_exclusions,0
+screening_rule_changed,False
+new_primary_core_v78,2
+corpus_status,NOT_FROZEN
+key_mechanism_finding,"CORE evidence now spans both remediation/post-action validation (ARM) and execution-time consent/authority gating (Privacy-by-Design MAS), strengthening the emerging lifecycle interpretation of decision validity."
+next_step,"Continue larger evidence-backed batches, prioritizing remaining P1/P2 plus high-signal P4 state-changing-domain records. Keep insufficient-method records FULL_TEXT_PENDING rather than forcing decisions."

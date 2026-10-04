@@ -1,0 +1,15 @@
+field,value
+v97_records_resolved,9
+pending_to_CORE,0
+pending_to_CORE_REVIEW,4
+pending_to_ADJACENT,5
+pending_to_EXCLUDE,0
+FULL_TEXT_PENDING_remaining,0
+unique_eids,280
+status_counts_280,"{""ADJACENT"": 124, ""CORE"": 12, ""CORE_REVIEW"": 46, ""EXCLUDE"": 98}"
+title_only_exclusions,0
+C_pending_resolution,COMPLETE
+v75_identity_reconciliation,REMAINING_BLOCKER
+corpus_status,NOT_FROZEN
+manuscript_status,DO_NOT_START
+next_step,"Recover/reconcile exact identities of the three v75 adjudications (2 CORE, 1 ADJACENT) against the 280-EID v97 master before freezing C_RECALL_PROTECTION."

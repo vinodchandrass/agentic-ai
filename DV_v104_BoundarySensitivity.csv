@@ -1,0 +1,4 @@
+set,N,proposal_to_validated_n,proposal_pct,downstream_consequential_n,downstream_pct,boundary_gap_n,boundary_gap_pct
+CORE_ONLY_13,13,8,61.5,5,38.5,0,0.0
+CORE_PLUS_REVIEW_58,58,20,34.5,25,43.1,13,22.4
+PRIMARY_MECHANISM_ONLY_47,47,18,38.3,25,53.2,4,8.5

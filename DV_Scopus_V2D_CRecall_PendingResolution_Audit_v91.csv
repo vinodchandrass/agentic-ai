@@ -1,0 +1,10 @@
+field,value
+records_deep_resolved_v91,3
+pending_to_adjacent,1
+pending_to_core_review,1
+new_core,0
+provisional_280_status_counts_after_v91,"{""ADJACENT"": 87, ""CORE"": 8, ""CORE_REVIEW"": 29, ""EXCLUDE"": 92, ""FULL_TEXT_PENDING"": 64}"
+FULL_TEXT_PENDING_remaining,64
+v75_three_record_identity_file,NOT_RECOVERED; audit-only evidence remains
+corpus_status,NOT_FROZEN
+next_step,Continue larger pending-resolution batch; prioritize remaining P3 security and P1/P4/P5 operational-action cases. Recover v75 three-record identities if artifact becomes available.

@@ -1,0 +1,15 @@
+﻿field,value
+records_adjudicated_this_pass,3
+decision_counts,"{""ADJACENT"": 2, ""EXCLUDE"": 1}"
+primary_core,0
+adjacent,2
+exclude,1
+uncertain,0
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,41
+AB55_remaining,14
+corpus_status,NOT_FROZEN
+uncertain_total_in_AB55_so_far,4
+uncertain_records_note,"Agentic-IoT dynamic policy (v63), Localized Diffusion Repair (v66), NECB building-energy modification (v68), and Trust-as-a-Service (v69) require fuller evidence."
+next_step,"Continue the remaining 13 A/B records. Prioritize 6G control-plane orchestration, RMAS real-time supply-chain risk management, and any remaining runtime/monitoring/feedback mechanisms; then perform targeted evidence recovery for all four UNCERTAIN records."

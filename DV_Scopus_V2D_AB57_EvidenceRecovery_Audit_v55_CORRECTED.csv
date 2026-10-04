@@ -1,0 +1,14 @@
+﻿field,value
+input_v2d_only,337
+ab_evidence_queue,57
+A_REPAIR_HIGH,3
+B_REPAIR_MEDIUM,54
+known_repair_controls_inside_AB57,2
+new_discovery_records_inside_AB57,55
+three_repair_controls_present_in_full_337,3
+repair_controls_outside_AB57,1
+automatic_eligibility_decisions,0
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+method_note,Priority is a retrieval-order heuristic only. A known CORE control outside A/B must be carried explicitly into the evidence-control set rather than treated as low relevance.
+next_step,Recover evidence for the AB57 records and explicitly carry any repair control outside AB57 into the control set; then adjudicate evidence-resolved new discovery records.

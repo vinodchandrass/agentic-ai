@@ -1,0 +1,5 @@
+eid,resolution,basis
+2-s2.0-105043410571,PRESERVE v76 EXCLUDE over v79 FULL_TEXT_PENDING,explicit v79→v80 reconciliation
+2-s2.0-105046360728,PRESERVE v79 ADJACENT over v86 EXCLUDE,earlier source-backed frozen decision; v86 broad triage must not override
+2-s2.0-105043753706,v89 ADJACENT supersedes v87 FULL_TEXT_PENDING,explicit stronger-evidence pending resolution
+2-s2.0-105037426584,v89 ADJACENT supersedes v87 FULL_TEXT_PENDING,explicit stronger-evidence pending resolution

@@ -1,0 +1,11 @@
+﻿field,value
+records_adjudicated_this_pass,2
+decision_counts,"{""CORE"": 1, ""EXCLUDE"": 1}"
+primary_core,1
+exclude,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,15
+AB55_remaining,40
+corpus_status,NOT_FROZEN
+next_step,"Continue evidence-based adjudication of the remaining A/B records. Prioritize records involving dynamic MCP policy generation, runtime authorization, action gating, state/context change, and recovery."

@@ -1,0 +1,15 @@
+﻿field,value
+pipeline,DV v20 recovered 68 semantic adjudication v21
+records_adjudicated,68
+primary_core_count,16
+core_review_count,2
+adjacent_count,26
+exclude_count,24
+uncertain_count,0
+doi_disagreements_in_v20,0
+automatic_eligibility_decisions,0
+reviews_mixed_with_primary_frequency_evidence,False
+frozen_rule_changed,False
+remaining_fulltext_metadata_queue,241
+corpus_status,NOT_FROZEN
+next_step,Prioritize and retrieve evidence for the 241 remaining fulltext/metadata records; do not treat them as exclusions.

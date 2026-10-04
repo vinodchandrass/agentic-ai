@@ -1,0 +1,2 @@
+eid,title,frozen_prior_version,frozen_prior_decision,conflicting_later_entry,resolution,reason
+2-s2.0-105043410571,A Secure Multi-Agentic Intelligent Internet of Medical Things Framework for Multimodal Dyslexia Screening,v76,EXCLUDE,v79 FULL_TEXT_PENDING,PRESERVE_V76_EXCLUDE,v76 was already a source-backed validated adjudication. v79 duplicate must not override a frozen prior screening decision.

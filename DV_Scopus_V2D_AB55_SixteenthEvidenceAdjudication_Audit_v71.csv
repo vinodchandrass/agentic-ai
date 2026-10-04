@@ -1,0 +1,17 @@
+﻿field,value
+records_adjudicated_this_pass,10
+decision_counts,"{""EXCLUDE"": 5, ""ADJACENT"": 3, ""CORE_REVIEW"": 1, ""UNCERTAIN"": 1}"
+primary_core,0
+core_review,1
+adjacent,3
+exclude,5
+uncertain,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,55
+AB55_remaining_unadjudicated,0
+AB55_uncertain_total,4
+corpus_status,NOT_FROZEN
+stage_note,All 55 AB new-discovery records now have an adjudication status. AB55 is not closed/frozen because four UNCERTAIN records require targeted evidence recovery.
+uncertain_set,Agentic-IoT dynamic QoS/security policy; Localized Diffusion Repair; NECB building-energy modification; Developing Multimodal Human-AI Interaction Systems.
+next_step,Targeted evidence recovery for the four UNCERTAIN AB55 records; then consolidate v56-v71 into one auditable AB55 master and close this screening stratum if all uncertainties are resolved or formally retained.

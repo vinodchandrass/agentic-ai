@@ -1,0 +1,22 @@
+{
+  "pipeline": "DV final unresolved evidence recovery v20",
+  "timestamp_utc": "2026-10-02T16:31:21.957444+00:00",
+  "input_records": 309,
+  "recovered_abstracts": 68,
+  "fulltext_or_metadata_queue": 241,
+  "recovery_rate": 0.2201,
+  "source_counts": {
+    "NO_ABSTRACT": 241,
+    "SEMANTIC_SCHOLAR_DOI": 58,
+    "SEMANTIC_SCHOLAR_TITLE": 7,
+    "ARXIV_TITLE": 2,
+    "CROSSREF_TITLE": 1
+  },
+  "oa_evidence_urls_for_remaining": 0,
+  "doi_disagreements": 0,
+  "synthetic_abstracts": false,
+  "automatic_eligibility_decisions": 0,
+  "title_only_exclusion": false,
+  "corpus_status": "NOT_FROZEN",
+  "warning": "No unresolved record is excluded. Recovered abstracts require semantic adjudication; remaining records require metadata/full-text review."
+}

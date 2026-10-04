@@ -1,0 +1,11 @@
+﻿field,value
+pipeline,DV D_RECALL_PROTECTION Batch1 targeted resolution third pass v34
+timestamp_utc,2026-10-03T03:49:52.323985+00:00
+records_resolved_this_pass,8
+decision_counts,"{""ADJACENT"": 6, ""EXCLUDE"": 2}"
+primary_core,0
+core_reviews,0
+remaining_after_v32_v33_v34,20
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Continue authoritative-source resolution for the remaining 20 v30-unresolved records.

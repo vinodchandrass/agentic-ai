@@ -1,0 +1,14 @@
+﻿field,value
+records_adjudicated_this_pass,4
+decision_counts,"{""ADJACENT"": 3, ""EXCLUDE"": 1}"
+primary_core,0
+adjacent,3
+exclude,1
+title_only_exclusions,0
+screening_rule_changed,False
+AB55_adjudicated_cumulative,45
+AB55_remaining,10
+AB55_uncertain,3
+corpus_status,NOT_FROZEN
+correction_note,"A failed preliminary v70 attempt targeted C_RECALL_PROTECTION records (6G control plane, RMAS, Tidy3D), which are not in AB55. They were not added to AB55 counts. This CORRECTED v70 contains only genuine remaining AB55 records."
+next_step,"Adjudicate the remaining 10 AB55 records, then perform targeted evidence recovery for the three UNCERTAIN AB55 records before AB55 closure."

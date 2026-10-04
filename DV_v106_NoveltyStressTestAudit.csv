@@ -1,0 +1,8 @@
+metric,value
+novelty_gate,PASS_WITH_REPOSITIONING
+five_locus_sequence_novelty,NOT_DEFENSIBLE
+post_effect_verification_concept_novelty,NOT_DEFENSIBLE
+systematic_evidence_mapping_novelty,DEFENSIBLE_CANDIDATE
+evidence_gradient_novelty,DEFENSIBLE_CANDIDATE
+recommended_contribution,Evidence-mapped Decision-Validity Architecture + quantitative evidence-gradient/gap synthesis
+manuscript_drafting_gate,NOT_YET; first freeze novelty positioning and map closest academic competitors into related-work evidence table

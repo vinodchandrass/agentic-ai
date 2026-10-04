@@ -1,0 +1,13 @@
+﻿field,value
+batch1_records,75
+batch2_records,93
+combined_records,168
+cross_batch_identity_collisions,0
+decision_counts,"{""ADJACENT"": 66, ""EXCLUDE"": 57, ""CORE"": 24, ""UNCERTAIN"": 13, ""CORE_REVIEW"": 8}"
+primary_core,24
+core_reviews,8
+adjacent,66
+exclude,57
+uncertain,13
+corpus_status,NOT_FROZEN
+next_step,Handle the 25 D_RECALL container/proceedings records bibliographically; do not treat containers as primary studies. Then resolve remaining UNCERTAIN records and proceed to broader corpus reconciliation.

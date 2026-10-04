@@ -1,0 +1,14 @@
+﻿field,value
+C_RECALL_PROTECTION_total,280
+records_adjudicated_this_pass,6
+decision_counts,"{""CORE"": 4, ""ADJACENT"": 1, ""EXCLUDE"": 1}"
+core_this_pass,4
+adjacent_this_pass,1
+exclude_this_pass,1
+C_remaining,274
+title_only_exclusions,0
+screening_rule_changed,False
+control_recall_result,PASS: known Identity Fabric CORE control recovered in C_RECALL_PROTECTION.
+important_finding,C_RECALL_PROTECTION contains multiple plausible/confirmed CORE mechanisms; no bulk title-level exclusion is permissible.
+corpus_status,NOT_FROZEN
+next_step,Partition the remaining C records by mechanism signals (gating/authorization/policy; monitoring/revalidation/recovery; state-changing domain; attack-only/tool-selection; capability/integration) and begin evidence recovery from the highest-recall strata. Preserve all records until evidence-based adjudication.

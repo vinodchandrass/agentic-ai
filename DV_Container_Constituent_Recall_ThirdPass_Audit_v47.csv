@@ -1,0 +1,11 @@
+﻿field,value
+conference_events_checked_this_pass,"[""ICIC 2026"", ""ICPR 2026"", ""NETYS 2025""]"
+constituent_candidates_screened,3
+decision_counts,"{""UNCERTAIN"": 1, ""ADJACENT"": 1, ""EXCLUDE"": 1}"
+primary_core,0
+already_present_in_full_indexed_master,1
+new_constituent_candidates_not_in_full_indexed_master,2
+icpr_2026_note,Official 714-paper proceedings scope/TOC checked; no constituent candidate sufficiently aligned with the decision-validity mechanism was identified in this pass.
+title_only_exclusions,0
+corpus_status,NOT_FROZEN
+next_step,Resolve LatentReAct with abstract/full text because its verification framing could move it to CORE; continue remaining container events and then close the container-recall audit.

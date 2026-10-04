@@ -1,0 +1,13 @@
+field,value
+source_master,DV_Scopus_V2D_CRecall_FrozenMaster_v98
+source_rows,280
+source_unique_eids,280
+CORE_records,13
+CORE_REVIEW_records,45
+taxonomy_records,58
+unique_taxonomy_eids,58
+screening_classification_mutations,0
+mechanism_unspecified_records,21
+boundary_unspecified_records,19
+taxonomy_status,PROVISIONAL_DOWNSTREAM_CODING_REQUIRES_RECORD_LEVEL_QA
+next_step,Record-level QA of mechanism coding; manually verify ambiguous/unspecified cases against frozen evidence and source texts before quantitative synthesis.
