@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and repository release."
+title: "Decision Validity in Agentic AI: Reproducibility Materials"
+type: dataset
+authors:
+  - family-names: "S. S."
+    given-names: "Vinod Chandra"
+    affiliation: "Department of Computer Science, University of Kerala, Thiruvananthapuram, Kerala, India"
+    email: "vinod@keralauniversity.ac.in"
+
+repository-code: "https://github.com/vinodchandrass/agentic-ai"
+url: "https://github.com/vinodchandrass/agentic-ai"
+
+version: "0.1.0"
+date-released: "2026-10-07"
+
+abstract: >-
+  Reproducibility materials supporting the systematic survey
+  "Decision Validity in Agentic AI: A Systematic Survey of Validity
+  Mechanisms Across Consequential Action Boundaries." The repository
+  contains frozen screening records, the 58-record mechanism-focused
+  evidence inventory, mechanism and boundary coding, quantitative
+  synthesis outputs, robustness analyses, supplementary materials,
+  and supporting verification resources.
+
+keywords:
+  - agentic AI
+  - decision validity
+  - assurance mechanisms
+  - consequential action boundaries
+  - evidence maturity
+  - systematic survey
+  - reproducibility
