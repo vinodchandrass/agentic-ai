@@ -1,0 +1,59 @@
+doi,title,screening_status,present_in_current_bib_by_doi
+10.1109/ICAISET66439.2026.11541783,"Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric",CORE,False
+10.1109/IWCMC69287.2026.11580069,"An Agentic AI Control Plane for 6G Network Slice Orchestration, Monitoring, and Trading",CORE,False
+10.1109/EMR.2026.3698246,"RMAS: Risk Mitigation Agent System, An Autonomous Framework for Real-Time Supply Chain Risk Management",CORE,False
+10.1109/ACCESS.2026.3690467,Bounded LLM Orchestration With Deterministic Safety Gates for Concentrated Liquidity Management,CORE,True
+10.1016/j.jisa.2026.104645,"Security threat modeling for emerging AI-agent protocols: A comparative analysis of MCP, A2A, agora, and ANP",CORE_REVIEW,False
+10.1145/3838457.3838551,Security Challenges and Protection Strategies for Industrial AI Agents: A Comprehensive Survey,CORE_REVIEW,False
+10.1016/j.compenvurbsys.2026.102449,Towards fully automated city operations: Integrating agentic AI with urban digital twins,CORE_REVIEW,False
+10.3390/fi18080393,"Large Language Models for Future Internet Ecosystems: A Taxonomy-Based Review of Smart IoT, Edge Intelligence, and Autonomous AI",CORE_REVIEW,False
+10.1145/3785462.3815825,Hello Computer: HPC in the Agentic Era,CORE_REVIEW,False
+10.51483/IJAIML.6.5s.2026.426-434,Reusable Agentic Infrastructure: A Component Architecture for Scalable Multi-Agent System Deployment in Enterprise Environments,CORE_REVIEW,False
+10.3389/frai.2026.1814651,Agentic AI systems in electrical power systems engineering: current state-of-the-art and challenges,CORE_REVIEW,False
+10.1016/j.fsidi.2026.302130,With or without logs: Memory forensic reconstruction of Model Context Protocol (MCP) activity in agentic LLM systems,CORE_REVIEW,False
+10.3390/app16115545,Automatic Fault Detection and Diagnosis in ROS-Based Robotic Systems Using Generative AI: A Systematic Literature Review,CORE_REVIEW,False
+10.1145/3786161.3788462,Developer Challenges in the Adoption of Model Context Protocol in AI Agent Development,CORE_REVIEW,False
+10.3389/frai.2026.1820375,Building MCP-native hierarchical AI scientist ecosystems: a perspective on scaling multi-agent scientific discovery,CORE_REVIEW,False
+10.1109/JIOT.2025.3648858,ARM: Autonomous Remediation and Management With LLM Agents for Intent-Driven Control,CORE,False
+10.3390/fi18050243,The Trustworthy Model Context Protocol (MCP) Registry: An Architectural Blueprint for Cryptographic Provenance and Runtime Integrity,CORE,False
+10.3390/mps9020033,A Review of Multi-Agent AI Systems for Biological and Clinical Data Analysis,CORE_REVIEW,False
+10.3788/LOP252270,Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design (Invited),CORE_REVIEW,False
+10.1016/j.patter.2026.101496,Agentic AI as a coordination paradigm in digital health and agri-food systems,CORE_REVIEW,False
+10.3390/app16042157,Privacy-by-Design in AI-Assisted Systems for Caregivers of Children with Autism: A Secure Multi-Agent Architecture,CORE,True
+10.1109/CSCWD68734.2026.11582512,When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents,CORE_REVIEW,False
+10.1109/NetSoft70012.2026.11603422,An Agentic Framework for Intent Co-Creation in 6G NaaS: Architecture and Open-Source Model Evaluation,CORE_REVIEW,False
+10.1007/978-3-032-06665-7_40,Agentic AI with Model Context Protocol,CORE_REVIEW,False
+10.1109/ICICDS70526.2026.11604962,Model Context Protocol (MCP) and Agent-to-Agent (A2A) Protocol for Scalable Agentic AI Systems,CORE_REVIEW,False
+10.1109/AIIoT68874.2026.11569555,From Code Understanding to Multi-Agent Collaboration: A Layered Protocol Stack for Modern AI Intelligent Systems,CORE_REVIEW,False
+10.1109/SoutheastCon63549.2026.11476405,Operationalizing Multi-Agent Interoperability via Contract-Driven Model Context Protocols,CORE_REVIEW,False
+10.1109/IC3ET64989.2026.11467510,"Towards Explainable Agentic Intelligence: A LangGraph-MCP Hybrid Framework for Scalable, Fair, and Self-Improving Multi-Agent Systems",CORE_REVIEW,False
+10.1109/SoutheastCon63549.2026.11476668,Synergetic Adaptive Orchestration and Governance: A Unified Framework for Production-Grade Multi-Agent Systems,CORE_REVIEW,False
+10.1109/ICAD69378.2026.11608918,Agent-to-Agent -MCP Architecture for Intelligent Enterprise Payroll Management,CORE_REVIEW,False
+10.1007/978-3-032-15632-7_5,HADA: Human-AI Agent Decision Alignment Architecture,CORE_REVIEW,False
+10.1109/ICICI68773.2026.11580474,Integrated Framework for Secure Communication among Multiple Agents using MCP and A2A,CORE_REVIEW,False
+10.1109/ACCESS.2026.3698694,From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review,CORE_REVIEW,False
+10.1201/9781003506348-3,Agentic Workflows and Multi-Agent Systems: Platforms and Protocols in 2025,CORE_REVIEW,False
+10.4018/979-8-2600-2601-4.ch004,"Agentic AI and Autonomous Systems: Architectures, Ethics, and Real-World Deployments in the Quantum Era - From LLM Agents to Quantum AI Systems",CORE_REVIEW,False
+10.1109/AICCONF69182.2026.11600651,Preventing Wrong Work Item Retrieval in LLM-Based MCP Systems Through Multi-Agent Validation,CORE_REVIEW,False
+10.5220/0014358600004052,Self-Healing OCR Pipelines: A Modular Defense Framework against Visual and Semantic Attacks,CORE_REVIEW,False
+10.1016/j.procs.2026.06.238,A Comprehensive Survey on AI Agents and Cryptography,CORE_REVIEW,False
+10.1109/ICBDSE70225.2026.11635740,Protocol-Driven Multi-Agent Orchestration for Federated Distributed Analytics,CORE_REVIEW,False
+10.1007/978-3-032-25631-7_32,"Auditing, Mitigating, and Ensuring Accountability for Poisoning Attacks in Multi-modal Agent Systems Using MCP Servers",CORE_REVIEW,False
+10.1109/CAIBDA70336.2026.11621400,Defense Against Retrieval Injection Attacks in MCP-based LLM Agents,CORE_REVIEW,False
+10.1007/978-981-95-4674-9_17,Supply Chain Threats in the MCP Ecosystem: Attack Vectors and Mitigation Strategies,CORE_REVIEW,False
+10.1109/ACCESS.2026.3681621,An Ontology-Driven MCP Agent Framework for Ensuring Integrity in Architectural Structural Design,CORE,True
+10.1109/SoutheastCon63549.2026.11476087,Autonomous Reliability Engineering: A Scalable Agentic AI Framework for Enterprise Infrastructure Support,CORE_REVIEW,False
+10.1109/DSN-S70715.2026.00036,AEGIS: Preventing Cross-Domain Resource Abuse in MCP,CORE,True
+10.1109/ACCESS.2026.3653992,HARMONY: A Framework for Multimodal LLM-Powered AI Agents in Smart Homes via the Model Context Protocol,CORE,True
+10.5220/0014939700004018,Robust Agentic AI: An Architectural Framework Using MCP and Deterministic Safety Guardrails in the Context of Mining in Industry 4.0,CORE,True
+10.1109/BDAI70753.2026.11655096,Software Physics: Conservation Laws for Safe Agentic AI-Driven Code Evolution,CORE,False
+10.1007/978-981-95-1361-1_45,"An Intelligent Plug-In Playable Orchestration Model that Combines Gen-AI Prompting, RAG and Agentic AI for Efficient Cybersecurity Operations",CORE_REVIEW,False
+10.3390/app152111515,"Toward Autonomous LLM-Based AI Agents for Predictive Maintenance: State of the Art, Challenges, and Future Perspectives",CORE_REVIEW,False
+,MES meets the future,CORE_REVIEW,False
+10.3390/info16080651,Personalized Constitutionally-Aligned Agentic Superego: Secure AI Behavior Aligned to Diverse Human Values,CORE,True
+,"Converging Hypermedia, Protocols, and Knowledge Architectures: A New Paradigm for Grounded and Interoperable LLM-Agent Systems",CORE_REVIEW,False
+10.1109/EmergIN67762.2025.11450575,A Comprehensive Study and Implementation of Agentic AI via MCP Servers,CORE_REVIEW,False
+10.1109/RAAI67517.2025.11423310,Facilitating Shared Introspection in Hierarchical Multi-Agent Systems Using the Model Context Protocol,CORE_REVIEW,False
+10.1109/ACAI68217.2025.11406667,A Comprehensive Security Framework for the Model Context Protocol (MCP) in Multi-Agent AI Systems,CORE_REVIEW,False
+10.18653/v1/2025.emnlp-demos.51,LLM×MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System,CORE_REVIEW,False
+10.1109/MetaCom65502.2025.00070,Bridging Real and Virtual Worlds: A Blockchain-IoT-Agent Framework for the Metaverse,CORE_REVIEW,False
